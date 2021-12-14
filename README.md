@@ -165,6 +165,26 @@ Maintainers: [Kim Hammar](https://github.com/Limmen)
   </tbody>
 </table>
 
+### `sql_env`
+
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/sql_env.png' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/manuel-delverme/sql_env'>sql_env</a>
+        <ul>
+          <li>          
+          Paper: <a href="https://link.springer.com/chapter/10.1007/978-3-030-91625-1_6">(2021) SQL Injections and Reinforcement Learning: An Empirical Evaluation of the Role of Action Structure</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
