@@ -28,7 +28,7 @@ Maintainers: [Kim Hammar](https://github.com/Limmen)
   <tbody>
     <tr>
       <td width='50%' align='center'>
-        <img src=gifs/gym_idsgame.gif' width=300 />
+        <img src='gifs/gym_idsgame.gif' width=300 />
       </td>
       <td width='50%'>
         <a href='https://github.com/Limmen/gym-idsgame'>gym-idsgame</a>
@@ -48,7 +48,7 @@ Maintainers: [Kim Hammar](https://github.com/Limmen)
   <tbody>
     <tr>
       <td width='50%' align='center'>
-        <img src=imgs/malware_env.png' width=300 />
+        <img src='imgs/malware_env.png' width=300 />
       </td>
       <td width='50%'>
         <a href='https://github.com/endgameinc/gym-malware'>gym-malware</a>
