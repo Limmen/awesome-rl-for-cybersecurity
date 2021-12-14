@@ -10,7 +10,10 @@ For other related curated lists, see :
 
 We are looking for more contributors and maintainers! Contact kimham@kth.se if you are interested to become a maintainer. 
 
-Maintainers: [Kim Hammar](https://github.com/Limmen)
+Maintainers: 
+
+- [Kim Hammar](https://github.com/Limmen), KTH Royal Institute of Techhology, Sweden.
+- [Lisa Oakley](https://github.com/lisaoakley), Northeastern University, USA. 
 
 ## Table of Contents
 
