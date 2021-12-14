@@ -10,10 +10,11 @@ For other related curated lists, see :
 
 We are looking for more contributors and maintainers! Contact kimham@kth.se if you are interested to become a maintainer. 
 
-Maintainers: 
+Maintainers/Contributors: 
 
 - [Kim Hammar](https://github.com/Limmen), KTH Royal Institute of Techhology, Sweden.
-- [Lisa Oakley](https://github.com/lisaoakley), Northeastern University, USA. 
+- [Lisa Oakley](https://github.com/lisaoakley), Northeastern University, USA.
+- [Manuel Del Verme](https://github.com/manuel-delverme), Quebec Artificial Intelligence Institute, Canada. 
 
 ## Table of Contents
 
