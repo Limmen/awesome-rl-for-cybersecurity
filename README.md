@@ -123,7 +123,7 @@ Maintainers: [Kim Hammar](https://github.com/Limmen)
     </tr>
   </tbody>
 </table>
-
+### `gym-optimal-intrusion-response`
 <table>
   <tbody>
     <tr>
