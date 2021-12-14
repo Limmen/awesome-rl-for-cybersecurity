@@ -43,7 +43,7 @@ Maintainers: [Kim Hammar](https://github.com/Limmen)
   </tbody>
 </table>
 
-### `CyberBattleSim`
+### `CyberBattleSim` (Microsoft)
 <table>
   <tbody>
     <tr>
@@ -55,7 +55,7 @@ Maintainers: [Kim Hammar](https://github.com/Limmen)
         <ul>
           <li>
             CyberBattleSim is an experimentation research platform to investigate the interaction of automated agents operating in a simulated abstract enterprise network environment. The simulation provides a high-level abstraction of computer networks and cyber security concepts. Its Python-based Open AI Gym interface allows for the training of automated agents using reinforcement learning algorithms.
-            Paper: <a href="https://www.microsoft.com/security/blog/2021/04/08/gamifying-machine-learning-for-stronger-security-and-ai-models/">(2021) Gamifying machine learning for stronger security and AI models</a>
+            Blogpost: <a href="https://www.microsoft.com/security/blog/2021/04/08/gamifying-machine-learning-for-stronger-security-and-ai-models/">(2021) Gamifying machine learning for stronger security and AI models</a>
           </li>
         </ul>
       </td>
