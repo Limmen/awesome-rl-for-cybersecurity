@@ -21,7 +21,7 @@ Maintainers: [Kim Hammar](https://github.com/Limmen)
  - [Talks](#-talks) 
  - [Miscellaneous](#-miscellaneous)
 
-## [↑](#table-of-contents) Open-Source Environments
+## [↑](#table-of-contents) Environments
 
 ### `gym-idsgame`
 <table>
