@@ -1,28 +1,28 @@
 # Awesome Reinforcement Learning for Cyber Security [![Awesom](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of resources dedicated to reinforcement learning applied to cyber security. 
+A curated list of resources dedicated to reinforcement learning applied to cyber security.
 Note that the list includes only work that uses reinforcement learning, general machine learning methods applied to cyber security are not included in this list.
 
-For other related curated lists, see : 
+For other related curated lists, see :
 
 * [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 * [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 
-We are looking for more contributors and maintainers! Contact kimham@kth.se if you are interested to become a maintainer. 
+We are looking for more contributors and maintainers! Contact kimham@kth.se if you are interested to become a maintainer.
 
-Maintainers/Contributors: 
+Maintainers/Contributors:
 
 - [Kim Hammar](https://github.com/Limmen), KTH Royal Institute of Techhology, Sweden.
 - [Lisa Oakley](https://github.com/lisaoakley), Northeastern University, USA.
-- [Manuel Del Verme](https://github.com/manuel-delverme), Quebec Artificial Intelligence Institute, Canada. 
+- [Manuel Del Verme](https://github.com/manuel-delverme), Quebec Artificial Intelligence Institute, Canada.
 
 ## Table of Contents
 
  - [RL-Environments](#-environments)
  - [Papers](#-papers)
  - [Books](#-books)
- - [Blogposts](#-miscellaneous) 
- - [Talks](#-talks) 
+ - [Blogposts](#-miscellaneous)
+ - [Talks](#-talks)
  - [Miscellaneous](#-miscellaneous)
 
 ## [↑](#table-of-contents) Environments
@@ -180,7 +180,7 @@ Maintainers/Contributors:
       <td width='50%'>
         <a href='https://github.com/manuel-delverme/sql_env'>sql_env</a>
         <ul>
-          <li>          
+          <li>
           Paper: <a href="https://link.springer.com/chapter/10.1007/978-3-030-91625-1_6">(2021) SQL Injections and Reinforcement Learning: An Empirical Evaluation of the Role of Action Structure</a>
           </li>
         </ul>
@@ -286,7 +286,7 @@ Maintainers/Contributors:
 * [(2012) Anti-jamming in Cognitive Radio Networks Using Reinforcement Learning Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6331885)
 * [(2011) An Anti-jamming Strategy for Channel Access in Cognitive Radio Networks](https://www.springerprofessional.de/en/an-anti-jamming-strategy-for-channel-access-in-cognitive-radio-n/3778338)
 * [(2008) Reinforcement Learning for Vulnerability Assessment in Peer-to-Peer Networks](http://web.engr.oregonstate.edu/~afern/papers/iaai08.pdf)
-* [(2005) A Reinforcement Learning Approach for Host-Based Intrusion Detection Using Sequences of System Calls](https://link.springer.com/chapter/10.1007/11538059_103) 
+* [(2005) A Reinforcement Learning Approach for Host-Based Intrusion Detection Using Sequences of System Calls](https://link.springer.com/chapter/10.1007/11538059_103)
 
 ### PhD Theses
 
@@ -331,6 +331,10 @@ Maintainers/Contributors:
 
 * [(2021) IJCAI First International Workshop on Adaptive Cyber Defense](https://arxiv.org/html/2108.08476)
 * [(2021) Self-Learning AI](https://www.darktrace.com/en/self-learning-ai/)
+
+## Contribute
+
+Contribution are very well welcome and will be accepted on a regular basis! Please use Github Issues and Pull requests.
 
 ## License
 
