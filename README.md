@@ -15,6 +15,9 @@ Maintainers/Contributors:
 - [Kim Hammar](https://github.com/Limmen), KTH Royal Institute of Techhology, Sweden.
 - [Lisa Oakley](https://github.com/lisaoakley), Northeastern University, USA.
 - [Manuel Del Verme](https://github.com/manuel-delverme), Quebec Artificial Intelligence Institute, Canada.
+- [Pontus Johnson](https://github.com/pontusj101), KTH Royal Institute of Techhology, Sweden.
+- [Jakob Nyberg](https://github.com/kasanari), KTH Royal Institute of Techhology, Sweden.
+- [Simon Gökstorp](-), KTH Royal Institute of Techhology, Sweden.
 
 ## Table of Contents
 
