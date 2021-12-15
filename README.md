@@ -18,6 +18,7 @@ Maintainers/Contributors:
 - [Pontus Johnson](https://github.com/pontusj101), KTH Royal Institute of Techhology, Sweden.
 - [Jakob Nyberg](https://github.com/kasanari), KTH Royal Institute of Techhology, Sweden.
 - [Simon Gökstorp](https://github.com/Hoclor), KTH Royal Institute of Techhology, Sweden.
+- [Fabio Massimo Zennaro](https://github.com/FMZennaro), University of Oslo, Norway.
 
 ## Table of Contents
 
