@@ -193,7 +193,7 @@ Maintainers/Contributors:
   </tbody>
 </table>
 
-### `sql_env`
+### `cage-challenge-1`
 
 <table>
   <tbody>
@@ -205,7 +205,7 @@ Maintainers/Contributors:
         <a href='https://github.com/cage-challenge/cage-challenge-1'>sql_env</a>
         <ul>
           <li>
-           A challenge environment released at the 1st International Workshop on Adaptive Cyber Defense held as part of the 2021 International Joint Conference on Artificial Intelligence (IJCAI). 
+           The first Cyber Autonomoy Gym for Experimentation (CAGE) challenge environment released at the 1st International Workshop on Adaptive Cyber Defense held as part of the 2021 International Joint Conference on Artificial Intelligence (IJCAI). 
           </li>
         </ul>
       </td>
