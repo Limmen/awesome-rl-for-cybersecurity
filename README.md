@@ -91,6 +91,26 @@ Maintainers/Contributors:
   </tbody>
 </table>
 
+### `malware-rl`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/malware_env.png' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/bfilar/malware_rl'>gym-malware</a>
+        <ul>
+          <li>
+            Extended and Updated `gym_malware` which supports recent LIEF versionS and an enhanced collection of models (EMBER, MalConv and SOREL-20M)
+            Paper: <a href="https://arxiv.org/pdf/1801.08917.pdf">(2018) Learning to Evade Static PE Machine Learning Malware Models via Reinforcement Learning</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### `gym-flipit`
 
 <table>
