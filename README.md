@@ -99,7 +99,7 @@ Maintainers/Contributors:
         <img src='imgs/malware_env.png' width=300 />
       </td>
       <td width='50%'>
-        <a href='https://github.com/bfilar/malware_rl'>gym-malware</a>
+        <a href='https://github.com/bfilar/malware_rl'>malware-rl</a>
         <ul>
           <li>
             Extended and Updated `gym_malware` which supports recent LIEF versionS and an enhanced collection of models (EMBER, MalConv and SOREL-20M)
@@ -426,6 +426,7 @@ Maintainers/Contributors:
 * [(2020) Finding Effective Security Strategies through Reinforcement Learning and Self-Play](https://www.youtube.com/watch?v=9ihiIPVRB58)
 * [(2020) Autonomous Security Analysis and Penetration Testing: A reinforcement learning approach.](https://www.youtube.com/watch?v=TISD4VCT5UE)
 * [(2019) Cost-Efficient Malware Detection Using Deep Reinforcement Learning](https://www.youtube.com/watch?v=gVY1M2NikaM)
+* [(2019) Trying to Make Meterpreter into an Adversarial Example](https://www.youtube.com/watch?v=eYAZ3BTUq6c)
 * [(2019) A Reinforcement Learning Framework for Smart, Secure, and Efficient Cyber-Physical Autonomy](https://www.youtube.com/watch?v=fdpW8hMxvEw&t=454s)
 * [(2019) Adaptive Honeypot Engagement through Reinforcement Learning of Semi-Markov Decision Processes](https://www.youtube.com/watch?v=GPKT3uJtXqk)
 
@@ -444,4 +445,4 @@ Contribution are very welcome and will be accepted on a regular basis! Please us
 
 Creative Commons
 
-(C) 2021
+(C) 2022
