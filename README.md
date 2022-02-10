@@ -279,6 +279,7 @@ Maintainers/Contributors:
 * [(2021) Learning Intrusion Prevention Policies through Optimal Stopping](https://arxiv.org/pdf/2106.07160.pdf)
 * [(2021) Using Cyber Terrain in Reinforcement Learning for Penetration Testing](https://arxiv.org/abs/2108.07124)
 * [(2021) Reinforcement learning based self-adaptive moving target defense against DDoS attacks](https://www.researchgate.net/publication/349576214_Reinforcement_learning_based_self-adaptive_moving_target_defense_against_DDoS_attacks)
+* [(2021) Modeling, Detecting, and Mitigating Threats Against Industrial Healthcare Systems: A Combined Software Defined Networking and Reinforcement Learning Approach](https://ieeexplore.ieee.org/document/9470933)
 * [(2021) DESOLATER: Deep Reinforcement Learning-Based Resource Allocation and Moving Target Defense Deployment Framework](https://ieeexplore.ieee.org/document/9418999)
 * [(2021) RAIDER: Reinforcement-aided Spear Phishing Detector](https://arxiv.org/abs/2105.07582)
 * [(2021) DDoS Mitigation Based on Space-Time Flow Regularities in IoV: A Feature Adaption Reinforcement Learning Approach](https://ieeexplore.ieee.org/document/9408414)
