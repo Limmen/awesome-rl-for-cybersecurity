@@ -254,6 +254,26 @@ Maintainers/Contributors:
 </table>
 
 
+### `MAB-Malware`
+
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/mab_malware.png' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/weisong-ucr/MAB-malware'>MAB-malware</a>
+        <ul>
+          <li>
+          Paper: <a href="https://arxiv.org/pdf/2003.03100.pdf">(2022) MAB-Malware: A Reinforcement Learning Framework for Attacking Static Malware Classifiers</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
@@ -262,6 +282,7 @@ Maintainers/Contributors:
 * [(2019) Deep Reinforcement Learning for Cyber Security](https://arxiv.org/abs/1906.05799)
 
 ### Regular Papers
+* [(2022) MAB-Malware: A Reinforcement Learning Framework for Attacking Static Malware Classifiers](https://arxiv.org/pdf/2003.03100.pdf)
 * [(2022) Behaviour-Diverse Automatic Penetration Testing: A Curiosity-Driven Multi-Objective Deep Reinforcement Learning Approach](https://arxiv.org/pdf/2202.10630.pdf)
 * [(2022) Safe Exploration in Wireless Security: A Safe Reinforcement Learning Algorithm with Hierarchical Structure](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9705557)
 * [(2022) Discovering Exfiltration Paths Using Reinforcement Learning with Attack Graphs](https://arxiv.org/pdf/2201.12416.pdf)
