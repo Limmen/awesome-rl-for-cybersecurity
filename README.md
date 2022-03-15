@@ -282,6 +282,7 @@ Maintainers/Contributors:
 * [(2019) Deep Reinforcement Learning for Cyber Security](https://arxiv.org/abs/1906.05799)
 
 ### Regular Papers
+* [(2022) DeepAir: Deep Reinforcement Learning for Adaptive Intrusion Response in Software-Defined Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9732448)
 * [(2022) DroidRL: Reinforcement Learning Driven Feature Selection for Android Malware Detection](https://arxiv.org/pdf/2203.02719.pdf)
 * [(2022) MAB-Malware: A Reinforcement Learning Framework for Attacking Static Malware Classifiers](https://arxiv.org/pdf/2003.03100.pdf)
 * [(2022) Behaviour-Diverse Automatic Penetration Testing: A Curiosity-Driven Multi-Objective Deep Reinforcement Learning Approach](https://arxiv.org/pdf/2202.10630.pdf)
