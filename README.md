@@ -330,6 +330,7 @@ Maintainers/Contributors:
 * [(2021) Power system structure optimization based on reinforcement learning and sparse constraints under DoS attacks in cloud environments](https://www.sciencedirect.com/science/article/pii/S1569190X21000034)
 * [(2021) Network Abnormal Traffic Detection Model Based on Semi-Supervised Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9577211)
 * [(2021) An adaptive honeypot using Q-Learning with severity analyzer](https://www.researchgate.net/publication/350743085_An_adaptive_honeypot_using_Q-Learning_with_severity_analyzer)
+* [(2021) Game-Theoretic Actor–Critic-Based Intrusion Response Scheme (GTAC-IRS) for Wireless SDN-Based IoT Networks](https://ieeexplore.ieee.org/document/9162048)
 * [(2020) Per-Host DDoS Mitigation by Direct-Control Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935157)
 * [(2020) Deep Reinforcement Adversarial Learning Against Botnet Evasion Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9226405)
 * [(2020) Reinforcement Learning Based Approach for Flip Attack Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9303818)
