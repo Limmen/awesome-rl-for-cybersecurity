@@ -284,7 +284,7 @@ Maintainers/Contributors:
 * [(2019) Deep Reinforcement Learning for Cyber Security](https://arxiv.org/abs/1906.05799)
 
 ### Demonstration papers
-* [(2022) A System for Interactive Examination of Learned Security Policies](https://arxiv.org/abs/2204.01126), [Video](https://www.youtube.com/watch?v=18P7MjPKNDg)
+* [(2022) A System for Interactive Examination of Learned Security Policies](https://arxiv.org/abs/2204.01126) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Regular Papers
 * [(2022) MERLIN - Malware Evasion with Reinforcement LearnINg](https://arxiv.org/pdf/2203.12980.pdf)
