@@ -278,8 +278,13 @@ Maintainers/Contributors:
 
 ### Surveys
 
+* [(2022) Research and Challenges of Reinforcement Learning in Cyber Defense Decision-Making for Intranet Security](https://www.mdpi.com/1999-4893/15/4/134)
+* [(2021) Reinforcement Learning for Feedback-Enabled Cyber Resilience](https://arxiv.org/pdf/2107.00783.pdf)
 * [(2021) Prospective Artificial Intelligence Approaches for Active Cyber Defence](https://arxiv.org/pdf/2104.09981.pdf)
 * [(2019) Deep Reinforcement Learning for Cyber Security](https://arxiv.org/abs/1906.05799)
+
+### Demonstration papers
+* [(2022) A System for Interactive Examination of Learned Security Policies](https://arxiv.org/abs/2204.01126), [Video](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Regular Papers
 * [(2022) MERLIN - Malware Evasion with Reinforcement LearnINg](https://arxiv.org/pdf/2203.12980.pdf)
@@ -291,7 +296,6 @@ Maintainers/Contributors:
 * [(2022) Discovering Exfiltration Paths Using Reinforcement Learning with Attack Graphs](https://arxiv.org/pdf/2201.12416.pdf)
 * [(2022) Multi-Agent Reinforcement Learning for Decentralized Resilient Secondary Control of Energy Storage Systems against DoS Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9676705)
 * [(2021) Network Resilience Under Epidemic Attacks: Deep Reinforcement Learning Network Topology Adaptations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9686036)
-* [(2021) Reinforcement Learning for Feedback-Enabled Cyber Resilience](https://arxiv.org/pdf/2107.00783.pdf)
 * [(2021) An Intrusion Response Approach for Elastic Applications Based on Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9659882)
 * [(2021) Reinforcement Learning-assisted Threshold Optimization for Dynamic Honeypot Adaptation to Enhance IoBT Networks Security](https://ieeexplore.ieee.org/abstract/document/9660066)
 * [(2021) Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing](https://www.cs.ucr.edu/~heng/pubs/afl-hier.pdf)
