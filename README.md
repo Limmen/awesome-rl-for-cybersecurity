@@ -222,8 +222,9 @@ Maintainers/Contributors:
         <img src='imgs/cage_env.png' width=300 />
       </td>
     </tr>
+
     <tr>
-      <td width='50%'>
+      <td width='100%'>
         <a href='https://github.com/cage-challenge/cage-challenge-1'>cage-challenge-1</a>
         <ul>
           <li>
