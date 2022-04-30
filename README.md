@@ -218,10 +218,10 @@ Maintainers/Contributors:
 <table>
   <tbody>
     <tr>
-      <td width='33%' align='center'>
+      <td width='50%' align='center'>
         <img src='imgs/cage_env.png' width=300 />
       </td>
-      <td width='33%'>
+      <td width='50%'>
         <a href='https://github.com/cage-challenge/cage-challenge-1'>cage-challenge-1</a>
         <ul>
           <li>
@@ -229,7 +229,9 @@ Maintainers/Contributors:
           </li>
         </ul>
       </td>
-      <td width='33%'>
+    </tr>
+    <tr>
+      <td width='100%'>
         <a href='https://github.com/cage-challenge/cage-challenge-2>cage-challenge-2</a>
         <ul>
           <li>
