@@ -232,7 +232,7 @@ Maintainers/Contributors:
     </tr>
     <tr>
       <td width='100%'>
-        <a href='https://github.com/cage-challenge/cage-challenge-2>cage-challenge-2</a>
+        <a href='https://github.com/cage-challenge/cage-challenge-2'>cage-challenge-2</a>
         <ul>
           <li>
            The second Cyber Autonomoy Gym for Experimentation (CAGE) challenge environment announced at the AAAI-22 Workshop on Artificial Intelligence for Cyber Security Workshop (AICS).
