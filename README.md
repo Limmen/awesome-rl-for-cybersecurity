@@ -299,6 +299,7 @@ Maintainers/Contributors:
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://arxiv.org/abs/2204.01126) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Regular Papers
+* [(2022) EvadeRL: Evading PDF Malware Classifiers with Deep Reinforcement Learning](https://www.hindawi.com/journals/scn/2022/7218800/)
 * [(2022) Link: Black-Box Detection of Cross-Site Scripting Vulnerabilities Using Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3485447.3512234)
 * [(2022) MERLIN - Malware Evasion with Reinforcement LearnINg](https://arxiv.org/pdf/2203.12980.pdf)
 * [(2022) DeepAir: Deep Reinforcement Learning for Adaptive Intrusion Response in Software-Defined Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9732448)
