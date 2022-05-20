@@ -224,7 +224,7 @@ Maintainers/Contributors:
     </tr>
     <tr>
       <td >
-        <a href=''https://github.com/cage-challenge/cage-challenge-1'>cage-challenge-1</a>
+        <a href='https://github.com/cage-challenge/cage-challenge-1'>cage-challenge-1</a>
         <ul>
           <li>
            The first Cyber Autonomoy Gym for Experimentation (CAGE) challenge environment released at the 1st International Workshop on Adaptive Cyber Defense held as part of the 2021 International Joint Conference on Artificial Intelligence (IJCAI).
