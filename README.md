@@ -299,7 +299,8 @@ Maintainers/Contributors:
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://arxiv.org/abs/2204.01126) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Regular Papers
-* [(2022) A Proactive Eavesdropping Game in MIMO systems Based on Multi-Agent Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/977039 )
+* [(2022) A Reinforcement Learning Approach for Defending Against Multi-Scenario Load Redistribution Attacks](https://ieeexplore.ieee.org/abstract/document/9776523)
+* [(2022) A Proactive Eavesdropping Game in MIMO systems Based on Multi-Agent Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/977039)
 * [(2022) FEAR: Federated Cyber-Attack Reaction in Distributed Software-Defined Networks with Deep Q-Network](https://ieeexplore.ieee.org/abstract/document/9768169)
 * [(2022) EvadeRL: Evading PDF Malware Classifiers with Deep Reinforcement Learning](https://www.hindawi.com/journals/scn/2022/7218800/)
 * [(2022) Link: Black-Box Detection of Cross-Site Scripting Vulnerabilities Using Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3485447.3512234)
