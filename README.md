@@ -529,6 +529,7 @@ Maintainers/Contributors:
 * [(2021) IJCAI First International Workshop on Adaptive Cyber Defense](https://arxiv.org/html/2108.08476)
 * [(2021) Self-Learning AI](https://www.darktrace.com/en/self-learning-ai/)
 * [(2021) AI/ML for Cybersecurity: Challenges, Solutions, and Novel Ideas at SIAM Data Mining 2021](https://arxiv.org/html/2104.13254)
+* [(2020) Self-Learning Systems for Cyber Defense](https://www.kth.se/cdis/research/self-learning-systems-for-cyber-defense-1.1050591)
 
 ## Contribute
 
