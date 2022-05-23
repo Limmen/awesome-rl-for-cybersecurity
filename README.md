@@ -437,6 +437,7 @@ Maintainers/Contributors:
 * [(2018) QRASSH - A Self-Adaptive SSH Honeypot Driven by Q-Learning](https://ieeexplore.ieee.org/document/8430922)
 * [(2018) Using Reinforcement Learning to Conceal Honeypot Functionality](https://www.semanticscholar.org/paper/Using-Reinforcement-Learning-to-Conceal-Honeypot-Dowling-Schukat/a081d7606d18dc6e30a7b0395faf7909e84c721c)
 * [(2018) Improving adaptive honeypot functionality with efficient reinforcement learning parameters for automated malware](https://www.researchgate.net/publication/326494108_Improving_adaptive_honeypot_functionality_with_efficient_reinforcement_learning_parameters_for_automated_malware)
+* [(2018) Enhancing Machine Learning Based Malware Detection Model by Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3290480.3290494)
 * [(2017) Network Defense Strategy Selection with Reinforcement Learning and Pareto Optimization](https://pdfs.semanticscholar.org/4f3c/53bba5acfa7507c4c487c71eaf74771dc382.pdf)
 * [(2017) Adversarial Reinforcement Learning in a Cyber Security Simulation](https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/CyberSec_ICAART.pdf)
 * [(2017) Detecting Stealthy Botnets in a Resource-Constrained Environment using Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3140549.3140552)
@@ -507,6 +508,7 @@ Maintainers/Contributors:
 
 ## [↑](#table-of-contents) Talks
 
+* [(2022) Reinforcement Learning for Complex Security Games and Beyond](https://www.youtube.com/watch?v=fVLwKRLDYSg)
 * [(2022) NOMS22 Demo - A System for Interactive Examination of Learned Security Policies - Hammar & Stadler](https://www.youtube.com/watch?v=18P7MjPKNDg)
 * [(2022) Reinforcement Learning Applications: Cyber Security](https://www.youtube.com/watch?v=-V2BJ96zWno)
 * [(2021) Reinforcement learning approaches on intusion detection](https://www.youtube.com/watch?v=AsfQAdraFhw)
