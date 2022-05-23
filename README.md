@@ -492,7 +492,7 @@ Maintainers/Contributors:
 * [(2018) Autonomous Penetration Testing using Reinforcement Learning](https://arxiv.org/pdf/1905.05965.pdf)
 
 ### Posters
-
+* [(2022) Intrusion Prevention through Optimal Stopping](https://limmen.dev/assets/papers/CDIS_Conference_Poster_24_May_Hammar_Stadler.pdf)
 * [(2022) Intrusion Prevention through Optimal Stopping](https://limmen.dev/assets/papers/ML_Day_KTH_Poster_17_Jan_2022_Hammar_Stadler.pdf)
 * [(2021) Learning Intrusion Prevention Policies through Optimal Stopping](https://limmen.dev/assets/papers/poster_dlrl_21_optimal_stopping_KimHammar_jul_21.pdf)
 
@@ -525,8 +525,10 @@ Maintainers/Contributors:
 
 ## [↑](#table-of-contents) Miscellaneous
 
+* [(2022) ICML Workshop on Machine Learning for Cybersecurity](https://sites.google.com/view/icml-ml4cyber/home?authuser=0)
 * [(2021) IJCAI First International Workshop on Adaptive Cyber Defense](https://arxiv.org/html/2108.08476)
 * [(2021) Self-Learning AI](https://www.darktrace.com/en/self-learning-ai/)
+* [(2021) AI/ML for Cybersecurity: Challenges, Solutions, and Novel Ideas at SIAM Data Mining 2021](https://arxiv.org/html/2104.13254)
 
 ## Contribute
 
