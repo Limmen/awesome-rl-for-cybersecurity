@@ -535,6 +535,7 @@ Maintainers/Contributors:
 ## [↑](#table-of-contents) Miscellaneous
 
 * [(2022) ICML Workshop on Machine Learning for Cybersecurity](https://sites.google.com/view/icml-ml4cyber/home?authuser=0)
+* [(2022) AAAI Workshop on Artificial Intelligence for Cyber Security (AICS)](http://aics.site/AICS2022/)
 * [(2021) IJCAI First International Workshop on Adaptive Cyber Defense](https://arxiv.org/html/2108.08476)
 * [(2021) Self-Learning AI](https://www.darktrace.com/en/self-learning-ai/)
 * [(2021) AI/ML for Cybersecurity: Challenges, Solutions, and Novel Ideas at SIAM Data Mining 2021](https://arxiv.org/html/2104.13254)
@@ -542,7 +543,7 @@ Maintainers/Contributors:
 
 ## Contribute
 
-Contribution are very welcome and will be accepted on a regular basis! Please use Github Issues and Pull requests.
+Contribution are very welcome and will be accepted on a regular basis! Please use Github issues and pull requests.
 
 ## License
 
