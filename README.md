@@ -299,6 +299,7 @@ Maintainers/Contributors:
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://arxiv.org/abs/2204.01126) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Regular Papers
+* [(2022) Multiple Domain Cyberspace Attack and Defense Game Based on Reward Randomization Reinforcement Learning](https://arxiv.org/pdf/2205.10990.pdf)
 * [(2022) Intrusion Prevention through Optimal Stopping](https://ieeexplore.ieee.org/document/9779345)
 * [(2022) Learning to Play an Adaptive Cyber Deception Game](https://optlearnmas22.github.io/files/paper10.pdf)
 * [(2022) Neural Fictitious Self-Play for Radar Anti-Jamming Dynamic Game with Imperfect Information](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9775208)
@@ -492,7 +493,7 @@ Maintainers/Contributors:
 
 
 ### Master Theses
-
+* [(2022) Reinforcement Learning-aided Dynamic Analysis of Evasive Malware](https://webthesis.biblio.polito.it/22588/1/tesi.pdf)
 * [(2021) Intrusion Detection Based on Reinforcement Learning](https://era.library.ualberta.ca/items/9ad1c6b8-143e-45d3-921d-c4e754c59328/view/440db5ae-1cb6-4643-9868-871e82b59615/Yang_Bin_202109_MSc.pdf)
 * [(2021) Bayesian Reinforcement Learning Methods for Network Intrusion Prevention](https://limmen.dev/assets/papers/Antonio_Nesti_Lopes_2021_Master_Thesis.pdf)
 * [(2019) Learning to Hack](https://stefann.eu/files/RL%20vs%20GA%20in%20GT%20Cybersec%20Thesis.pdf)
@@ -503,6 +504,7 @@ Maintainers/Contributors:
 * [(2018) Autonomous Penetration Testing using Reinforcement Learning](https://arxiv.org/pdf/1905.05965.pdf)
 
 ### Posters
+* [(2022) Autonomous Network Defence using Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3488932.3527286)
 * [(2022) Intrusion Prevention through Optimal Stopping](https://limmen.dev/assets/papers/CDIS_Conference_Poster_24_May_Hammar_Stadler.pdf)
 * [(2022) Intrusion Prevention through Optimal Stopping](https://limmen.dev/assets/papers/ML_Day_KTH_Poster_17_Jan_2022_Hammar_Stadler.pdf)
 * [(2021) Learning Intrusion Prevention Policies through Optimal Stopping](https://limmen.dev/assets/papers/poster_dlrl_21_optimal_stopping_KimHammar_jul_21.pdf)
