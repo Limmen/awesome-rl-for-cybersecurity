@@ -526,6 +526,9 @@ Maintainers/Contributors:
 * [(2022) Reinforcement Learning Applications: Cyber Security](https://www.youtube.com/watch?v=-V2BJ96zWno)
 * [(2021) Deep hierarchical reinforcement agents for automated penetration testing](https://www.youtube.com/watch?v=i_Qu9uF50AI)
 * [(2021) CyGIL: A Cyber Gym for Training Autonomous Agents over Emulated Network Systems](https://www.youtube.com/watch?v=JzZHjPGjoWg&t=675s)
+* [(2021) Incorporating Deception into CyberBattleSim for Autonomous Defense](https://www.youtube.com/watch?v=mDY1OH7x4ZI)
+* [(2021) CybORG: A Gym for the Development of Autonomous Cyber Agents](https://www.youtube.com/watch?v=a9EhsiB3XhA)
+* [(2021) Defending the Cyber Front with AI - CyCon 2021](https://www.youtube.com/watch?v=9t6v_EDs74I)
 * [(2021) Informing Autonomous Deception Systems with Cyber Expert Performance Data](https://www.youtube.com/watch?v=kTwn_ADKVgg&t=2s)
 * [(2021) ACD 2021 Keynote - Prof. George Cybenko - Attrition in Adaptive Cyber Defense](https://www.youtube.com/watch?v=OYp2Drgr-RM&t=789s)
 * [(2021) Reinforcement learning approaches on intusion detection](https://www.youtube.com/watch?v=AsfQAdraFhw)
@@ -539,6 +542,8 @@ Maintainers/Contributors:
 * [(2019) Trying to Make Meterpreter into an Adversarial Example](https://www.youtube.com/watch?v=eYAZ3BTUq6c)
 * [(2019) A Reinforcement Learning Framework for Smart, Secure, and Efficient Cyber-Physical Autonomy](https://www.youtube.com/watch?v=fdpW8hMxvEw&t=454s)
 * [(2019) Adaptive Honeypot Engagement through Reinforcement Learning of Semi-Markov Decision Processes](https://www.youtube.com/watch?v=GPKT3uJtXqk)
+* [(2018) Autonomous Cyber Defense: AI and the Immune System Approach](https://www.youtube.com/watch?v=Wa6WHJfakbA)
+* [(2018) Bonware to the Rescue: the Future Autonomous Cyber Defense Agents | Dr Alexander Kott | CAMLIS 2018](https://www.youtube.com/watch?v=W9iYTO9vEbA)
 
 ## [↑](#table-of-contents) Miscellaneous
 
