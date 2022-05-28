@@ -367,6 +367,7 @@ Maintainers/Contributors:
 * [(2021) Deep Reinforcement Learning for Backup Strategies against Adversaries](https://arxiv.org/pdf/2102.06632.pdf)
 * [(2021) A Secure Learning Control Strategy via Dynamic Camouflaging for Unknown Dynamical Systems under Attacks](https://arxiv.org/pdf/2102.00573.pdf)
 * [(2020) Per-Host DDoS Mitigation by Direct-Control Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935157)
+* [(2020) Game Theory and Reinforcement Learning Based Secure Edge Caching in Mobile Social Networks](https://ieeexplore.ieee.org/document/9036917)
 * [(2020) A New Black Box Attack Generating Adversarial Examples Based on Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9123270)
 * [(2020) Deep Reinforcement Adversarial Learning Against Botnet Evasion Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9226405)
 * [(2020) Deep Reinforcement Learning for Adaptive Cyber Defense and Attacker’s Pattern Identification](https://link.springer.com/book/10.1007/978-3-030-19353-9)
