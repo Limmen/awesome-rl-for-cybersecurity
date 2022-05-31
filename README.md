@@ -299,6 +299,9 @@ Maintainers/Contributors:
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://arxiv.org/abs/2204.01126) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Regular Papers
+* [(2022) Learning Security Strategies through Game Play and Optimal Stopping](https://arxiv.org/abs/2205.14694)
+* [(2022) Resilient Optimal Defensive Strategy of Micro-Grids System via Distributed Deep Reinforcement Learning Approach Against FDI Attack](https://ieeexplore.ieee.org/abstract/document/9783467)
+* [(2022) Data-driven Cyber-attack Detection of Intelligent Attacks in Islanded DC Microgrids](https://ieeexplore.ieee.org/abstract/document/9782082)
 * [(2022) Multiple Domain Cyberspace Attack and Defense Game Based on Reward Randomization Reinforcement Learning](https://arxiv.org/pdf/2205.10990.pdf)
 * [(2022) Intrusion Prevention through Optimal Stopping](https://ieeexplore.ieee.org/document/9779345)
 * [(2022) Learning to Play an Adaptive Cyber Deception Game](https://optlearnmas22.github.io/files/paper10.pdf)
