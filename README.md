@@ -554,6 +554,7 @@ Maintainers/Contributors:
 * [(2019) Adaptive Honeypot Engagement through Reinforcement Learning of Semi-Markov Decision Processes](https://www.youtube.com/watch?v=GPKT3uJtXqk)
 * [(2018) Autonomous Cyber Defense: AI and the Immune System Approach](https://www.youtube.com/watch?v=Wa6WHJfakbA)
 * [(2018) Bonware to the Rescue: the Future Autonomous Cyber Defense Agents | Dr Alexander Kott | CAMLIS 2018](https://www.youtube.com/watch?v=W9iYTO9vEbA)
+* [(2018) CSIAC Webinar - Learning to Win: Making the Case for Autonomous Cyber Security Solutions](https://www.youtube.com/watch?v=K-ma_ZVzqec)
 
 ## [↑](#table-of-contents) Miscellaneous
 
