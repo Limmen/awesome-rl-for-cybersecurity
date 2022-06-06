@@ -286,6 +286,26 @@ Maintainers/Contributors:
   </tbody>
 </table>
 
+### `ASAP`
+
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/asap.png' width=300 />
+      </td>
+      <td width='50%'>
+        <a href=https://github.com/ankur8931/asap>Autonomous Security Analysis and Penetration Testing framework (ASAP)</a>
+        <ul>
+          <li>
+          Paper: <a href="https://ieeexplore.ieee.org/document/9394285">(2020) Autonomous Security Analysis and Penetration Testing</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
@@ -394,7 +414,7 @@ Maintainers/Contributors:
 * [(2020) Deep Reinforcement Learning for DER Cyber-Attack Mitigation](https://arxiv.org/abs/2009.13088)
 * [(2020) Adaptive Cyber Defense Against Multi-Stage Attacks Using Learning-Based POMDP](https://dl.acm.org/doi/abs/10.1145/3418897)
 * [(2020) Using Knowledge Graphs and Reinforcement Learning for Malware Analysis](https://ebiquity.umbc.edu/_file_directory_/papers/1053.pdf)
-* [(2020) Autonomous Security Analysis and Penetration Testing](https://ieeexplore.ieee.org/document/9394285)
+* [(2020) Autonomous Security Analysis and Penetration Testing](https://ieeexplore.ieee.org/document/939428)
 * [(2020) POMDP + Information-Decay: Incorporating Defender's Behaviour in Autonomous Penetration Testing](https://ojs.aaai.org/index.php/ICAPS/article/view/6666/6520)
 * [(2020) ATMoS: Autonomous Threat Mitigation in SDN using Reinforcement Learning](https://ieeexplore.ieee.org/document/9110426)
 * [(2020) Modeling Penetration Testing with Reinforcement Learning Using Capture-the-Flag Challenges: Trade-offs between Model-free Learning and A Priori Knowledge](https://arxiv.org/pdf/2005.12632.pdf)
@@ -547,7 +567,9 @@ Maintainers/Contributors:
 * [(2021) Training an Autonomous Pentester with Deep RL](https://www.youtube.com/watch?v=EiI69BdWKPs&t=1754s)
 * [(2021) Learning Intrusion Prevention Policies Through Optimal Stopping](https://www.youtube.com/watch?v=_zL4qR5-jU8&t=286s)
 * [(2020) Finding Effective Security Strategies through Reinforcement Learning and Self-Play](https://www.youtube.com/watch?v=9ihiIPVRB58)
+* [(2020) Autonomous Security Analysis and Penetration Testing (ASAP) - Ankur Chowdhary](https://www.youtube.com/watch?v=6EyOPqLm2jg)
 * [(2020) Autonomous Security Analysis and Penetration Testing: A reinforcement learning approach.](https://www.youtube.com/watch?v=TISD4VCT5UE)
+* [(2020) Artificial Intelligence based Autonomous Penetration Testing.](https://www.youtube.com/watch?v=NMcrTOtpcXI)
 * [(2019) Cost-Efficient Malware Detection Using Deep Reinforcement Learning](https://www.youtube.com/watch?v=gVY1M2NikaM)
 * [(2019) Trying to Make Meterpreter into an Adversarial Example](https://www.youtube.com/watch?v=eYAZ3BTUq6c)
 * [(2019) A Reinforcement Learning Framework for Smart, Secure, and Efficient Cyber-Physical Autonomy](https://www.youtube.com/watch?v=fdpW8hMxvEw&t=454s)
