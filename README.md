@@ -8,18 +8,6 @@ For other related curated lists, see :
 * [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 * [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 
-We are looking for more contributors and maintainers! Contact kimham@kth.se if you are interested to become a maintainer.
-
-Maintainers/Contributors:
-
-- [Kim Hammar](https://github.com/Limmen), KTH Royal Institute of Techhology, Sweden.
-- [Lisa Oakley](https://github.com/lisaoakley), Northeastern University, USA.
-- [Manuel Del Verme](https://github.com/manuel-delverme), Quebec Artificial Intelligence Institute, Canada.
-- [Pontus Johnson](https://github.com/pontusj101), KTH Royal Institute of Techhology, Sweden.
-- [Jakob Nyberg](https://github.com/kasanari), KTH Royal Institute of Techhology, Sweden.
-- [Simon Gökstorp](https://github.com/Hoclor), KTH Royal Institute of Techhology, Sweden.
-- [Fabio Massimo Zennaro](https://github.com/FMZennaro), University of Oslo, Norway.
-
 ## Table of Contents
 
  - [RL-Environments](#-environments)
@@ -594,6 +582,12 @@ Maintainers/Contributors:
 ## Contribute
 
 Contribution are very welcome and will be accepted on a regular basis! Please use Github issues and pull requests.
+
+### List of Contributors
+
+<a href="https://github.com/Limmen/awesome-rl-for-cybersecurity/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Limmen/awesome-rl-for-cybersecurity" />
+</a>
 
 ## License
 
