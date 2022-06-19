@@ -308,6 +308,7 @@ For other related curated lists, see :
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://ieeexplore.ieee.org/document/9789707) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Regular Papers
+* [(2022) A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs](https://arxiv.org/pdf/2206.06934.pdf)
 * [(2022) A flexible SDN-based framework for slow-rate DDoS attack mitigation by using deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S1084804522000960)
 * [(2022) Learning Security Strategies through Game Play and Optimal Stopping](https://arxiv.org/abs/2205.14694)
 * [(2022) Resilient Optimal Defensive Strategy of Micro-Grids System via Distributed Deep Reinforcement Learning Approach Against FDI Attack](https://ieeexplore.ieee.org/abstract/document/9783467)
