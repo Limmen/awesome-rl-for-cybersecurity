@@ -308,6 +308,7 @@ For other related curated lists, see :
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://ieeexplore.ieee.org/document/9789707) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Regular Papers
+* [(2022) Deep-Reinforcement-Learning-Based QoS-Aware Secure Routing for SDN-IoT](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935210)
 * [(2022) A generic scheme for cyber security in resource constraint network using incomplete information game](https://link.springer.com/content/pdf/10.1007/s12065-021-00684-w.pdf)
 * [(2022) A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs](https://arxiv.org/pdf/2206.06934.pdf)
 * [(2022) A flexible SDN-based framework for slow-rate DDoS attack mitigation by using deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S1084804522000960)
