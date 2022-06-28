@@ -309,6 +309,8 @@ For other related curated lists, see :
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://ieeexplore.ieee.org/document/9789707) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Regular Papers
+* [(2022) Defensive deception framework against reconnaissance attacks in the cloud with deep reinforcement learning](http://scis.scichina.com/en/2022/170305.pdf)
+* [(2022) Captcha me if you can: Imitation Games with Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9797367)
 * [(2022) Deep-Reinforcement-Learning-Based QoS-Aware Secure Routing for SDN-IoT](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935210)
 * [(2022) A generic scheme for cyber security in resource constraint network using incomplete information game](https://link.springer.com/content/pdf/10.1007/s12065-021-00684-w.pdf)
 * [(2022) A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs](https://arxiv.org/pdf/2206.06934.pdf)
