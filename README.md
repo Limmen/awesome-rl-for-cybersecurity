@@ -215,7 +215,7 @@ For other related curated lists, see :
         <a href='https://github.com/cage-challenge/cage-challenge-1'>cage-challenge-1</a>
         <ul>
           <li>
-           The first Cyber Autonomoy Gym for Experimentation (CAGE) challenge environment released at the 1st International Workshop on Adaptive Cyber Defense held as part of the 2021 International Joint Conference on Artificial Intelligence (IJCAI).
+           The first Cyber Autonomos Gym for Experimentation (CAGE) challenge environment released at the 1st International Workshop on Adaptive Cyber Defense held as part of the 2021 International Joint Conference on Artificial Intelligence (IJCAI).
           </li>
         </ul>
       </td>
@@ -225,7 +225,7 @@ For other related curated lists, see :
         <a href='https://github.com/cage-challenge/cage-challenge-2'>cage-challenge-2</a>
         <ul>
           <li>
-           The second Cyber Autonomoy Gym for Experimentation (CAGE) challenge environment announced at the AAAI-22 Workshop on Artificial Intelligence for Cyber Security Workshop (AICS).
+           The second Cyber Autonomous Gym for Experimentation (CAGE) challenge environment announced at the AAAI-22 Workshop on Artificial Intelligence for Cyber Security Workshop (AICS).
           </li>
         </ul>
       </td>
@@ -298,6 +298,7 @@ For other related curated lists, see :
 
 ### Surveys
 
+* [(2022) Cyber-security and reinforcement learning — A brief survey](https://www.sciencedirect.com/science/article/pii/S0952197622002512)
 * [(2022) Blockchain and Federated Deep Reinforcement Learning Based Secure Cloud-Edge-End Collaboration in Power IoT](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9801730)
 * [(2022) Deep Reinforcement Learning for Cybersecurity Threat Detection and Protection: A Review](https://arxiv.org/pdf/2206.02733.pdf)
 * [(2022) Research and Challenges of Reinforcement Learning in Cyber Defense Decision-Making for Intranet Security](https://www.mdpi.com/1999-4893/15/4/134)
@@ -309,6 +310,8 @@ For other related curated lists, see :
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://ieeexplore.ieee.org/document/9789707) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Regular Papers
+* [(2022) Online Cyber-Attack Detection in the Industrial Control System: A Deep Reinforcement Learning Approach](https://www.hindawi.com/journals/mpe/2022/2280871/)
+* [(2022) Detecting Cyber Attacks: A Reinforcement Learning Based Intrusion Detection System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9813892)
 * [(2022) Robust Enhancement of Intrusion Detection Systems using Deep Reinforcement Learning and Stochastic Game](https://ieeexplore.ieee.org/abstract/document/9809923)
 * [(2022) irs-partition: An Intrusion Response System utilizing Deep Q-Networks and system partitions](https://www.sciencedirect.com/science/article/pii/S2352711022000796)
 * [(2022) Defensive deception framework against reconnaissance attacks in the cloud with deep reinforcement learning](http://scis.scichina.com/en/2022/170305.pdf)
