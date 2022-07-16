@@ -309,6 +309,7 @@ For other related curated lists, see :
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://ieeexplore.ieee.org/document/9789707) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Regular Papers
+* [(2022) XSS Adversarial Example Attacks Based on Deep Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0167404822002255)
 * [(2022) Analyzing Multi-Agent Reinforcement Learning and Coevolution in Cybersecurity](https://dl.acm.org/doi/pdf/10.1145/3512290.3528844)
 * [(2022) AlphaSOC: Reinforcement Learning-based Cybersecurity Automation for Cyber-Physical Systems](https://ieeexplore.ieee.org/abstract/document/9797597?casa_token=CLYC6uNfXhgAAAAA:t8ohceSJb-eI-NeyhUFtizY_786VsCnFfLDe_zAh33be__HI31foWepaXvIhQ4PCF69_s3Vm)
 * [(2022) Online Cyber-Attack Detection in the Industrial Control System: A Deep Reinforcement Learning Approach](https://www.hindawi.com/journals/mpe/2022/2280871/)
