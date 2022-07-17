@@ -555,6 +555,7 @@ For other related curated lists, see :
 
 ## [↑](#table-of-contents) Talks
 
+* [(2022) Learning Security Strategies through Game Play and Optimal Stopping - Hammar & Stadler](https://www.youtube.com/watch?v=Qz6huGXjhec)
 * [(2022) Reinforcement Learning for Complex Security Games and Beyond](https://www.youtube.com/watch?v=fVLwKRLDYSg)
 * [(2022) NOMS22 Demo - A System for Interactive Examination of Learned Security Policies - Hammar & Stadler](https://www.youtube.com/watch?v=18P7MjPKNDg)
 * [(2022) Reinforcement Learning Applications: Cyber Security](https://www.youtube.com/watch?v=-V2BJ96zWno)
