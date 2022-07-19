@@ -309,6 +309,8 @@ For other related curated lists, see :
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://ieeexplore.ieee.org/document/9789707) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Regular Papers
+* [(2022) Enabling intrusion detection systems with dueling double deep Q-learning](https://www.emerald.com/insight/content/doi/10.1108/DTS-05-2022-0016/full/pdf?title=enabling-intrusion-detection-systems-with-dueling-double-deep-italicqitalic-learning)
+* [(2022) MultiAgent Deep Reinforcement LearningDriven Mitigation of Adverse Effects of CyberAttacks on Electric Vehicle Charging Station](https://arxiv.org/pdf/2207.07041.pdf)
 * [(2022) XSS Adversarial Example Attacks Based on Deep Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0167404822002255)
 * [(2022) Analyzing Multi-Agent Reinforcement Learning and Coevolution in Cybersecurity](https://dl.acm.org/doi/pdf/10.1145/3512290.3528844)
 * [(2022) AlphaSOC: Reinforcement Learning-based Cybersecurity Automation for Cyber-Physical Systems](https://ieeexplore.ieee.org/abstract/document/9797597?casa_token=CLYC6uNfXhgAAAAA:t8ohceSJb-eI-NeyhUFtizY_786VsCnFfLDe_zAh33be__HI31foWepaXvIhQ4PCF69_s3Vm)
