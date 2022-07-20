@@ -294,6 +294,26 @@ For other related curated lists, see :
   </tbody>
 </table>
 
+### `Yawning Titan`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/yawning_titan_env.png' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/dstl/YAWNING-TITAN'>Yawning Titan</a>
+        <ul>
+          <li>
+            Yawning Titan is an abstract, highly flexible, cyber security simulator that is capable of simulating a range of cyber security scenarios.
+			Paper: <a href="https://www.researchgate.net/publication/361638424_Developing_Optimal_Causal_Cyber-Defence_Agents_via_Cyber_Security_Simulation">(2022) Developing Optimal Causal Cyber-Defence Agents via Cyber Security Simulation</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
@@ -309,6 +329,7 @@ For other related curated lists, see :
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://ieeexplore.ieee.org/document/9789707) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Regular Papers
+* [(2022) Developing Optimal Causal Cyber-Defence Agents via Cyber Security Simulation](https://www.researchgate.net/publication/361638424_Developing_Optimal_Causal_Cyber-Defence_Agents_via_Cyber_Security_Simulation)
 * [(2022) Enabling intrusion detection systems with dueling double deep Q-learning](https://www.emerald.com/insight/content/doi/10.1108/DTS-05-2022-0016/full/pdf?title=enabling-intrusion-detection-systems-with-dueling-double-deep-italicqitalic-learning)
 * [(2022) MultiAgent Deep Reinforcement LearningDriven Mitigation of Adverse Effects of CyberAttacks on Electric Vehicle Charging Station](https://arxiv.org/pdf/2207.07041.pdf)
 * [(2022) XSS Adversarial Example Attacks Based on Deep Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0167404822002255)
