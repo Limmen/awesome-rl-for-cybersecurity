@@ -317,6 +317,7 @@ For other related curated lists, see :
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
+* [(2022) The Confluence of Networks, Games, and Learning a Game-Theoretic Framework for Multiagent Decision Making Over Networks](https://arxiv.org/abs/2105.08158)
 * [(2022) Cyber-security and reinforcement learning — A brief survey](https://www.sciencedirect.com/science/article/pii/S0952197622002512)
 * [(2022) Blockchain and Federated Deep Reinforcement Learning Based Secure Cloud-Edge-End Collaboration in Power IoT](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9801730)
 * [(2022) Deep Reinforcement Learning for Cybersecurity Threat Detection and Protection: A Review](https://arxiv.org/pdf/2206.02733.pdf)
