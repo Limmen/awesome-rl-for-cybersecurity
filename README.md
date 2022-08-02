@@ -330,6 +330,8 @@ For other related curated lists, see :
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://ieeexplore.ieee.org/document/9789707) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Regular Papers
+* [(2022) An Artificial Intelligence-Enabled Framework for Optimizing the Dynamic Cyber Vulnerability Management Process](https://drive.google.com/file/d/160G5f0V86ggVFcFxtYbig2eeXu3nWTFC/view)
+* [(2022) Eavesdropping Game Based on Multi-Agent Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9833927)
 * [(2022) A Hidden Attack Sequences Detection Method Based on Dynamic Reward Deep Deterministic Policy Gradient](https://www.hindawi.com/journals/scn/2022/1488344/)
 * [(2022) Security State Estimation for Cyber-Physical Systems against DoS Attacks via Reinforcement Learning and Game Theory](https://www.mdpi.com/2076-0825/11/7/192)
 * [(2022) Developing Optimal Causal Cyber-Defence Agents via Cyber Security Simulation](https://www.researchgate.net/publication/361638424_Developing_Optimal_Causal_Cyber-Defence_Agents_via_Cyber_Security_Simulation)
