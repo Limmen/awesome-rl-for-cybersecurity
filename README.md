@@ -330,6 +330,7 @@ For other related curated lists, see :
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://ieeexplore.ieee.org/document/9789707) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Regular Papers
+* [(2022) ReLFA: Resist Link Flooding Attacks via Renyi Entropy and Deep Reinforcement Learning in SDN-IoT](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9837856)
 * [(2022) An Artificial Intelligence-Enabled Framework for Optimizing the Dynamic Cyber Vulnerability Management Process](https://drive.google.com/file/d/160G5f0V86ggVFcFxtYbig2eeXu3nWTFC/view)
 * [(2022) Eavesdropping Game Based on Multi-Agent Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9833927)
 * [(2022) A Hidden Attack Sequences Detection Method Based on Dynamic Reward Deep Deterministic Policy Gradient](https://www.hindawi.com/journals/scn/2022/1488344/)
