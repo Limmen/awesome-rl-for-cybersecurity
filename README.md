@@ -333,6 +333,7 @@ For other related curated lists, see :
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2022) AutoCAT: Reinforcement Learning for Automated Exploration of Cache-Timing Attacks](https://arxiv.org/pdf/2208.08025.pdf)
 * [(2022) GPDS: A multi-agent deep reinforcement learning game for anti-jamming secure computing in MEC network](https://www.sciencedirect.com/science/article/pii/S0957417422015044)
 * [(2022) Reinforcement Learning based Adversarial Malware Example Generation Against Black-Box Detectors](https://www.sciencedirect.com/science/article/pii/S0167404822002632)
 * [(2022) SAC-AP: Soft Actor Critic based Deep Reinforcement Learning for Alert Prioritization](https://arxiv.org/pdf/2207.13666.pdf)
