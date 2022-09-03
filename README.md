@@ -333,6 +333,10 @@ For other related curated lists, see :
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2022) Reinforcement Learning for Hardware Security: Opportunities, Developments, and Challenges](https://arxiv.org/pdf/2208.13885.pdf)
+* [(2022) Attrition: Attacking Static Hardware Trojan Detection Techniques Using Reinforcement Learning](https://arxiv.org/pdf/2208.12897.pdf)
+* [(2022) Deep Reinforcement Learning in the Advanced Cybersecurity Threat Detection and Protection](https://link.springer.com/article/10.1007/s10796-022-10333-x)
+* [(2022) ReCEIF: Reinforcement Learning-Controlled Effective Ingress Filtering](https://www.computer.org/csdl/proceedings-article/lcn/2022/09843478/1G9C5AMjieI)
 * [(2022) AutoCAT: Reinforcement Learning for Automated Exploration of Cache-Timing Attacks](https://arxiv.org/pdf/2208.08025.pdf)
 * [(2022) GPDS: A multi-agent deep reinforcement learning game for anti-jamming secure computing in MEC network](https://www.sciencedirect.com/science/article/pii/S0957417422015044)
 * [(2022) Reinforcement Learning based Adversarial Malware Example Generation Against Black-Box Detectors](https://www.sciencedirect.com/science/article/pii/S0167404822002632)
