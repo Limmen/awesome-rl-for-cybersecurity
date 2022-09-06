@@ -333,6 +333,7 @@ For other related curated lists, see :
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2022) H4rm0ny: A Competitive Zero-Sum Two-Player Markov Game for Multi-Agent Learning on Evasive Malware Generation and Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9850345)
 * [(2022) Reinforcement Learning for Hardware Security: Opportunities, Developments, and Challenges](https://arxiv.org/pdf/2208.13885.pdf)
 * [(2022) Attrition: Attacking Static Hardware Trojan Detection Techniques Using Reinforcement Learning](https://arxiv.org/pdf/2208.12897.pdf)
 * [(2022) Deep Reinforcement Learning in the Advanced Cybersecurity Threat Detection and Protection](https://link.springer.com/article/10.1007/s10796-022-10333-x)
