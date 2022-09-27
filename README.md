@@ -333,6 +333,8 @@ For other related curated lists, see :
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2022) Smart Grid Worm Detection Based on Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9880818)
+* [(2022) Deep reinforcement learning based IRS-assisted mobile edge computing under physical-layer security](https://www.sciencedirect.com/science/article/pii/S1874490722001732)
 * [(2022) Reinforcement Learning for Intrusion Detection: More Model Longness and Fewer Updates](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9893186)
 * [(2022) AutoDefense: Reinforcement Learning Based Autoreactive Defense Against Network Attacks](https://cs.ucf.edu/~mohaisen/doc/cns22.pdf)
 * [(2022) ProAPT: Projection of APT Threats with Deep Reinforcement Learning](https://arxiv.org/pdf/2209.07215.pdf)
