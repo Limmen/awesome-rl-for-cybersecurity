@@ -604,6 +604,7 @@ For other related curated lists, see :
 
 ## [↑](#table-of-contents) Talks
 
+* [(2022) Poster: Study of Intelligent Cyber Range Simulation using Reinforcement Learning](https://www.youtube.com/watch?v=-BSlO98lqMM)
 * [(2022) Paper Study - Survey of Reinforcement Learning for Cyber Security](https://www.youtube.com/watch?v=gyLyR9yM7QU)
 * [(2022) The Role of Artificial Intelligence in Cyber-Defence | AI & Cybersecurity | Vincent Lenders](https://www.youtube.com/watch?v=GpvpSBaif6M)
 * [(2022) Learning Security Strategies through Game Play and Optimal Stopping - Hammar & Stadler](https://www.youtube.com/watch?v=Qz6huGXjhec)
