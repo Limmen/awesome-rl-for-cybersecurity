@@ -605,7 +605,7 @@ For other related curated lists, see :
 * [(2021) Towards a method for computing effective intrusion prevention policies using reinforcement learning](https://limmen.dev/towards-a-method-for-computing-effective-intrusion-prevention-policies-using-rl)
 
 ## [↑](#table-of-contents) Talks
-
+* [(2022) NordSec 2021 - SQL Injections and Reinforcement Learning](https://www.youtube.com/watch?v=pb9Z2rjJaWo)
 * [(2022) Poster: Study of Intelligent Cyber Range Simulation using Reinforcement Learning](https://www.youtube.com/watch?v=-BSlO98lqMM)
 * [(2022) Paper Study - Survey of Reinforcement Learning for Cyber Security](https://www.youtube.com/watch?v=gyLyR9yM7QU)
 * [(2022) The Role of Artificial Intelligence in Cyber-Defence | AI & Cybersecurity | Vincent Lenders](https://www.youtube.com/watch?v=GpvpSBaif6M)
