@@ -333,6 +333,7 @@ For other related curated lists, see :
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2022) A Comprehensive Survey on Security Attacks to Edge Server of IoT Devices through Reinforcement Learning](https://www.researchgate.net/profile/Anit-Kumar-6/publication/363832239_A_Comprehensive_Survey_on_Security_Attacks_to_Edge_Server_of_IoT_Devices_through_Reinforcement_Learning/links/632ffdab86b22d3db4de4061/A-Comprehensive-Survey-on-Security-Attacks-to-Edge-Server-of-IoT-Devices-through-Reinforcement-Learning.pdf)
 * [(2022) Smart Grid Worm Detection Based on Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9880818)
 * [(2022) Deep reinforcement learning based IRS-assisted mobile edge computing under physical-layer security](https://www.sciencedirect.com/science/article/pii/S1874490722001732)
 * [(2022) Reinforcement Learning for Intrusion Detection: More Model Longness and Fewer Updates](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9893186)
