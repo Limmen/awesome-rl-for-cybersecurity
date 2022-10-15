@@ -333,7 +333,8 @@ For other related curated lists, see :
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
-* [(2022) Mitigating Jamming Attack in 5 G Heterogeneous Networks: A Federated Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/9914678)
+* [(2022) DeepThrottle: Deep Reinforcement Learning for Router Throttling to Defend Against DDoS Attack in SDN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894298)
+* [(2022) Mitigating Jamming Attack in 5G Heterogeneous Networks: A Federated Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/9914678)
 * [(2022) Deep Reinforcement Learning based Evasion Generative Adversarial Network for Botnet Detection](https://arxiv.org/pdf/2210.02840.pdf)
 * [(2022) Adaptive threat mitigation in SDN using improved D3QN](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12339/1233911/Adaptive-threat-mitigation-in-SDN-using-improved-D3QN/10.1117/12.2652679.full?SSO=1)
 * [(2022) A Comprehensive Survey on Security Attacks to Edge Server of IoT Devices through Reinforcement Learning](https://www.researchgate.net/profile/Anit-Kumar-6/publication/363832239_A_Comprehensive_Survey_on_Security_Attacks_to_Edge_Server_of_IoT_Devices_through_Reinforcement_Learning/links/632ffdab86b22d3db4de4061/A-Comprehensive-Survey-on-Security-Attacks-to-Edge-Server-of-IoT-Devices-through-Reinforcement-Learning.pdf)
@@ -664,7 +665,7 @@ For other related curated lists, see :
 
 ## Contribute
 
-Contribution are very welcome and will be accepted on a regular basis! Please use Github issues and pull requests.
+Contributions are very welcome. Please use Github issues and pull requests.
 
 ### List of Contributors
 
