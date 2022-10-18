@@ -333,6 +333,7 @@ For other related curated lists, see :
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2022) IEEE P2668-Compliant Multi-Layer IoT-DDoS Defense System Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9916301)
 * [(2022) Privacy-Enhanced Intrusion Detection and Defense for Cyber-Physical Systems: A Deep Reinforcement Learning Approach](https://downloads.hindawi.com/journals/scn/2022/4996427.pdf)
 * [(2022) DeepThrottle: Deep Reinforcement Learning for Router Throttling to Defend Against DDoS Attack in SDN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894298)
 * [(2022) Breakthrough to Adaptive and Cost-Aware Hardware-Assisted Zero-Day Malware Detection: A Reinforcement Learning-Based Approach](https://www.researchgate.net/profile/Zhangying-He/publication/364290246_Breakthrough_to_Adaptive_and_Cost-Aware_Hardware-Assisted_Zero-Day_Malware_Detection_A_Reinforcement_Learning-Based_Approach/links/634384d82752e45ef6a78bc6/Breakthrough-to-Adaptive-and-Cost-Aware-Hardware-Assisted-Zero-Day-Malware-Detection-A-Reinforcement-Learning-Based-Approach.pdf)
