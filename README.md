@@ -333,6 +333,7 @@ For other related curated lists, see :
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2022) Learning Games for Defending Advanced Persistent Threats in Cyber Systems](https://ieeexplore.ieee.org/abstract/document/9923774)
 * [(2022) IEEE P2668-Compliant Multi-Layer IoT-DDoS Defense System Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9916301)
 * [(2022) Privacy-Enhanced Intrusion Detection and Defense for Cyber-Physical Systems: A Deep Reinforcement Learning Approach](https://downloads.hindawi.com/journals/scn/2022/4996427.pdf)
 * [(2022) DeepThrottle: Deep Reinforcement Learning for Router Throttling to Defend Against DDoS Attack in SDN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894298)
@@ -576,7 +577,7 @@ For other related curated lists, see :
 * [(2000) Next Generation Intrusion Detection: Autonomous Reinforcement Learning of Network Attacks](https://neuro.bstu.by/ai/To-dom/My_research/Papers-0/For-research/D-mining/Anomaly-D/Intrusion-detection/033.pdf)
 
 ### PhD Theses
-
+* [(2022) Secure Automated and Autonomous Systems](https://escholarship.org/content/qt7vt506c3/qt7vt506c3.pdf)
 * [(2014) Distributed Reinforcement Learning for Network Intrusion Response](https://etheses.whiterose.ac.uk/8109/1/phd-thesis-malialis.pdf)
 * [(2009) Multi-Agent Reinforcement Learning for Intrusion Detection](https://etheses.whiterose.ac.uk/690/)
 
@@ -604,6 +605,7 @@ For other related curated lists, see :
 
 * [(2021) Game Theory and Machine Learning for Cyber Security (Chapter 5 on RL)](https://www.wiley.com/en-sg/Game+Theory+and+Machine+Learning+for+Cyber+Security-p-9781119723929)
 * [(2019) Reinforcement Learning for Cyber-Physical Systems with Cybersecurity Case Studies](https://www.bkstr.com/rivierstore/product/reinforcement-learning-for-cyber-physical-systems-494947-1)
+* [(2010) Network Security: A Decision and Game-Theoretic Approach](https://www.amazon.com/Network-Security-Decision-Game-Theoretic-Approach/dp/0521119324)
 
 ## [↑](#table-of-contents) Blogposts
 
