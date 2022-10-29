@@ -333,6 +333,7 @@ For other related curated lists, see :
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2022) Optimizing cybersecurity incident response decisions using deep reinforcement learning.](https://ijece.iaescore.com/index.php/IJECE/article/view/28164/16141)
 * [(2022) Robust Moving Target Defense against Unknown Attacks: A Meta-Reinforcement Learning Approach](https://www.cs.tulane.edu/~zzheng3/publication/metaRL-MTD.pdf)
 * [(2022) Learning Games for Defending Advanced Persistent Threats in Cyber Systems](https://ieeexplore.ieee.org/abstract/document/9923774)
 * [(2022) IEEE P2668-Compliant Multi-Layer IoT-DDoS Defense System Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9916301)
