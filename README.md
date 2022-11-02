@@ -230,6 +230,16 @@ For other related curated lists, see :
         </ul>
       </td>
     </tr>
+    <tr>
+  <td >
+        <a href='https://github.com/cage-challenge/cage-challenge-3'>cage-challenge-3</a>
+        <ul>
+          <li>
+           The third Cyber Autonomous Gym for Experimentation (CAGE) challenge environment.
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
