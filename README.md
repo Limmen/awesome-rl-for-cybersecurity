@@ -603,7 +603,7 @@ For other related curated lists, see :
 * [(2018) Analysis of Network Intrusion Detection System with Machine Learning Algorithms (Deep Reinforcement Learning Algorithm)](http://www.diva-portal.org/smash/get/diva2:1255686/FULLTEXT02.pdf)
 
 ### Bachelor Theses
-
+* [(2022) Simulating Network Lateral Movements through the CyberBattleSim Web Platform](https://dspace.mit.edu/bitstream/handle/1721.1/143191/Esteban-jesteban-meng-eecs-2022-thesis.pdf?sequence=1&isAllowed=y)
 * [(2018) Autonomous Penetration Testing using Reinforcement Learning](https://arxiv.org/pdf/1905.05965.pdf)
 
 ### Posters
