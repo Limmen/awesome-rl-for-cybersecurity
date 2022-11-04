@@ -343,6 +343,7 @@ For other related curated lists, see :
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2022) Cognitive Models of Dynamic Decisions in Autonomous Intelligent Cyber Defense.](https://www.researchgate.net/profile/Baptiste-Prebot/publication/364965185_Cognitive_Models_of_Dynamic_Decisions_in_Autonomous_Intelligent_Cyber_Defense/links/636165142f4bca7fd0229e7b/Cognitive-Models-of-Dynamic-Decisions-in-Autonomous-Intelligent-Cyber-Defense.pdf)
 * [(2022) Optimizing cybersecurity incident response decisions using deep reinforcement learning.](https://ijece.iaescore.com/index.php/IJECE/article/view/28164/16141)
 * [(2022) Robust Moving Target Defense against Unknown Attacks: A Meta-Reinforcement Learning Approach](https://www.cs.tulane.edu/~zzheng3/publication/metaRL-MTD.pdf)
 * [(2022) Learning Games for Defending Advanced Persistent Threats in Cyber Systems](https://ieeexplore.ieee.org/abstract/document/9923774)
