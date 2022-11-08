@@ -626,6 +626,7 @@ For other related curated lists, see :
 * [(2021) Towards a method for computing effective intrusion prevention policies using reinforcement learning](https://limmen.dev/towards-a-method-for-computing-effective-intrusion-prevention-policies-using-rl)
 
 ## [↑](#table-of-contents) Talks
+* [(2022) CNSM 2022, Adapting Security Policies in Dynamic IT Environments - Hammar & Stadler](https://www.youtube.com/watch?v=r1FD2-b-25g&)
 * [(2022) Self-Learning Systems for Cyber Defense](https://youtu.be/tpal1DoNBy8)
 * [(2022) Poster: Study of Intelligent Cyber Range Simulation using Reinforcement Learning](https://www.youtube.com/watch?v=-BSlO98lqMM)
 * [(2022) Paper Study - Survey of Reinforcement Learning for Cyber Security](https://www.youtube.com/watch?v=gyLyR9yM7QU)
