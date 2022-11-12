@@ -346,6 +346,29 @@ For other related curated lists, see :
 </table>
 
 
+### `FARLAND`
+
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/farland.png' width=300 />
+      </td>
+      <td width='50%'>
+        FARLAND (github repository missing)
+        <ul>
+          <li>
+            FARLAND is a framework for advanced Reinforcement Learning for autonomous network defense, that uniquely enables the design of network environments to gradually increase the complexity of models, providing a path for autonomous agents to increase their performance from apprentice to superhuman level, in the task of reconfiguring networks to mitigate cyberattacks.
+
+Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment Design for Autonomous Cyberdefense </a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
