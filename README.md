@@ -676,20 +676,16 @@ For other related curated lists, see :
 * [(2022) AISec '22: 15th ACM Workshop on Artificial Intelligence and Security](AISec '22: 15th ACM Workshop on Artificial Intelligence and Security)
 * [(2022) ICML Workshop on Machine Learning for Cybersecurity](https://sites.google.com/view/icml-ml4cyber/home?authuser=0)
 * [(2022) AAAI Workshop on Artificial Intelligence for Cyber Security (AICS)](http://aics.site/AICS2022/)
-* [(2022) ECMLPKDD Workshop on Machine Learning for Cybersecurity
-(MLCS)](https://mlcs.lasige.di.fc.ul.pt/)
+* [(2022) ECMLPKDD Workshop on Machine Learning for Cybersecurity(MLCS)](https://mlcs.lasige.di.fc.ul.pt/)
 * [(2021) IJCAI First International Workshop on Adaptive Cyber Defense](https://arxiv.org/html/2108.08476)
 * [(2021) ICONIP Workshop on Artificial Intelligence for Cyber Security (AICS)](https://www.csmining.org/cdmc2021/index.php?id=16)
-* [(2021) ECMLPKDD Workshop on Machine Learning for Cybersecurity
-(MLCS)](https://mlcs.lasige.di.fc.ul.pt/2021/index.html)
+* [(2021) ECMLPKDD Workshop on Machine Learning for Cybersecurity (MLCS)](https://mlcs.lasige.di.fc.ul.pt/2021/index.html)
 * [(2021) Self-Learning AI](https://www.darktrace.com/en/self-learning-ai/)
 * [(2021) AI/ML for Cybersecurity: Challenges, Solutions, and Novel Ideas at SIAM Data Mining 2021](https://arxiv.org/html/2104.13254)
-* [(2020) ECMLPKDD Workshop on Machine Learning for Cybersecurity
-(MLCS)](https://mlcs.lasige.di.fc.ul.pt/2020/)
+* [(2020) ECMLPKDD Workshop on Machine Learning for Cybersecurity(MLCS)](https://mlcs.lasige.di.fc.ul.pt/2020/)
 * [(2020) Self-Learning Systems for Cyber Defense](https://www.kth.se/cdis/research/self-learning-systems-for-cyber-defense-1.1050591)
 * [(2020) Workshop on Artificial Intelligence for Cyber Security (AICS)](https://arxiv.org/html/2002.08320)
-* [(2019) ECMLPKDD Workshop on Machine Learning for Cybersecurity
-(MLCS)](https://mlcs.lasige.di.fc.ul.pt/2019/)
+* [(2019) ECMLPKDD Workshop on Machine Learning for Cybersecurity (MLCS)](https://mlcs.lasige.di.fc.ul.pt/2019/)
 * [(2019) Workshop on Artificial Intelligence for Cyber Security (AICS)](https://arxiv.org/html/1812.07469)
 
 ## Contribute
