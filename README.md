@@ -325,6 +325,7 @@ For other related curated lists, see :
 </table>
 
 ### `Cyborg`
+
 <table>
   <tbody>
     <tr>
@@ -332,17 +333,18 @@ For other related curated lists, see :
         <img src='imgs/cyborg.png' width=300 />
       </td>
       <td width='50%'>
-        <a href='https://github.com/cage-challenge/CybORG>Cyborg</a>
+        <a href='https://github.com/cage-challenge/CybORG'>Cyborg</a>
         <ul>
           <li>
             Cyborg is a gym for autonomous cyberg operations research that is driven by the need to efficiently support reinforcement learning to train adversarial decision-making models through simulation and emulation.
-			Paper: <a href="https://arxiv.org/abs/2002.10667">(2020) CybORG: An Autonomous Cyber Operations Research Gym</a>
+			Paper: <a href="https://arxiv.org/abs/2002.10667">(2020) CybORG: An Autonomous Cyber Operations Research Gym </a>
           </li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 ## [↑](#table-of-contents) Papers
 
