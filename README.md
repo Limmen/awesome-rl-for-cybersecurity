@@ -673,7 +673,7 @@ For other related curated lists, see :
 
 ## [↑](#table-of-contents) Miscellaneous
 
-* [(2022) AISec '22: 15th ACM Workshop on Artificial Intelligence and Security](AISec '22: 15th ACM Workshop on Artificial Intelligence and Security)
+* [(2022) AISec '22: 15th ACM Workshop on Artificial Intelligence and Security](https://dl.acm.org/doi/abs/10.1145/3548606.3563683)
 * [(2022) ICML Workshop on Machine Learning for Cybersecurity](https://sites.google.com/view/icml-ml4cyber/home?authuser=0)
 * [(2022) AAAI Workshop on Artificial Intelligence for Cyber Security (AICS)](http://aics.site/AICS2022/)
 * [(2022) ECMLPKDD Workshop on Machine Learning for Cybersecurity(MLCS)](https://mlcs.lasige.di.fc.ul.pt/)
