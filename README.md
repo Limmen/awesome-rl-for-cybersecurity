@@ -316,7 +316,8 @@ For other related curated lists, see :
         <ul>
           <li>
             Yawning Titan is an abstract, highly flexible, cyber security simulator that is capable of simulating a range of cyber security scenarios.
-			Paper: <a href="https://www.researchgate.net/publication/361638424_Developing_Optimal_Causal_Cyber-Defence_Agents_via_Cyber_Security_Simulation">(2022) Developing Optimal Causal Cyber-Defence Agents via Cyber Security Simulation</a>
+
+Paper: <a href="https://www.researchgate.net/publication/361638424_Developing_Optimal_Causal_Cyber-Defence_Agents_via_Cyber_Security_Simulation">(2022) Developing Optimal Causal Cyber-Defence Agents via Cyber Security Simulation</a>
           </li>
         </ul>
       </td>
@@ -337,7 +338,8 @@ For other related curated lists, see :
         <ul>
           <li>
             Cyborg is a gym for autonomous cyberg operations research that is driven by the need to efficiently support reinforcement learning to train adversarial decision-making models through simulation and emulation.
-			Paper: <a href="https://arxiv.org/abs/2002.10667">(2020) CybORG: An Autonomous Cyber Operations Research Gym </a>
+
+Paper: <a href="https://arxiv.org/abs/2002.10667">(2020) CybORG: An Autonomous Cyber Operations Research Gym </a>
           </li>
         </ul>
       </td>
