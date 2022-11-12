@@ -343,6 +343,7 @@ For other related curated lists, see :
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2022) RADAMS: Resilient and adaptive alert and attention management strategy against Informational Denial-of-Service (IDoS) attacks.](https://www.sciencedirect.com/science/article/pii/S0167404822002383)
 * [(2022) Cognitive Models of Dynamic Decisions in Autonomous Intelligent Cyber Defense.](https://www.researchgate.net/profile/Baptiste-Prebot/publication/364965185_Cognitive_Models_of_Dynamic_Decisions_in_Autonomous_Intelligent_Cyber_Defense/links/636165142f4bca7fd0229e7b/Cognitive-Models-of-Dynamic-Decisions-in-Autonomous-Intelligent-Cyber-Defense.pdf)
 * [(2022) Optimizing cybersecurity incident response decisions using deep reinforcement learning.](https://ijece.iaescore.com/index.php/IJECE/article/view/28164/16141)
 * [(2022) Robust Moving Target Defense against Unknown Attacks: A Meta-Reinforcement Learning Approach](https://www.cs.tulane.edu/~zzheng3/publication/metaRL-MTD.pdf)
@@ -413,6 +414,10 @@ For other related curated lists, see :
 * [(2022) Safe Exploration in Wireless Security: A Safe Reinforcement Learning Algorithm with Hierarchical Structure](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9705557)
 * [(2022) Discovering Exfiltration Paths Using Reinforcement Learning with Attack Graphs](https://arxiv.org/pdf/2201.12416.pdf)
 * [(2022) Multi-Agent Reinforcement Learning for Decentralized Resilient Secondary Control of Energy Storage Systems against DoS Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9676705)
+* [(2021) Network defense decision-making based on a stochastic game system and a deep recurrent Q-network](https://www.sciencedirect.com/science/article/pii/S0167404821003047)
+* [(2021) Discovering reflected cross-site scripting vulnerabilities using a multiobjective reinforcement learning environment](https://www.sciencedirect.com/science/article/pii/S0167404821003679)
+* [(2021) Enhancing the insertion of NOP instructions to obfuscate malware via deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0167404821003679)
+* [(2021) Automating post-exploitation with deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0167404820303813)
 * [(2021) Moving Target Defense as a Proactive Defense Element for Beyond 5G](https://ieeexplore.ieee.org/document/9579381)
 * [(2021) Network Resilience Under Epidemic Attacks: Deep Reinforcement Learning Network Topology Adaptations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9686036)
 * [(2021) An Intrusion Response Approach for Elastic Applications Based on Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9659882)
@@ -466,6 +471,7 @@ For other related curated lists, see :
 * [(2021) A Reinforcement Learning Approach for Dynamic Information Flow Tracking Games for Detecting Advanced Persistent Threats](https://arxiv.org/pdf/2007.00076.pdf)
 * [(2021) Deep Reinforcement Learning for Backup Strategies against Adversaries](https://arxiv.org/pdf/2102.06632.pdf)
 * [(2021) A Secure Learning Control Strategy via Dynamic Camouflaging for Unknown Dynamical Systems under Attacks](https://arxiv.org/pdf/2102.00573.pdf)
+* [(2020) Machine Learning Cyberattack and Defense Strategies](https://www.sciencedirect.com/science/article/pii/S0167404818309799)
 * [(2020) Reinforcement Learning for Attack Mitigation in SDN-enabled Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9165383)
 * [(2020) Per-Host DDoS Mitigation by Direct-Control Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935157)
 * [(2020) Game Theory and Reinforcement Learning Based Secure Edge Caching in Mobile Social Networks](https://ieeexplore.ieee.org/document/9036917)
@@ -507,6 +513,7 @@ For other related curated lists, see :
 * [(2020) Secure Crowdsensing in 5G Internet of Vehicles: When Deep Reinforcement Learning Meets Blockchain](https://ieeexplore.ieee.org/document/9311241)
 * [(2020) Deep Reinforcement Learning based Intrusion Detection System for Cloud Infrastructure](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9027452)
 * [(2020) Application of deep reinforcement learning to intrusion detection for supervised problems](https://www.sciencedirect.com/science/article/pii/S0957417419306815)
+* [(2019) A dynamic games approach to proactive defense strategies against Advanced Persistent Threats in cyber-physical systems](https://www.sciencedirect.com/science/article/pii/S0167404819302020)
 * [(2019) Deep Q-Learning and Particle Swarm Optimization for Bot Detection in Online Social Networks](https://ieeexplore.ieee.org/document/8944493)
 * [(2019) Finding Needles in a Moving Haystack: Prioritizing Alerts with Adversarial Reinforcement Learning](https://arxiv.org/abs/1906.08805)
 * [(2019) Evaluation of Reinforcement Learning-Based False Data Injection Attack to Automatic Voltage Control](https://ieeexplore.ieee.org/document/8248780)
@@ -589,6 +596,7 @@ For other related curated lists, see :
 * [(2000) Next Generation Intrusion Detection: Autonomous Reinforcement Learning of Network Attacks](https://neuro.bstu.by/ai/To-dom/My_research/Papers-0/For-research/D-mining/Anomaly-D/Intrusion-detection/033.pdf)
 
 ### PhD Theses
+* [(2022) Anomaly Detection in Competitive Multiplayer Games](https://open.bu.edu/handle/2144/45316)
 * [(2022) Secure Automated and Autonomous Systems](https://escholarship.org/content/qt7vt506c3/qt7vt506c3.pdf)
 * [(2014) Distributed Reinforcement Learning for Network Intrusion Response](https://etheses.whiterose.ac.uk/8109/1/phd-thesis-malialis.pdf)
 * [(2009) Multi-Agent Reinforcement Learning for Intrusion Detection](https://etheses.whiterose.ac.uk/690/)
