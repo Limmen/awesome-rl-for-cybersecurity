@@ -316,7 +316,54 @@ For other related curated lists, see :
         <ul>
           <li>
             Yawning Titan is an abstract, highly flexible, cyber security simulator that is capable of simulating a range of cyber security scenarios.
-			Paper: <a href="https://www.researchgate.net/publication/361638424_Developing_Optimal_Causal_Cyber-Defence_Agents_via_Cyber_Security_Simulation">(2022) Developing Optimal Causal Cyber-Defence Agents via Cyber Security Simulation</a>
+vvvvvvvvvvvvvvvvvvvv
+
+Paper: <a href="https://www.researchgate.net/publication/361638424_Developing_Optimal_Causal_Cyber-Defence_Agents_via_Cyber_Security_Simulation">(2022) Developing Optimal Causal Cyber-Defence Agents via Cyber Security Simulation</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### `Cyborg`
+
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/cyborg.png' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/cage-challenge/CybORG'>Cyborg</a>
+        <ul>
+          <li>
+            Cyborg is a gym for autonomous cyberg operations research that is driven by the need to efficiently support reinforcement learning to train adversarial decision-making models through simulation and emulation.
+
+Paper: <a href="https://arxiv.org/abs/2002.10667">(2020) CybORG: An Autonomous Cyber Operations Research Gym </a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+### `FARLAND`
+
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/farland.png' width=300 />
+      </td>
+      <td width='50%'>
+        FARLAND (github repository missing)
+        <ul>
+          <li>
+            FARLAND is a framework for advanced Reinforcement Learning for autonomous network defense, that uniquely enables the design of network environments to gradually increase the complexity of models, providing a path for autonomous agents to increase their performance from apprentice to superhuman level, in the task of reconfiguring networks to mitigate cyberattacks.
+
+Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment Design for Autonomous Cyberdefense </a>
           </li>
         </ul>
       </td>
@@ -343,7 +390,7 @@ For other related curated lists, see :
     </tr>
   </tbody>
 </table>
-
+^^^^^^^^^^^^^^^^^^^^
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
@@ -437,6 +484,10 @@ For other related curated lists, see :
 * [(2022) Safe Exploration in Wireless Security: A Safe Reinforcement Learning Algorithm with Hierarchical Structure](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9705557)
 * [(2022) Discovering Exfiltration Paths Using Reinforcement Learning with Attack Graphs](https://arxiv.org/pdf/2201.12416.pdf)
 * [(2022) Multi-Agent Reinforcement Learning for Decentralized Resilient Secondary Control of Energy Storage Systems against DoS Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9676705)
+* [(2021) Network defense decision-making based on a stochastic game system and a deep recurrent Q-network](https://www.sciencedirect.com/science/article/pii/S0167404821003047)
+* [(2021) Discovering reflected cross-site scripting vulnerabilities using a multiobjective reinforcement learning environment](https://www.sciencedirect.com/science/article/pii/S0167404821003679)
+* [(2021) Enhancing the insertion of NOP instructions to obfuscate malware via deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0167404821003679)
+* [(2021) Automating post-exploitation with deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0167404820303813)
 * [(2021) Moving Target Defense as a Proactive Defense Element for Beyond 5G](https://ieeexplore.ieee.org/document/9579381)
 * [(2021) Network Resilience Under Epidemic Attacks: Deep Reinforcement Learning Network Topology Adaptations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9686036)
 * [(2021) An Intrusion Response Approach for Elastic Applications Based on Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9659882)
@@ -492,6 +543,7 @@ For other related curated lists, see :
 * [(2021) A Reinforcement Learning Approach for Dynamic Information Flow Tracking Games for Detecting Advanced Persistent Threats](https://arxiv.org/pdf/2007.00076.pdf)
 * [(2021) Deep Reinforcement Learning for Backup Strategies against Adversaries](https://arxiv.org/pdf/2102.06632.pdf)
 * [(2021) A Secure Learning Control Strategy via Dynamic Camouflaging for Unknown Dynamical Systems under Attacks](https://arxiv.org/pdf/2102.00573.pdf)
+* [(2020) Machine Learning Cyberattack and Defense Strategies](https://www.sciencedirect.com/science/article/pii/S0167404818309799)
 * [(2020) Reinforcement Learning for Attack Mitigation in SDN-enabled Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9165383)
 * [(2020) Per-Host DDoS Mitigation by Direct-Control Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935157)
 * [(2020) Game Theory and Reinforcement Learning Based Secure Edge Caching in Mobile Social Networks](https://ieeexplore.ieee.org/document/9036917)
@@ -619,6 +671,7 @@ For other related curated lists, see :
 * [(2000) Next Generation Intrusion Detection: Autonomous Reinforcement Learning of Network Attacks](https://neuro.bstu.by/ai/To-dom/My_research/Papers-0/For-research/D-mining/Anomaly-D/Intrusion-detection/033.pdf)
 
 ### PhD Theses
+* [(2022) Anomaly Detection in Competitive Multiplayer Games](https://open.bu.edu/handle/2144/45316)
 * [(2022) Secure Automated and Autonomous Systems](https://escholarship.org/content/qt7vt506c3/qt7vt506c3.pdf)
 * [(2014) Distributed Reinforcement Learning for Network Intrusion Response](https://etheses.whiterose.ac.uk/8109/1/phd-thesis-malialis.pdf)
 * [(2009) Multi-Agent Reinforcement Learning for Intrusion Detection](https://etheses.whiterose.ac.uk/690/)
@@ -695,22 +748,19 @@ For other related curated lists, see :
 
 ## [↑](#table-of-contents) Miscellaneous
 
+* [(2022) AISec '22: 15th ACM Workshop on Artificial Intelligence and Security](https://dl.acm.org/doi/abs/10.1145/3548606.3563683)
 * [(2022) ICML Workshop on Machine Learning for Cybersecurity](https://sites.google.com/view/icml-ml4cyber/home?authuser=0)
 * [(2022) AAAI Workshop on Artificial Intelligence for Cyber Security (AICS)](http://aics.site/AICS2022/)
-* [(2022) ECMLPKDD Workshop on Machine Learning for Cybersecurity
-(MLCS)](https://mlcs.lasige.di.fc.ul.pt/)
+* [(2022) ECMLPKDD Workshop on Machine Learning for Cybersecurity(MLCS)](https://mlcs.lasige.di.fc.ul.pt/)
 * [(2021) IJCAI First International Workshop on Adaptive Cyber Defense](https://arxiv.org/html/2108.08476)
 * [(2021) ICONIP Workshop on Artificial Intelligence for Cyber Security (AICS)](https://www.csmining.org/cdmc2021/index.php?id=16)
-* [(2021) ECMLPKDD Workshop on Machine Learning for Cybersecurity
-(MLCS)](https://mlcs.lasige.di.fc.ul.pt/2021/index.html)
+* [(2021) ECMLPKDD Workshop on Machine Learning for Cybersecurity (MLCS)](https://mlcs.lasige.di.fc.ul.pt/2021/index.html)
 * [(2021) Self-Learning AI](https://www.darktrace.com/en/self-learning-ai/)
 * [(2021) AI/ML for Cybersecurity: Challenges, Solutions, and Novel Ideas at SIAM Data Mining 2021](https://arxiv.org/html/2104.13254)
-* [(2020) ECMLPKDD Workshop on Machine Learning for Cybersecurity
-(MLCS)](https://mlcs.lasige.di.fc.ul.pt/2020/)
+* [(2020) ECMLPKDD Workshop on Machine Learning for Cybersecurity(MLCS)](https://mlcs.lasige.di.fc.ul.pt/2020/)
 * [(2020) Self-Learning Systems for Cyber Defense](https://www.kth.se/cdis/research/self-learning-systems-for-cyber-defense-1.1050591)
 * [(2020) Workshop on Artificial Intelligence for Cyber Security (AICS)](https://arxiv.org/html/2002.08320)
-* [(2019) ECMLPKDD Workshop on Machine Learning for Cybersecurity
-(MLCS)](https://mlcs.lasige.di.fc.ul.pt/2019/)
+* [(2019) ECMLPKDD Workshop on Machine Learning for Cybersecurity (MLCS)](https://mlcs.lasige.di.fc.ul.pt/2019/)
 * [(2019) Workshop on Artificial Intelligence for Cyber Security (AICS)](https://arxiv.org/html/1812.07469)
 
 ## Contribute
