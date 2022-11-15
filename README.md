@@ -324,6 +324,26 @@ For other related curated lists, see :
   </tbody>
 </table>
 
+### `SecureAI`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/secureai.png' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/ansi-code/secureai-java'>SecureAI</a>
+        <ul>
+          <li>
+            SecureAI: Deep Reinforcement Learning for Self-Protection in Non-Stationary Cloud Architectures
+			Paper: <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9659882">(2021) An Intrusion Response Approach for Elastic Applications Based on Reinforcement Learning</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
@@ -343,6 +363,10 @@ For other related curated lists, see :
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2022) Cascaded Reinforcement Learning Agents for Large Action Spaces in Autonomous Penetration Testing.](https://www.mdpi.com/2076-3417/12/21/11265)
+* [(2022) Model-Free Deep Reinforcement Learning in Software-Defined Networks.](https://www.semanticscholar.org/reader/fd2fc84bc8366962b90c1c8228ff12ad17154cbb)
+* [(2022) Hierarchical reinforcement learning guidance with threat avoidance.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9940160)
+* [(2022) Exposing Surveillance Detection Routes via Reinforcement Learning, Attack Graphs, and Cyber Terrain.](https://arxiv.org/pdf/2211.03027.pdf)
 * [(2022) Cognitive Models of Dynamic Decisions in Autonomous Intelligent Cyber Defense.](https://www.researchgate.net/profile/Baptiste-Prebot/publication/364965185_Cognitive_Models_of_Dynamic_Decisions_in_Autonomous_Intelligent_Cyber_Defense/links/636165142f4bca7fd0229e7b/Cognitive-Models-of-Dynamic-Decisions-in-Autonomous-Intelligent-Cyber-Defense.pdf)
 * [(2022) Optimizing cybersecurity incident response decisions using deep reinforcement learning.](https://ijece.iaescore.com/index.php/IJECE/article/view/28164/16141)
 * [(2022) Robust Moving Target Defense against Unknown Attacks: A Meta-Reinforcement Learning Approach](https://www.cs.tulane.edu/~zzheng3/publication/metaRL-MTD.pdf)
@@ -437,6 +461,7 @@ For other related curated lists, see :
 * [(2021) Autonomous network cyber offence strategy through deep reinforcement learning](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11746/1174622/Autonomous-network-cyber-offence-strategy-through-deep-reinforcement-learning/10.1117/12.2585173.full?SSO=1)
 * [(2021) CyGIL: A Cyber Gym for Training Autonomous Agents over Emulated Network Systems](https://arxiv.org/abs/2109.03331)
 * [(2021) Constraints Satisfiability Driven Reinforcement Learning for Autonomous Cyber Defense](https://arxiv.org/abs/2104.08994#:~:text=Constraints%20Satisfiability%20Driven%20Reinforcement%20Learning%20for%20Autonomous%20Cyber%20Defense,-Ashutosh%20Dutta%2C%20Ehab&text=The%20incorporation%20of%20SMT%20does,toward%20safe%20and%20effective%20actions.)
+* [(2021) Curious SDN for network attack mitigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9742225)
 * [(2021) Catch Me If You Learn: Real-Time Attack Detection and Mitigation in Learning Enabled CPS](https://ieeexplore.ieee.org/document/9622383)
 * [(2021) SyzVegas: Beating Kernel Fuzzing Odds with Reinforcement Learning](https://www.usenix.org/system/files/sec21-wang-daimeng.pdf)
 * [(2021) Network Environment Design for Autonomous Cyberdefense](https://arxiv.org/pdf/2103.07583.pdf)
@@ -456,6 +481,7 @@ For other related curated lists, see :
 * [(2021) Using Cyber Terrain in Reinforcement Learning for Penetration Testing](https://arxiv.org/abs/2108.07124)
 * [(2021) Reinforcement learning based self-adaptive moving target defense against DDoS attacks](https://www.researchgate.net/publication/349576214_Reinforcement_learning_based_self-adaptive_moving_target_defense_against_DDoS_attacks)
 * [(2021) Modeling, Detecting, and Mitigating Threats Against Industrial Healthcare Systems: A Combined Software Defined Networking and Reinforcement Learning Approach](https://ieeexplore.ieee.org/document/9470933)
+* [(2021) Lightweight IDS For UAV Networks: A Periodic Deep Reinforcement Learning-based Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9463947)
 * [(2021) DESOLATER: Deep Reinforcement Learning-Based Resource Allocation and Moving Target Defense Deployment Framework](https://ieeexplore.ieee.org/document/9418999)
 * [(2021) RAIDER: Reinforcement-aided Spear Phishing Detector](https://arxiv.org/abs/2105.07582)
 * [(2021) DDoS Mitigation Based on Space-Time Flow Regularities in IoV: A Feature Adaption Reinforcement Learning Approach](https://ieeexplore.ieee.org/document/9408414)
@@ -507,6 +533,7 @@ For other related curated lists, see :
 * [(2020) Secure Crowdsensing in 5G Internet of Vehicles: When Deep Reinforcement Learning Meets Blockchain](https://ieeexplore.ieee.org/document/9311241)
 * [(2020) Deep Reinforcement Learning based Intrusion Detection System for Cloud Infrastructure](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9027452)
 * [(2020) Application of deep reinforcement learning to intrusion detection for supervised problems](https://www.sciencedirect.com/science/article/pii/S0957417419306815)
+* [(2019) A Performance Evaluation of Deep Reinforcement Learning for Model-Based Intrusion Response](https://www.cse.msstate.edu/wp-content/uploads/2019/11/ic12.pdf)
 * [(2019) Deep Q-Learning and Particle Swarm Optimization for Bot Detection in Online Social Networks](https://ieeexplore.ieee.org/document/8944493)
 * [(2019) Finding Needles in a Moving Haystack: Prioritizing Alerts with Adversarial Reinforcement Learning](https://arxiv.org/abs/1906.08805)
 * [(2019) Evaluation of Reinforcement Learning-Based False Data Injection Attack to Automatic Voltage Control](https://ieeexplore.ieee.org/document/8248780)
@@ -526,6 +553,7 @@ For other related curated lists, see :
 * [(2019) Reinforcement Learning-Based DoS Mitigation in Software Defined Networks](https://www.springerprofessional.de/en/reinforcement-learning-based-dos-mitigation-in-software-defined-/17630266)
 * [(2019) Adversarial attack and defense in reinforcement learning-from AI security view](https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0027-x.pdf)
 * [(2019) A Learning-Based Solution for an Adversarial Repeated Game in Cyber–Physical Power Systems](https://par.nsf.gov/servlets/purl/10280062)
+* [(2019) Reinforcement Learning for Cyber-Physical Security Assessment of Power Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8810568)
 * [(2019) Empowering Reinforcement Learning on Big Sensed Data for Intrusion Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8761575)
 * [(2019) Cyber-Attack Recovery Strategy for Smart Grid Based on Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/8915727)
 * [(2019) Deep Reinforcement Learning for Partially Observable Data Poisoning Attack in Crowdsensing Systems](https://ieeexplore.ieee.org/document/8945245)
@@ -543,10 +571,12 @@ For other related curated lists, see :
 * [(2018) Machine learning for autonomous cyber defense](https://www.nsa.gov/portals/75/documents/resources/everyone/digital-media-center/publications/the-next-wave/TNW-22-1.pdf)
 * [(2018) Online Cyber-Attack Detection in Smart Grid: A Reinforcement Learning Approach](https://arxiv.org/abs/1809.05258)
 * [(2018) Deep Reinforcement Learning based Smart Mitigation of DDoS Flooding in Software-Defined Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8514971)
+* [(2018) Off-Policy Q-learning Technique for Intrusion Response in Network Security](https://www.semanticscholar.org/paper/Off-Policy-Q-learning-Technique-for-Intrusion-in-Stefanova-Ramachandran/737667620f7696ad2089808eb810f8a95ee2a1e3#extracted)
 * [(2018) UAV Relay in VANETs Against Smart Jamming With Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8246580)
 * [(2018) A Game-Theoretical Approach to Cyber-Security of Critical Infrastructures Based on Multi-Agent Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8442695)
 * [(2018) Security in Mobile Edge Caching with Reinforcement Learning](https://arxiv.org/pdf/1801.05915.pdf)
 * [(2018) Robotics CTF (RCTF), a playground for robot hacking](https://arxiv.org/abs/1810.02690)
+* [(2018) NIDSRL: Network Based Intrusion Detection System Using Reinforcement Learning ](https://www.researchtrend.net/ijeece/pdf/IJEECE-1093-DARSHANA%20KAMAVISDAR.pdf)
 * [(2018) An IRL Approach for Cyber-Physical Attack Intention Prediction and Recovery](https://ieeexplore.ieee.org/document/8430922)
 * [(2018) QRASSH - A Self-Adaptive SSH Honeypot Driven by Q-Learning](https://ieeexplore.ieee.org/document/8430922)
 * [(2018) Using Reinforcement Learning to Conceal Honeypot Functionality](https://www.semanticscholar.org/paper/Using-Reinforcement-Learning-to-Conceal-Honeypot-Dowling-Schukat/a081d7606d18dc6e30a7b0395faf7909e84c721c)
