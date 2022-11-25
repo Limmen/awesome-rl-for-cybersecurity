@@ -316,7 +316,6 @@ For other related curated lists, see :
         <ul>
           <li>
             Yawning Titan is an abstract, highly flexible, cyber security simulator that is capable of simulating a range of cyber security scenarios.
-vvvvvvvvvvvvvvvvvvvv
 
 Paper: <a href="https://www.researchgate.net/publication/361638424_Developing_Optimal_Causal_Cyber-Defence_Agents_via_Cyber_Security_Simulation">(2022) Developing Optimal Causal Cyber-Defence Agents via Cyber Security Simulation</a>
           </li>
