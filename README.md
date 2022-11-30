@@ -410,6 +410,8 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2022) Beyond CAGE: Investigating Generalization of Learned Autonomous Network Defense Policies](https://arxiv.org/pdf/2211.15557.pdf)
+* [(2022) Bridging Automated to Autonomous Cyber Defense: Foundational Analysis of Tabular Q-Learning.](https://dl.acm.org/doi/pdf/10.1145/3560830.3563732)
 * [(2022) Cascaded Reinforcement Learning Agents for Large Action Spaces in Autonomous Penetration Testing.](https://www.mdpi.com/2076-3417/12/21/11265)
 * [(2022) Model-Free Deep Reinforcement Learning in Software-Defined Networks.](https://www.semanticscholar.org/reader/fd2fc84bc8366962b90c1c8228ff12ad17154cbb)
 * [(2022) Hierarchical reinforcement learning guidance with threat avoidance.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9940160)
