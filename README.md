@@ -8,6 +8,10 @@ For other related curated lists, see :
 * [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 * [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 
+<p align="center">
+<img src="imgs/network_chess.png" width="40%", height="40%">
+</p>
+
 ## Table of Contents
 
  - [RL-Environments](#-environments)
