@@ -9,7 +9,7 @@ For other related curated lists, see :
 * [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 
 <p align="center">
-<img src="imgs/network_chess.png" width="40%", height="40%">
+<img src="imgs/network_chess.png" width="50%", height="50%">
 </p>
 
 ## Table of Contents
