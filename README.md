@@ -753,6 +753,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 
 ## [↑](#table-of-contents) Miscellaneous
 
+* [(2022) DARPA's CASTLE: Cyber Agents for Security Testing and Learning Environments using Reinforcement Learning](https://www.darpa.mil/news-events/2022-10-24)
 * [(2022) AISec '22: 15th ACM Workshop on Artificial Intelligence and Security](https://dl.acm.org/doi/abs/10.1145/3548606.3563683)
 * [(2022) ICML Workshop on Machine Learning for Cybersecurity](https://sites.google.com/view/icml-ml4cyber/home?authuser=0)
 * [(2022) AAAI Workshop on Artificial Intelligence for Cyber Security (AICS)](http://aics.site/AICS2022/)
