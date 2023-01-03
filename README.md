@@ -414,6 +414,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2022) DRAGON: Deep Reinforcement Learning for Autonomous Grid Operation and Attack Detection](https://dl.acm.org/doi/10.1145/3564625.3567969)
 * [(2022) Sequential Topology Attack of Supply Chain Networks Based on Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9970706)
 * [(2022) Defend to Defeat: Limiting Information Leakage in Defending against Advanced Persistent Threats](https://ieeexplore.ieee.org/abstract/document/9987540)
 * [(2022) How to Attack and Defend NextG Radio Access Network Slicing with Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9984930)
