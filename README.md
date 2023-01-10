@@ -394,6 +394,25 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
   </tbody>
 </table>
 
+### `CYST`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/cyst.png' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://muni.cz/go/cyst-user'>CYST</a>
+        <ul>
+          <li>
+            CYST is a multi-agent discrete-event simulation framework tailored for cybersecurity domain. Its goal is to enable high-throughput and realistic simulation of cybersecurity interactions in arbitrary infrastructures. <br/><br/>
+			Paper: <a href="https://ieeexplore.ieee.org/abstract/document/9213690">(2020) Session-level Adversary Intent-Driven Cyberattack Simulator</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## [↑](#table-of-contents) Papers
 
