@@ -439,6 +439,8 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2023) HAXSS: Hierarchical Reinforcement Learning for XSS Payload Generation](http://wwwhomes.doc.ic.ac.uk/~maffeis/papers/trustcom22.pdf)
 * [(2023) A Transfer Double Deep Q Network Based DDoS Detection Method for Internet of Vehicles](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10005139)
 * [(2022) DRAGON: Deep Reinforcement Learning for Autonomous Grid Operation and Attack Detection](https://dl.acm.org/doi/10.1145/3564625.3567969)
+* [(2022) A Model-Free Approach to Intrusion Response Systems](https://www.sciencedirect.com/science/article/pii/S2214212622000400)
+* [(2022) Reinforcement Learning Agents for Simulating Normal and Malicious Actions in Cyber Range Scenarios](https://ceur-ws.org/Vol-3260/paper1.pdf)
 * [(2022) Sequential Topology Attack of Supply Chain Networks Based on Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9970706)
 * [(2022) Defend to Defeat: Limiting Information Leakage in Defending against Advanced Persistent Threats](https://ieeexplore.ieee.org/abstract/document/9987540)
 * [(2022) How to Attack and Defend NextG Radio Access Network Slicing with Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9984930)
