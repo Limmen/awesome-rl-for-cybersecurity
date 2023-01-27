@@ -1,4 +1,4 @@
-# Awesome Reinforcement Learning for Cyber Security [![Awesom](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![GitHub stars](https://badgen.net/github/stars/Limmen/awesome-rl-for-cybersecurity)](https://GitHub.com/Limmen/awesome-rl-for-cybersecurity/stargazers/)
+# Awesome Reinforcement Learning for Cyber Security [![Awesom](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![GitHub stars](https://badgen.net/github/stars/Limmen/awesome-rl-for-cybersecurity)](https://GitHub.com/Limmen/awesome-rl-for-cybersecurity/stargazers/) [![GitHub forks](https://img.shields.io/github/forks/Limmen/awesome-rl-for-cybersecurity.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Limmen/awesome-rl-for-cybersecurity)
 
 A curated list of resources dedicated to reinforcement learning applied to cyber security.
 Note that the list includes only work that uses reinforcement learning, general machine learning methods applied to cyber security are not included in this list.
