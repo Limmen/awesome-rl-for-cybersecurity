@@ -1,4 +1,4 @@
-# Awesome Reinforcement Learning for Cyber Security
+## Awesome Reinforcement Learning for Cyber Security
 
 <p align="center">
   <img src="https://awesome.re/badge.svg">
