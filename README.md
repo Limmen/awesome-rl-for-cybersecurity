@@ -1,4 +1,4 @@
-# Awesome Reinforcement Learning for Cyber Security [![Awesom](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![GitHub stars](https://badgen.net/github/stars/Limmen/awesome-rl-for-cybersecurity)](https://GitHub.com/Limmen/awesome-rl-for-cybersecurity/stargazers/) [![GitHub forks](https://badgen.net/github/forks/Limmen/awesome-rl-for-cybersecurity/)](https://GitHub.com/Limmen/awesome-rl-for-cybersecurity) [![GitHub contributors](https://badgen.net/github/contributors/Limmen/awesome-rl-for-cybersecurity)](https://GitHub.com/Limmen/awesome-rl-for-cybersecurity/graphs/contributors/) [![GitHub issues](https://badgen.net/github/issues/Limmen/awesome-rl-for-cybersecurity/)](https://GitHub.com/Limmen/awesome-rl-for-cybersecurity/issues/)
+# Awesome Reinforcement Learning for Cyber Security
 
 <p align="center">
   <img src="https://awesome.re/badge.svg">
@@ -14,13 +14,7 @@
   <a href="https://github.com/Limmen/awesome-rl-for-cybersecurity">
     <img src="https://img.shields.io/github/issues/Limmen/awesome-rl-for-cybersecurity">
   </a>
-  <a href="https://github.com/Limmen/awesome-rl-for-cybersecurity/blob/master/LICENSE.md">
-    <img src="https://img.shields.io/github/license/Limmen/awesome-rl-for-cybersecurity">
-  </a>
 <a href="https://github.com/Limmen/awesome-rl-for-cybersecurity#contributors-"><img src="https://img.shields.io/badge/all_contributors-3-orange.svg"></a>
-  <a href="https://github.com/Limmen/awesome-rl-for-cybersecurity/graphs/traffic">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Limmen.awesome-awesome-rl-for-cybersecurity&left_text=Hi!%20visitors">
-  </a>
 </p>
 
 
