@@ -1,5 +1,5 @@
 
-<h1 align="center"> 🚀 Awesome Reinforcement Learning for Cyber Security </h1>
+<h2 align="center"> 🚀 Awesome Reinforcement Learning for Cyber Security </h2>
 
 <p align="center">
   <img src="https://awesome.re/badge.svg">
