@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://awesome.re/badge.svg">
   <a href="https://github.com/Limmen/awesome-rl-for-cybersecurity">
-    <img src="https://img.shields.io/badge/Awesome-AwesomeML-orange">
+    <img src="https://img.shields.io/badge/Awesome-AwesomeRLForCyber-orange">
   </a>
   <a href="https://github.com/Limmen/awesome-rl-for-cybersecurity/stargazers">
     <img src="https://img.shields.io/github/stars/Limmen/awesome-rl-for-cybersecurity">
