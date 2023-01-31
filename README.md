@@ -453,6 +453,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Towards Dynamic Capture-The-Flag Training Environments For Reinforcement Learning Offensive Security Agents](https://ieeexplore.ieee.org/abstract/document/10020389)
 * [(2023) Leveraging Deep Reinforcement Learning for Automating Penetration Testing in Reconnaissance and Exploitation Phase](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10013801)
 * [(2023) HAXSS: Hierarchical Reinforcement Learning for XSS Payload Generation](http://wwwhomes.doc.ic.ac.uk/~maffeis/papers/trustcom22.pdf)
 * [(2023) A Transfer Double Deep Q Network Based DDoS Detection Method for Internet of Vehicles](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10005139)
