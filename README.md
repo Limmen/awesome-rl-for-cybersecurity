@@ -767,6 +767,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2021) Towards a method for computing effective intrusion prevention policies using reinforcement learning](https://limmen.dev/towards-a-method-for-computing-effective-intrusion-prevention-policies-using-rl)
 
 ## [↑](#table-of-contents) Talks
+* [(2023) Intrusion Response through Optimal Stopping](https://www.youtube.com/watch?v=Qzp_wiNW91o)
 * [(2022) The Journey to The Self-Driving SOC](https://www.youtube.com/watch?v=lW3-N_ZqvRQ)
 * [(2022) Applications of Deep Reinforcement Learning for Cyber Security](https://www.youtube.com/watch?v=FPDRkx8ocng)
 * [(2022) CNSM 2022, Adapting Security Policies in Dynamic IT Environments - Hammar & Stadler](https://www.youtube.com/watch?v=r1FD2-b-25g&)
