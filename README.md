@@ -453,6 +453,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Security Analysis of Cyber-Physical Systems Using Reinforcement Learning](https://www.mdpi.com/1424-8220/23/3/1634)
 * [(2023) Beyond von Neumann Era: Brain-inspired Hyperdimensional Computing to the Rescue](https://dl.acm.org/doi/pdf/10.1145/3566097.3568354)
 * [(2023) Increasing attacker engagement on SSH honeypots using semantic embeddings of cyber-attack patterns and deep reinforcement learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10022206)
 * [(2023) Towards Dynamic Capture-The-Flag Training Environments For Reinforcement Learning Offensive Security Agents](https://ieeexplore.ieee.org/abstract/document/10020389)
