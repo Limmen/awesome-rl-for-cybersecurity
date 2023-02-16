@@ -453,6 +453,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Cybersecurity as a Tic-Tac-Toe Game Using Autonomous Forwards (Attacking) And Backwards (Defending) Penetration Testing in a Cyber Adversarial Artificial Intelligence System](https://ieeexplore.ieee.org/document/10034922)
 * [(2023) Deep Reinforcement Learning for Cyber System Defense under Dynamic Adversarial Uncertainties](https://arxiv.org/pdf/2302.01595.pdf)
 * [(2023) Catch Me If You Can: Improving Adversaries in Cyber-Security With Q-Learning Algorithms](https://www.researchgate.net/publication/368330555_Catch_Me_If_You_Can_Improving_Adversaries_in_Cyber-Security_With_Q-Learning_Algorithms/references)
 * [(2023) Security Analysis of Cyber-Physical Systems Using Reinforcement Learning](https://www.mdpi.com/1424-8220/23/3/1634)
@@ -671,6 +672,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2019) Empowering Reinforcement Learning on Big Sensed Data for Intrusion Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8761575)
 * [(2019) Cyber-Attack Recovery Strategy for Smart Grid Based on Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/8915727)
 * [(2019) Deep Reinforcement Learning for Partially Observable Data Poisoning Attack in Crowdsensing Systems](https://ieeexplore.ieee.org/document/8945245)
+* [(2019) Adaptive Alert Management for Balancing Optimal Performance among Distributed CSOCs using Reinforcement Learning](https://ieeexplore.ieee.org/document/8762232)
 * [(2018) Simulating SQL Injection Vulnerability Exploitation Using Q-Learning Reinforcement Learning Agents](https://arxiv.org/abs/2101.03118)
 * [(2018) Security in Mobile Edge Caching with Reinforcement Learning](https://ieeexplore.ieee.org/document/8403961)
 * [(2018) Detection of online phishing email using dynamic evolving neural network based on reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0167923618300010)
