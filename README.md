@@ -453,6 +453,8 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Cyber Automated Network Resilience Defensive Approach against Malware Images](https://ieeexplore.ieee.org/abstract/document/10043078)
+* [(2023) Energy scheduling for DoS attack over multi-hop networks: Deep reinforcement learning approach](https://www.sciencedirect.com/science/article/pii/S0893608023000916)
 * [(2023) Cybersecurity as a Tic-Tac-Toe Game Using Autonomous Forwards (Attacking) And Backwards (Defending) Penetration Testing in a Cyber Adversarial Artificial Intelligence System](https://ieeexplore.ieee.org/document/10034922)
 * [(2023) Deep Reinforcement Learning for Cyber System Defense under Dynamic Adversarial Uncertainties](https://arxiv.org/pdf/2302.01595.pdf)
 * [(2023) Catch Me If You Can: Improving Adversaries in Cyber-Security With Q-Learning Algorithms](https://www.researchgate.net/publication/368330555_Catch_Me_If_You_Can_Improving_Adversaries_in_Cyber-Security_With_Q-Learning_Algorithms/references)
