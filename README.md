@@ -360,9 +360,9 @@ Paper: <a href="https://www.researchgate.net/publication/361638424_Developing_Op
         <a href='https://github.com/cage-challenge/CybORG'>Cyborg</a>
         <ul>
           <li>
-            Cyborg is a gym for autonomous cyberg operations research that is driven by the need to efficiently support reinforcement learning to train adversarial decision-making models through simulation and emulation.
+            Cyborg is a gym for autonomous cyberg operations research that is driven by the need to efficiently support reinforcement learning to train adversarial decision-making models through simulation and emulation. This is a variation of the environments used by cage-challenge above.
 
-Paper: <a href="https://arxiv.org/abs/2002.10667">(2020) CybORG: An Autonomous Cyber Operations Research Gym </a>
+Paper: <a href="https://arxiv.org/abs/2108.09118">(2021) CybORG: A Gym for the Development of Autonomous Cyber Agents </a>
           </li>
         </ul>
       </td>
