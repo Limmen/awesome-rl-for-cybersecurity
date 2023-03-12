@@ -453,6 +453,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Offline RL+CKG: A hybrid AI model for cybersecurity tasks](https://ebiquity.umbc.edu/_file_directory_/papers/1180.pdf)
 * [(2023) Learning automated defense strategies using graph-based cyber attack simulations](https://www.ndss-symposium.org/wp-content/uploads/2023/02/wosoc2023_nyberg_graphsim.pdf)
 * [(2023) Cyber Automated Network Resilience Defensive Approach against Malware Images](https://ieeexplore.ieee.org/abstract/document/10043078)
 * [(2023) Energy scheduling for DoS attack over multi-hop networks: Deep reinforcement learning approach](https://www.sciencedirect.com/science/article/pii/S0893608023000916)
@@ -745,6 +746,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 
 
 ### Master Theses
+* [(2022) Automating exploitation of SQL injection with reinforcement learning](https://www.duo.uio.no/handle/10852/100271)
 * [(2022) Self-Play Reinforcement Learning for Finding Intrusion Prevention Strategies](https://limmen.dev/assets/papers/Master_Thesis_Jakob_Stymne_Final_2_June.pdf)
 * [(2022) Reinforcement Learning-aided Dynamic Analysis of Evasive Malware](https://webthesis.biblio.polito.it/22588/1/tesi.pdf)
 * [(2021) Intrusion Detection Based on Reinforcement Learning](https://era.library.ualberta.ca/items/9ad1c6b8-143e-45d3-921d-c4e754c59328/view/440db5ae-1cb6-4643-9868-871e82b59615/Yang_Bin_202109_MSc.pdf)
