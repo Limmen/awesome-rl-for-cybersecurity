@@ -453,6 +453,8 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Automated Cyber Defence: A Review](https://arxiv.org/pdf/2303.04926.pdf)
+* [(2023) Applying Reinforcement Learning for Enhanced Cybersecurity against Adversarial Simulation](https://www.mdpi.com/1424-8220/23/6/3000)
 * [(2023) Offline RL+CKG: A hybrid AI model for cybersecurity tasks](https://ebiquity.umbc.edu/_file_directory_/papers/1180.pdf)
 * [(2023) Learning automated defense strategies using graph-based cyber attack simulations](https://www.ndss-symposium.org/wp-content/uploads/2023/02/wosoc2023_nyberg_graphsim.pdf)
 * [(2023) Cyber Automated Network Resilience Defensive Approach against Malware Images](https://ieeexplore.ieee.org/abstract/document/10043078)
