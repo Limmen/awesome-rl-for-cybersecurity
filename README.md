@@ -454,6 +454,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) SSQLi: A Black-Box Adversarial Attack Method for SQL Injection Based on Reinforcement Learning](https://www.mdpi.com/1999-5903/15/4/133)
 * [(2023) On the use of Reinforcement Learning for Attacking and Defending Load Frequency Control](https://arxiv.org/pdf/2303.15736.pdf)
 * [(2023) An Optimal Active Defensive Security Framework for the Container-Based Cloud with Deep Reinforcement Learning](https://www.mdpi.com/2079-9292/12/7/1598)
 * [(2023) AutoCAT: Reinforcement Learning for Automated Exploration of Cache-Timing Attacks](https://hsienhsinlee.github.io/MARS/pub/hpca2023.pdf)
@@ -751,6 +752,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 
 
 ### Master Theses
+* [(2023) Learning Cyber Defence Tactics from Scratch with Cooperative Multi-Agent Reinforcement Learning](https://espace.rmc.ca/jspui/bitstream/11264/1082/1/Thesis_Final_Wiebe.pdf)
 * [(2022) Automating exploitation of SQL injection with reinforcement learning](https://www.duo.uio.no/handle/10852/100271)
 * [(2022) Self-Play Reinforcement Learning for Finding Intrusion Prevention Strategies](https://limmen.dev/assets/papers/Master_Thesis_Jakob_Stymne_Final_2_June.pdf)
 * [(2022) Reinforcement Learning-aided Dynamic Analysis of Evasive Malware](https://webthesis.biblio.polito.it/22588/1/tesi.pdf)
