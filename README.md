@@ -454,6 +454,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) AIRS: Explanation for Deep Reinforcement Learning based Security Applications](https://www.usenix.org/system/files/sec23fall-prepub-36-yu-jiahao.pdf)
 * [(2023) SSQLi: A Black-Box Adversarial Attack Method for SQL Injection Based on Reinforcement Learning](https://www.mdpi.com/1999-5903/15/4/133)
 * [(2023) On the use of Reinforcement Learning for Attacking and Defending Load Frequency Control](https://arxiv.org/pdf/2303.15736.pdf)
 * [(2023) An Optimal Active Defensive Security Framework for the Container-Based Cloud with Deep Reinforcement Learning](https://www.mdpi.com/2079-9292/12/7/1598)
