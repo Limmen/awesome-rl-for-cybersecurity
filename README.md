@@ -454,6 +454,8 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Cyber Attack Detection Using Bellman Optimality Equation in Reinforcement Learning](https://www.atlantis-press.com/article/125986296.pdf)
+* [(2023) Greybox Penetration Testing on Cloud Access Control with IAM Modeling and Deep Reinforcement Learning](https://arxiv.org/pdf/2304.14540.pdf)
 * [(2023) A Multiagent CyberBattleSim for RL Cyber Operation Agents](https://arxiv.org/pdf/2304.11052.pdf)
 * [(2023) Reinforcement Learning Solution for Cyber-Physical Systems Security Against Replay Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10105656)
 * [(2023) AIRS: Explanation for Deep Reinforcement Learning based Security Applications](https://www.usenix.org/system/files/sec23fall-prepub-36-yu-jiahao.pdf)
