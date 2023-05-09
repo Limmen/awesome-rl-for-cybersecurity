@@ -434,6 +434,27 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
   </tbody>
 </table>
 
+### `CLAP`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/clap.jpg' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/yyzpiero/RL4RedTeam'>CLAP: Curiosity-Driven Reinforcment Learning Automatic Penetration Testing Agent</a>
+        <ul>
+          <li>
+            CLAP is a reinforcement learning PPO agent performs Penetration Testing in simulated computer network environment (we use Network Attack Simulator (NASim)). The agent is trained to scan for vulnerabilities in the network and exploit them to gain access to various network resources.  <br/><br/>
+			Paper: <a href="https://arxiv.org/abs/2202.10630">(2022) Behaviour-Diverse Automatic Penetration Testing: A Curiosity-Driven Multi-Objective Deep Reinforcement Learning Approach</a></br>
+      Code: <a href="https://github.com/yyzpiero/RL4RedTeam">HERE</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
