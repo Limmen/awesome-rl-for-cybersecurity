@@ -454,6 +454,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Evolved Prevention Strategies for 6G Networks through Stochastic Games and Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10115274)
 * [(2023) Cyber Attack Detection Using Bellman Optimality Equation in Reinforcement Learning](https://www.atlantis-press.com/article/125986296.pdf)
 * [(2023) Greybox Penetration Testing on Cloud Access Control with IAM Modeling and Deep Reinforcement Learning](https://arxiv.org/pdf/2304.14540.pdf)
 * [(2023) A Multiagent CyberBattleSim for RL Cyber Operation Agents](https://arxiv.org/pdf/2304.11052.pdf)
@@ -757,6 +758,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 
 
 ### Master Theses
+* [(2023) Competitive Reinforcement Learning for Autonomous Cyber Operations](https://espace.rmc.ca/jspui/bitstream/11264/1227/1/Competitive_RL_for_ACO.pdf)
 * [(2023) Learning Cyber Defence Tactics from Scratch with Cooperative Multi-Agent Reinforcement Learning](https://espace.rmc.ca/jspui/bitstream/11264/1082/1/Thesis_Final_Wiebe.pdf)
 * [(2022) Automating exploitation of SQL injection with reinforcement learning](https://www.duo.uio.no/handle/10852/100271)
 * [(2022) Self-Play Reinforcement Learning for Finding Intrusion Prevention Strategies](https://limmen.dev/assets/papers/Master_Thesis_Jakob_Stymne_Final_2_June.pdf)
