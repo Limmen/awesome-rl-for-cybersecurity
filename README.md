@@ -475,6 +475,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Trojan Playground: A Reinforcement Learning Framework for Hardware Trojan Insertion and Detection](https://arxiv.org/pdf/2305.09592.pdf)
 * [(2023) Decentralized Anomaly Detection in Cooperative Multi-Agent Reinforcement Learning](https://people.kth.se/~gyuri/Pub/KazariSD-DistributedDetectionMARL-IJCAI23.pdf)
 * [(2023) Evolved Prevention Strategies for 6G Networks through Stochastic Games and Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10115274)
 * [(2023) Cyber Attack Detection Using Bellman Optimality Equation in Reinforcement Learning](https://www.atlantis-press.com/article/125986296.pdf)
