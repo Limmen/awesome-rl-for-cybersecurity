@@ -475,6 +475,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) A Collaborative Stealthy DDoS Detection Method based on Reinforcement Learning at the Edge of the Internet of Things](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10133833)
 * [(2023) An Intelligent SDWN Routing Algorithm Based on Network Situational Awareness and Deep Reinforcement Learning](https://arxiv.org/pdf/2305.10441.pdf)
 * [(2023) Trojan Playground: A Reinforcement Learning Framework for Hardware Trojan Insertion and Detection](https://arxiv.org/pdf/2305.09592.pdf)
 * [(2023) Decentralized Anomaly Detection in Cooperative Multi-Agent Reinforcement Learning](https://people.kth.se/~gyuri/Pub/KazariSD-DistributedDetectionMARL-IJCAI23.pdf)
