@@ -42,6 +42,28 @@ For other related curated lists, see :
 
 ## [↑](#table-of-contents) Environments
 
+### `NASimEmu`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/nasimemu.svg' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/jaromiru/NASimEmu'>NASimEmu</a>
+        <ul>
+          <li>
+            NASimEmu is a framework for training deep RL agents in offensive penetration-testing scenarios. It includes both a simulator and an emulator so that a simulation-trained agent can be seamlessly deployed in emulation. Additionally, it includes a random generator that can create scenario instances varying in network configuration and size while fixing certain features, such as exploits and privilege escalations. Furthermore, agents can be trained and tested in multiple scenarios simultaneously.<br/><br/>
+            Paper: <a href="https://arxiv.org/abs/2305.17246">(2023) NASimEmu: Network Attack Simulator & Emulator for Training Agents Generalizing to Novel Scenarios</a><br/>
+            Framework: <a href="https://github.com/jaromiru/NASimEmu">NASimEmu</a><br/>
+            Implemented agents: <a href="https://github.com/jaromiru/NASimEmu-agents">NASimEmu-agents</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### `gym-idsgame`
 <table>
   <tbody>
@@ -475,6 +497,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) NASimEmu: Network Attack Simulator & Emulator for Training Agents Generalizing to Novel Scenarios](https://arxiv.org/abs/2305.17246)
 * [(2023) A Collaborative Stealthy DDoS Detection Method based on Reinforcement Learning at the Edge of the Internet of Things](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10133833)
 * [(2023) An Intelligent SDWN Routing Algorithm Based on Network Situational Awareness and Deep Reinforcement Learning](https://arxiv.org/pdf/2305.10441.pdf)
 * [(2023) Trojan Playground: A Reinforcement Learning Framework for Hardware Trojan Insertion and Detection](https://arxiv.org/pdf/2305.09592.pdf)
