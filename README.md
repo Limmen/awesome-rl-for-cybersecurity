@@ -491,6 +491,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2019) Deep Reinforcement Learning for Cyber Security](https://arxiv.org/abs/1906.05799)
 
 ### Demonstration papers
+* [(2023) The Cyber Security Learning Environment (CSLE) v.0.2.0 Demo](https://www.youtube.com/watch?v=iE2KPmtIs2A)
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://ieeexplore.ieee.org/document/9789707) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Position papers
@@ -842,6 +843,8 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2021) Towards a method for computing effective intrusion prevention policies using reinforcement learning](https://limmen.dev/towards-a-method-for-computing-effective-intrusion-prevention-policies-using-rl)
 
 ## [↑](#table-of-contents) Talks
+* [(2023) Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition](https://www.youtube.com/watch?v=LDCgOygjn3k&)
+* [(2023) Reinforcement Learning for Autonomous Cyber Defense](https://www.youtube.com/watch?v=PcqeG5_A4tE)
 * [(2023) Digital Twins and Reinforcement Learning for Security Automation](https://www.youtube.com/watch?v=Gi-_KSNYVCk&)
 * [(2023) Automation of digital crime investigation using Reinforcement Learning (RL)](https://www.youtube.com/watch?v=lB7aZnT8VIw)
 * [(2023) Applying Multi-Agent Reinforcement Learning (MARL) in a Cyber Wargame Engine](https://www.youtube.com/watch?v=FQYub1u5-GE)
