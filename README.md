@@ -1,5 +1,5 @@
 
-<h1 align="center"> 🚀 Awesome Reinforcement Learning <br>for Cyber Security </h1>
+<h1 align="center"> Awesome Reinforcement Learning <br>for Cyber Security </h1>
 
 <p align="center">
   <img src="https://awesome.re/badge.svg">
@@ -495,6 +495,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://ieeexplore.ieee.org/document/9789707) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Position papers
+* [(2023) Autonomous Cyber Defence: A roadmap from lab to ops](https://cetas.turing.ac.uk/sites/default/files/2023-06/autonomous_cyber_defence_final_report.pdf)
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
