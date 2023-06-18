@@ -857,6 +857,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2023) Automation of digital crime investigation using Reinforcement Learning (RL)](https://www.youtube.com/watch?v=lB7aZnT8VIw)
 * [(2023) Applying Multi-Agent Reinforcement Learning (MARL) in a Cyber Wargame Engine](https://www.youtube.com/watch?v=FQYub1u5-GE)
 * [(2023) Intrusion Response through Optimal Stopping](https://www.youtube.com/watch?v=Qzp_wiNW91o)
+* [(2022) Inroads in Autonomous Network Defence using Explained Reinforcement Learning (CAMLIS 2022)](https://www.youtube.com/watch?v=i59PtruGd1o)
 * [(2022) The Journey to The Self-Driving SOC](https://www.youtube.com/watch?v=lW3-N_ZqvRQ)
 * [(2022) Applications of Deep Reinforcement Learning for Cyber Security](https://www.youtube.com/watch?v=FPDRkx8ocng)
 * [(2022) CNSM 2022, Adapting Security Policies in Dynamic IT Environments - Hammar & Stadler](https://www.youtube.com/watch?v=r1FD2-b-25g&)
