@@ -924,6 +924,8 @@ Contributions are very welcome. Please use Github issues and pull requests.
 
 ### List of Contributors
 
+Thanks for all your contributions and keeping this project up-to-date.
+
 <a href="https://github.com/Limmen/awesome-rl-for-cybersecurity/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Limmen/awesome-rl-for-cybersecurity" />
 </a>
