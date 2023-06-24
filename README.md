@@ -499,6 +499,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Digital Twins for Security Automation](https://ieeexplore.ieee.org/abstract/document/10154288)
 * [(2023) Inroads into Autonomous Network Defence using Explained Reinforcement Learning](https://arxiv.org/pdf/2306.09318v1.pdf)
 * [(2023) Automated Adversary-in-the-Loop Cyber-Physical Defense Planning](https://dl.acm.org/doi/pdf/10.1145/3596222)
 * [(2023) RLAuth: A Risk-based Authentication System using Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10151855)
