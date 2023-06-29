@@ -854,6 +854,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2021) Towards a method for computing effective intrusion prevention policies using reinforcement learning](https://limmen.dev/towards-a-method-for-computing-effective-intrusion-prevention-policies-using-rl)
 
 ## [↑](#table-of-contents) Talks
+* [(2023) Uplifting Cyber Defense](https://www.youtube.com/watch?v=kPAEhLypD3A)
 * [(2023) Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition](https://www.youtube.com/watch?v=LDCgOygjn3k&)
 * [(2023) Reinforcement Learning for Autonomous Cyber Defense](https://www.youtube.com/watch?v=PcqeG5_A4tE)
 * [(2023) Digital Twins and Reinforcement Learning for Security Automation](https://www.youtube.com/watch?v=Gi-_KSNYVCk&)
