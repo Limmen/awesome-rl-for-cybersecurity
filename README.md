@@ -42,6 +42,25 @@ For other related curated lists, see :
 
 ## [↑](#table-of-contents) Environments
 
+### `AutoPentest-DRL`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='https://raw.githubusercontent.com/crond-jaist/AutoPentest-DRL/master/Figures/framework_overview.png' />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/crond-jaist/AutoPentest-DRL'>AutoPentest-DRL: Automated Penetration Testing Using Deep Reinforcement Learning</a>
+        <ul>
+          <li>
+            AutoPentest-DRL is an automated penetration testing framework based on Deep Reinforcement Learning (DRL) techniques. AutoPentest-DRL can determine the most appropriate attack path for a given logical network, and can also be used to execute a penetration testing attack on a real network via tools such as Nmap and Metasploit. This framework is intended for educational purposes, so that users can study the penetration testing attack mechanisms. AutoPentest-DRL is being developed by the Cyber Range Organization and Design (<a href="https://www.jaist.ac.jp/misc/crond/index-en.html">CROND</a>) NEC-endowed chair at the Japan Advanced Institute of Science and Technology (<a href="https://www.jaist.ac.jp/english/">JAIST</a>) in Ishikawa,Japan.
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### `NASimEmu`
 <table>
   <tbody>
