@@ -499,6 +499,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Enhancing Situation Awareness in Beyond Visual Range Air Combat with Reinforcement Learning-based Decision Support](https://ieeexplore.ieee.org/abstract/document/10156497)
 * [(2023) A Reinforcement Learning Approach to Undetectable Attacks against Automatic Generation Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10159364)
 * [(2023) Digital Twins for Security Automation](https://ieeexplore.ieee.org/abstract/document/10154288)
 * [(2023) Inroads into Autonomous Network Defence using Explained Reinforcement Learning](https://arxiv.org/pdf/2306.09318v1.pdf)
