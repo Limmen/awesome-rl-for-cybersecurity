@@ -922,6 +922,8 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2018) CSIAC Webinar - Learning to Win: Making the Case for Autonomous Cyber Security Solutions](https://www.youtube.com/watch?v=K-ma_ZVzqec)
 
 ## [↑](#table-of-contents) Miscellaneous
+* [(2023) GameSec '23: 14th Conference on Decision and Game Theory for Security (GameSec-23)](https://www.gamesec-conf.org/)
+* [(2023) AISec '23: 16th ACM Workshop on Artificial Intelligence and Security](https://aisec.cc/)
 * [(2022) AI for Cyber Defence Mailing List](https://groups.google.com/g/ai-for-cyberdefence)
 * [(2022) AI for Cyber Defence (AICD) research centre - Alan Turing Institute](https://www.turing.ac.uk/aicd)
 * [(2022) DARPA's CASTLE: Cyber Agents for Security Testing and Learning Environments using Reinforcement Learning](https://www.darpa.mil/news-events/2022-10-24)
