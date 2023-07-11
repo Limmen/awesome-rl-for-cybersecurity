@@ -496,6 +496,26 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
   </tbody>
 </table>
 
+### `CyGIL`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/cygil.jpg' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://arxiv.org/abs/2109.03331'>CyGIL: A Cyber Gym for Training Autonomous Agents over Emulated Network Systems</a>
+        <ul>
+          <li>
+            CyGIL is an experimental testbed of an emulated RL training environment for network cyber operations. CyGIL uses a stateless environment architecture and incorporates the MITRE ATT&CK framework to establish a high fidelity training environment, while presenting a sufficiently abstracted interface to enable RL training. Its comprehensive action space and flexible game design allow the agent training to focus on particular advanced persistent threat (APT) profiles, and to incorporate a broad range of potential threats and vulnerabilities. By striking a balance between fidelity and simplicity, it aims to leverage state of the art RL algorithms for application to real-world cyber defence. <br/><br/>
+			Paper: <a href="https://arxiv.org/abs/2109.03331">(2021) CyGIL: A Cyber Gym for Training Autonomous Agents over Emulated Network Systems </a></br>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
@@ -518,6 +538,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Unified Emulation-Simulation Training Environment for Autonomous Cyber Agents](https://arxiv.org/pdf/2304.01244.pdf)
 * [(2023) Learning Near-Optimal Intrusion Responses Against Dynamic Attackers](https://ieeexplore.ieee.org/document/10175554)
 * [(2023) A Curriculum Framework for Autonomous Network Defense using Multi-agent Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10165310)
 * [(2023) Enhancing Situation Awareness in Beyond Visual Range Air Combat with Reinforcement Learning-based Decision Support](https://ieeexplore.ieee.org/abstract/document/10156497)
