@@ -501,7 +501,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
   <tbody>
     <tr>
       <td width='50%' align='center'>
-        <img src='imgs/cygil.jpg' width=300 />
+        <img src='imgs/cygil.png' width=300 />
       </td>
       <td width='50%'>
         <a href='https://arxiv.org/abs/2109.03331'>CyGIL: A Cyber Gym for Training Autonomous Agents over Emulated Network Systems</a>
