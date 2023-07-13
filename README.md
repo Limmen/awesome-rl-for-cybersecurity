@@ -538,6 +538,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Network Intrusion Detection System using Reinforcement learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10170630)
 * [(2023) Unified Emulation-Simulation Training Environment for Autonomous Cyber Agents](https://arxiv.org/pdf/2304.01244.pdf)
 * [(2023) Learning Near-Optimal Intrusion Responses Against Dynamic Attackers](https://ieeexplore.ieee.org/document/10175554)
 * [(2023) A Curriculum Framework for Autonomous Network Defense using Multi-agent Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10165310)
