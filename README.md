@@ -538,6 +538,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) QL vs. SARSA: Performance Evaluation for Intrusion Prevention Systems in Software-Defined IoT Networks](https://ieeexplore.ieee.org/abstract/document/10183144)
 * [(2023) TSGS: Two-stage security game solution based on deep reinforcement learning for Internet of Things](https://www.sciencedirect.com/science/article/pii/S0957417423014677)
 * [(2023) Security-aware Resource Allocation Scheme Based on DRL in Cloud-Edge-Terminal Cooperative Vehicular Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10176313)
 * [(2023) Network Intrusion Detection System using Reinforcement learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10170630)
