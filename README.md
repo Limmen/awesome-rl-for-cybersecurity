@@ -538,6 +538,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) SDN/NFV-based framework for autonomous defense against slow-rate DDoS attacks by using reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0167739X23003047)
 * [(2023) Whole Campaign Emulation with Reinforcement Learning for Cyber Test](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10208253)
 * [(2023) Neuroevolution for Autonomous Cyber Defense](https://dl.acm.org/doi/pdf/10.1145/3583133.3590596)
 * [(2023) Reinforcement Learning-Based Attack Graph Analysis for Wastewater Treatment Plant](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10192325)
