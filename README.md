@@ -538,6 +538,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Adversarial Deep Reinforcement Learning for Cyber Security in Software Defined Networks](https://arxiv.org/pdf/2308.04909.pdf)
 * [(2023) Using POMDP-based Approach to Address Uncertainty-Aware Adaptation for Self-Protecting Software](https://arxiv.org/pdf/2308.02134.pdf)
 * [(2023) EIReLaND: Evaluating and Interpreting Reinforcement-Learning-based Network Defenses](https://www.csl.sri.com/users/gehani/papers/ACD-2023.EIReLaND.pdf)
 * [(2023) SDN/NFV-based framework for autonomous defense against slow-rate DDoS attacks by using reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0167739X23003047)
