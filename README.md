@@ -538,6 +538,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Simulating all archetypes of SQL injection vulnerability exploitation using reinforcement learning agents](https://link.springer.com/article/10.1007/s10207-023-00738-3)
 * [(2023) Research on active defense decision-making method for cloud boundary networks based on reinforcement learning of intelligent agent](https://www.sciencedirect.com/science/article/pii/S2667295223000430?via%3Dihub)
 * [(2023) Adversarial Deep Reinforcement Learning for Cyber Security in Software Defined Networks](https://arxiv.org/pdf/2308.04909.pdf)
 * [(2023) Using POMDP-based Approach to Address Uncertainty-Aware Adaptation for Self-Protecting Software](https://arxiv.org/pdf/2308.02134.pdf)
