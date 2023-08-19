@@ -538,6 +538,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Social Engineering Attack-Defense Strategies Based on Reinforcement Learning](https://www.techscience.com/csse/v47n2/53636/html)
 * [(2023) Real-Time Defensive Strategy Selection via Deep Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3600160.3600176)
 * [(2023) CyberForce: A Federated Reinforcement Learning Framework for Malware Mitigation](https://arxiv.org/pdf/2308.05978.pdf)
 * [(2023) Simulating all archetypes of SQL injection vulnerability exploitation using reinforcement learning agents](https://link.springer.com/article/10.1007/s10207-023-00738-3)
