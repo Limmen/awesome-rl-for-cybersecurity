@@ -538,6 +538,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Deep Reinforcement Learning for Intelligent Penetration Testing Path Design](https://www.mdpi.com/2076-3417/13/16/9467)
 * [(2023) Social Engineering Attack-Defense Strategies Based on Reinforcement Learning](https://www.techscience.com/csse/v47n2/53636/html)
 * [(2023) Real-Time Defensive Strategy Selection via Deep Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3600160.3600176)
 * [(2023) CyberForce: A Federated Reinforcement Learning Framework for Malware Mitigation](https://arxiv.org/pdf/2308.05978.pdf)
@@ -962,6 +963,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2018) CSIAC Webinar - Learning to Win: Making the Case for Autonomous Cyber Security Solutions](https://www.youtube.com/watch?v=K-ma_ZVzqec)
 
 ## [↑](#table-of-contents) Miscellaneous
+* [(2023) Proceedings of the 2nd Workshop on Adaptive Cyber Defense](https://arxiv.org/html/2308.09520)
 * [(2023) GameSec '23: 14th Conference on Decision and Game Theory for Security (GameSec-23)](https://www.gamesec-conf.org/)
 * [(2023) AISec '23: 16th ACM Workshop on Artificial Intelligence and Security](https://aisec.cc/)
 * [(2022) AI for Cyber Defence Mailing List](https://groups.google.com/g/ai-for-cyberdefence)
