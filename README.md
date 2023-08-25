@@ -540,7 +540,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
   <tbody>
     <tr>
       <td width='50%' align='center'>
-        <img src='imgs/deter.png' width=300 />
+        <img src='imgs/deter.jpeg' width=300 />
       </td>
       <td width='50%'>
         <a href='https://ieeexplore.ieee.org/document/5655108'>DeterLab: Cyber-Defense Technology Experimental Research Laboratory</a>
@@ -580,7 +580,7 @@ The Emulab software is the management system for a network-rich PC cluster that 
   <tbody>
     <tr>
       <td width='50%' align='center'>
-        <img src='imgs/emulab.png width=300 />
+        <img src='imgs/emulab.png' width=300 />
       </td>
       <td width='50%'>
         <a href=https://ieeexplore.ieee.org/document/7311238>Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.</a>
@@ -599,7 +599,7 @@ The Emulab software is the management system for a network-rich PC cluster that 
   <tbody>
     <tr>
       <td width='50%' align='center'>
-        <img src='imgs/vine.png width=300 />
+        <img src='imgs/vine.png' width=300 />
       </td>
       <td width='50%'>
         <a href=https://dl.acm.org/doi/10.1145/2808475.2808486>VINE: A Cyber Emulation Environment for MTD Experimentation</a>
@@ -618,7 +618,7 @@ The Emulab software is the management system for a network-rich PC cluster that 
   <tbody>
     <tr>
       <td width='50%' align='center'>
-        <img src='imgs/crate.png width=300 />
+        <img src='imgs/crate.png' width=300 />
       </td>
       <td width='50%'>
         <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9229649&casa_token=b3Vk13dXj_sAAAAA:zrB-U_pA50aq7IMzcdy6qy9YNjFsuccAtpujDmDvJnNq9iCc7aqQNoeKsjC_AddSIgYt-MUkk3A6>CRATE Exercise Control – A cyber defense exercise management and support
@@ -638,7 +638,7 @@ tool</a>
   <tbody>
     <tr>
       <td width='50%' align='center'>
-        <img src='imgs/galaxy.png width=300 />
+        <img src='imgs/galaxy.png' width=300 />
       </td>
       <td width='50%'>
         <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9229649&casa_token=b3Vk13dXj_sAAAAA:zrB-U_pA50aq7IMzcdy6qy9YNjFsuccAtpujDmDvJnNq9iCc7aqQNoeKsjC_AddSIgYt-MUkk3A6>Galaxy: A Network Emulation Framework for Cybersecurity
