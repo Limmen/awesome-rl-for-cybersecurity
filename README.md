@@ -580,7 +580,7 @@ The Emulab software is the management system for a network-rich PC cluster that 
   <tbody>
     <tr>
       <td width='50%' align='center'>
-        <img src='imgs/emulab.png' width=300 />
+        <img src='imgs/emulab.svg' width=300 />
       </td>
       <td width='50%'>
         <a href=https://ieeexplore.ieee.org/document/7311238>Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.</a>
