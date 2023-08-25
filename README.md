@@ -516,6 +516,144 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
   </tbody>
 </table>
 
+### `BRAWL`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/brawl.png' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/mitre/brawl-public-game-001'>BRAWL</a>
+        <ul>
+          <li>
+            BRAWL seeks to create a compromise by creating a system to automatically create an enterprise network inside a cloud environment. OpenStack is the only currently supported environment, but it is being designed in such a way as to easily support other cloud environments in the future.
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### `DETERLAB`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/deter.png' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://ieeexplore.ieee.org/document/5655108'>DeterLab: Cyber-Defense Technology Experimental Research Laboratory</a>
+        <ul>
+          <li>
+            Since 2004, the DETER Cybersecurity Testbed Project has worked to create the necessary infrastructure - facilities, tools, and processes-to provide a national resource for experimentation in cyber security. The next generation of DETER envisions several conceptual advances in testbed design and experimental research methodology, targeting improved experimental validity, enhanced usability, and increased size, complexity, and diversity of experiments. <br/><br/>
+			Paper: <a href="https://ieeexplore.ieee.org/document/5655108">(2010) The DETER project: Advancing the science of cyber security experimentation and test </a></br>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### `EmuLab`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/emulab.png width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://www.usenix.org/legacy/event/usenix08/tech/full_papers/hibler/hibler.pdf>EmuLab: Large-scale Virtualization in the Emulab Network Testbed</a>
+        <ul>
+          <li>
+The Emulab software is the management system for a network-rich PC cluster that provides a space- and timeshared public facility for studying networked and distributed systems. <br/><br/>
+			Paper: <a href="https://www.usenix.org/legacy/event/usenix08/tech/full_papers/hibler/hibler.pdf">(2008) EmuLab: Large-scale Virtualization in the Emulab Network Testbed </a></br>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### `Mininet`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/emulab.png width=300 />
+      </td>
+      <td width='50%'>
+        <a href=https://ieeexplore.ieee.org/document/7311238>Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.</a>
+        <ul>
+          <li>
+			Paper: <a href="https://ieeexplore.ieee.org/document/7311238">(2015) Emulation of Software Defined Networks Using Mininet in Different Simulation Environments </a></br>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### `Vine`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/vine.png width=300 />
+      </td>
+      <td width='50%'>
+        <a href=https://dl.acm.org/doi/10.1145/2808475.2808486>VINE: A Cyber Emulation Environment for MTD Experimentation</a>
+        <ul>
+          <li>
+			Paper: <a href="https://dl.acm.org/doi/10.1145/2808475.2808486">(2015) VINE: A Cyber Emulation Environment for MTD Experimentation</a></br>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### `CRATE`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/crate.png width=300 />
+      </td>
+      <td width='50%'>
+        <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9229649&casa_token=b3Vk13dXj_sAAAAA:zrB-U_pA50aq7IMzcdy6qy9YNjFsuccAtpujDmDvJnNq9iCc7aqQNoeKsjC_AddSIgYt-MUkk3A6>CRATE Exercise Control – A cyber defense exercise management and support
+tool</a>
+        <ul>
+          <li>
+			Paper: <a href="https://dl.acm.org/doi/10.1145/2808475.2808486">(2020) CRATE Exercise Control – A cyber defense exercise management and support</a></br>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### `GALAXY`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/galaxy.png width=300 />
+      </td>
+      <td width='50%'>
+        <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9229649&casa_token=b3Vk13dXj_sAAAAA:zrB-U_pA50aq7IMzcdy6qy9YNjFsuccAtpujDmDvJnNq9iCc7aqQNoeKsjC_AddSIgYt-MUkk3A6>Galaxy: A Network Emulation Framework for Cybersecurity
+tool</a>
+        <ul>
+          <li>
+			Paper: <a href="https://www.usenix.org/system/files/conference/cset18/cset18-paper-schoonover.pdf">(2018) Galaxy: A Network Emulation Framework for Cybersecurity
+</a></br>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
@@ -538,6 +676,7 @@ Paper: <a href="https://arxiv.org/pdf/2103.07583.pdf">(2021) Network Environment
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Out of the Cage: How Stochastic Parrots Win in Cyber Security Environments](https://arxiv.org/pdf/2308.12086.pdf)
 * [(2023) Deep Reinforcement Learning for Intelligent Penetration Testing Path Design](https://www.mdpi.com/2076-3417/13/16/9467)
 * [(2023) Social Engineering Attack-Defense Strategies Based on Reinforcement Learning](https://www.techscience.com/csse/v47n2/53636/html)
 * [(2023) Real-Time Defensive Strategy Selection via Deep Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3600160.3600176)
