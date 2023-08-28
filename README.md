@@ -42,6 +42,28 @@ For other related curated lists, see :
 
 ## [↑](#table-of-contents) Environments
 
+### `CSLE: The Cyber Security Learning Environment`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/csle_logo_cropped.png' />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/Limmen/csle'>CSLE: The Cyber Security Learning Environment</a>
+        <ul>
+          <li>
+            CSLE is a platform for evaluating and developing reinforcement learning agents for control problems in cyber security. It can be considered as a cyber range specifically designed for reinforcement learning agents. Everything from network emulation, to simulation and implementation of network commands have been co-designed to provide an environment where it is possible to train and evaluate reinforcement learning agents on practical problems in cyber security.
+          </li>
+		  <li>
+		  Paper: <a href="https://ieeexplore.ieee.org/document/9779345">(2022) Intrusion Prevention Through Optimal Stopping</a><br/>
+		  </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### `AutoPentest-DRL`
 <table>
   <tbody>
