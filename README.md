@@ -698,6 +698,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) When Moving Target Defense Meets Attack Prediction in Digital Twins: A Convolutional and Hierarchical Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10234402)
 * [(2023) Out of the Cage: How Stochastic Parrots Win in Cyber Security Environments](https://arxiv.org/pdf/2308.12086.pdf)
 * [(2023) Deep Reinforcement Learning for Intelligent Penetration Testing Path Design](https://www.mdpi.com/2076-3417/13/16/9467)
 * [(2023) Social Engineering Attack-Defense Strategies Based on Reinforcement Learning](https://www.techscience.com/csse/v47n2/53636/html)
