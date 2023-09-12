@@ -698,6 +698,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Scalable Learning of Intrusion Responses through Recursive Decomposition](https://arxiv.org/abs/2309.03292)
 * [(2023) Deep Reinforcement Learning for Intrusion Detection in Internet of Things: Best practices, lessons learnt, and open challenges.](https://www.sciencedirect.com/science/article/pii/S1389128623004619)
 * [(2023) An Automated Intrusion Detection and Prevention Model for Enhanced Network Security and Threat Assessment](https://www.ijcna.org/Manuscripts/IJCNA-2023-O-42.pdf)
 * [(2023) Flipit Game Deception Strategy Selection Method Based on Deep Reinforcement Learning](https://downloads.hindawi.com/journals/ijis/2023/5560416.pdf)
