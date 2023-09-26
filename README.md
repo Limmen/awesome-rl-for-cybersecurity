@@ -679,6 +679,7 @@ tool</a>
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
+* [(2023) A Review of Techniques and Policies on Cybersecurity Using Artificial Intelligence and Reinforcement Learning Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10260699)
 * [(2023) Automated Cyber Defence: A Review](https://arxiv.org/pdf/2303.04926.pdf)
 * [(2022) The Confluence of Networks, Games, and Learning a Game-Theoretic Framework for Multiagent Decision Making Over Networks](https://arxiv.org/abs/2105.08158)
 * [(2022) Cyber-security and reinforcement learning — A brief survey](https://www.sciencedirect.com/science/article/pii/S0952197622002512)
@@ -699,7 +700,6 @@ tool</a>
 
 ### Regular Papers
 * [(2023) Network Intrusion detectionsystemusingreinforcement learning techniques](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10245608)
-* [(2023) A Review of Techniques and Policies on Cybersecurity Using Artificial Intelligence and Reinforcement Learning Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10260699)
 * [(2023) PENTESTGPT: An LLM-empowered Automatic Penetration Testing Tool](https://arxiv.org/pdf/2308.06782.pdf)
 * [(2023) On Autonomous Agents in a Cyber Defence Environment](https://arxiv.org/pdf/2309.07388.pdf)
 * [(2023) EPPTA: Efficient Partially Observable Reinforcement Learning Agent for Penetration testing Applications](https://d197for5662m48.cloudfront.net/documents/publicationstatus/147896/preprint_pdf/b159e549387e455fd76cdb936f0a8b33.pdf)
