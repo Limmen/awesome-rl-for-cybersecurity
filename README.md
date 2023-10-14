@@ -699,6 +699,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Security defense strategy algorithm for Internet of Things based on deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S266729522300065X?via%3Dihub)
 * [(2023) Enhancing Exfiltration Path Analysis Using Reinforcement Learning](https://arxiv.org/pdf/2310.03667.pdf)
 * [(2023) Automated Penetration Testing with Fine-Grained Control through Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10272349&tag=1)
 * [(2023) Security Awareness in Smart Homes and Internet of Things Networks through Swarm-Based Cybersecurity Penetration Testing](https://www.mdpi.com/2078-2489/14/10/536)
