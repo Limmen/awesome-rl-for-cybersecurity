@@ -699,6 +699,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Autonomous Cyber Defense Against Dynamic Multi-strategy Infrastructural DDoS Attacks](https://ieeexplore.ieee.org/abstract/document/10288937)
 * [(2023) Distributed Web Hacking by Adaptive Consensus-based Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0004370223001789)
 * [(2023) Reward Shaping for Happier Autonomous Cyber Security Agents](https://arxiv.org/pdf/2310.13565.pdf)
 * [(2023) MalBoT-DRL: Malware Botnet Detection using Deep Reinforcement Learning in IoT Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10283893)
