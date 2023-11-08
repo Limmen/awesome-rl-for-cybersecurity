@@ -768,7 +768,7 @@ tool</a>
 * [(2023) AutoCAT: Reinforcement Learning for Automated Exploration of Cache-Timing Attacks](https://hsienhsinlee.github.io/MARS/pub/hpca2023.pdf)
 * [(2023) Applying Reinforcement Learning for Enhanced Cybersecurity against Adversarial Simulation](https://www.mdpi.com/1424-8220/23/6/3000)
 * [(2023) Offline RL+CKG: A hybrid AI model for cybersecurity tasks](https://ebiquity.umbc.edu/_file_directory_/papers/1180.pdf)
-* [(2023) Learning automated defense strategies using graph-based cyber attack simulations](https://www.ndss-symposium.org/wp-content/uploads/2023/02/wosoc2023_nyberg_graphsim.pdf)
+* [(2023) Learning automated defense strategies using graph-based cyber attack simulations](https://www.ndss-symposium.org/wp-content/uploads/2023/09/wosoc2023-23006-paper.pdf)
 * [(2023) Cyber Automated Network Resilience Defensive Approach against Malware Images](https://ieeexplore.ieee.org/abstract/document/10043078)
 * [(2023) Energy scheduling for DoS attack over multi-hop networks: Deep reinforcement learning approach](https://www.sciencedirect.com/science/article/pii/S0893608023000916)
 * [(2023) Cybersecurity as a Tic-Tac-Toe Game Using Autonomous Forwards (Attacking) And Backwards (Defending) Penetration Testing in a Cyber Adversarial Artificial Intelligence System](https://ieeexplore.ieee.org/document/10034922)
