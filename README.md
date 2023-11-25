@@ -699,6 +699,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Canaries and Whistles: Resilient Drone Communication Networks with (or without) Deep Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3605764.3623986)
 * [(2023) Effective defense strategies in network security using improved double dueling deep Q-network](https://www.sciencedirect.com/science/article/pii/S0167404823004881)
 * [(2023) Autonomous Cyber Defense Against Dynamic Multi-strategy Infrastructural DDoS Attacks](https://ieeexplore.ieee.org/abstract/document/10288937)
 * [(2023) Distributed Web Hacking by Adaptive Consensus-based Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0004370223001789)
@@ -1080,6 +1081,7 @@ tool</a>
 * [(2018) Autonomous Penetration Testing using Reinforcement Learning](https://arxiv.org/pdf/1905.05965.pdf)
 
 ### Posters
+* [(2023) Poster: Generating Experiences for Autonomous Network Defense](https://dl.acm.org/doi/abs/10.1145/3576915.3624381)
 * [(2023) Learning Near-Optimal Intrusion Responses Against Dynamic Attackers](https://limmen.dev/assets/papers/CDIS_conf_23_Hammar_Stadler_poster_12_may.pdf)
 * [(2022) Autonomous Network Defence using Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3488932.3527286)
 * [(2022) Intrusion Prevention through Optimal Stopping](https://limmen.dev/assets/papers/CDIS_Conference_Poster_24_May_Hammar_Stadler.pdf)
