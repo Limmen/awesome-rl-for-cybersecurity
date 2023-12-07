@@ -699,6 +699,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) PSP-Mal: Evading Malware Detection via Prioritized Experience-based Reinforcement Learning with Shapley Prior](https://dl.acm.org/doi/abs/10.1145/3627106.3627178)
 * [(2023) Canaries and Whistles: Resilient Drone Communication Networks with (or without) Deep Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3605764.3623986)
 * [(2023) Effective defense strategies in network security using improved double dueling deep Q-network](https://www.sciencedirect.com/science/article/pii/S0167404823004881)
 * [(2023) Autonomous Cyber Defense Against Dynamic Multi-strategy Infrastructural DDoS Attacks](https://ieeexplore.ieee.org/abstract/document/10288937)
