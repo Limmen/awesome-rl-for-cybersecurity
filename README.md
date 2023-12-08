@@ -36,7 +36,7 @@ For other related curated lists, see :
  - [RL-Environments](#-environments)
  - [Papers](#-papers)
  - [Books](#-books)
- - [Blogposts](#-miscellaneous)
+ - [Blogposts](#-blogposts)
  - [Talks](#-talks)
  - [Miscellaneous](#-miscellaneous)
 
