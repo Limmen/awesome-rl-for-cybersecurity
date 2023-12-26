@@ -699,6 +699,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Adaptive Deep Reinforcement Learning Algorithm for Distribution System Cyber Attack Defense with High Penetration of DERs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10368040)
 * [(2023) WebGuardRL: An Innovative Reinforcement Learning-based Approach for Advanced Web Attack Detection](https://dl.acm.org/doi/abs/10.1145/3628797.3628982)
 * [(2023) PSP-Mal: Evading Malware Detection via Prioritized Experience-based Reinforcement Learning with Shapley Prior](https://dl.acm.org/doi/abs/10.1145/3627106.3627178)
 * [(2023) Canaries and Whistles: Resilient Drone Communication Networks with (or without) Deep Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3605764.3623986)
@@ -1067,6 +1068,7 @@ tool</a>
 
 
 ### Master Theses
+* [(2023) RESONANT: Reinforcement Learning-based Moving Target Defense for Credit Card Fraud Detection](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/4b38d0f3-a6d5-4083-b7c4-9a688e857336/content)
 * [(2023) Competitive Reinforcement Learning for Autonomous Cyber Operations](https://espace.rmc.ca/jspui/bitstream/11264/1227/1/Competitive_RL_for_ACO.pdf)
 * [(2023) Learning Cyber Defence Tactics from Scratch with Cooperative Multi-Agent Reinforcement Learning](https://espace.rmc.ca/jspui/bitstream/11264/1082/1/Thesis_Final_Wiebe.pdf)
 * [(2022) Automating exploitation of SQL injection with reinforcement learning](https://www.duo.uio.no/handle/10852/100271)
