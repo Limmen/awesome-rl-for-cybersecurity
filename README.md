@@ -1106,6 +1106,8 @@ tool</a>
 * [(2021) Towards a method for computing effective intrusion prevention policies using reinforcement learning](https://limmen.dev/towards-a-method-for-computing-effective-intrusion-prevention-policies-using-rl)
 
 ## [↑](#table-of-contents) Talks
+* [(2023) Multi-Agent Reinforcement Learning for Maritime Operational Technology Cyber Security](https://www.youtube.com/watch?v=kWIKEdIzXNY)
+* [(2023) Learning Automated Intrusion Response](https://www.youtube.com/watch?v=_Y_1I_BEb58)
 * [(2023) Uplifting Cyber Defense](https://www.youtube.com/watch?v=kPAEhLypD3A)
 * [(2023) Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition](https://www.youtube.com/watch?v=LDCgOygjn3k&)
 * [(2023) Reinforcement Learning for Autonomous Cyber Defense](https://www.youtube.com/watch?v=PcqeG5_A4tE)
