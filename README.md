@@ -699,6 +699,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2023) Optimal Deception Asset Deployment in Cybersecurity: A Nash Q-Learning Approach in Multi-Agent Stochastic Games](https://www.mdpi.com/2076-3417/14/1/357)
 * [(2023) Adaptive Deep Reinforcement Learning Algorithm for Distribution System Cyber Attack Defense with High Penetration of DERs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10368040)
 * [(2023) WebGuardRL: An Innovative Reinforcement Learning-based Approach for Advanced Web Attack Detection](https://dl.acm.org/doi/abs/10.1145/3628797.3628982)
 * [(2023) PSP-Mal: Evading Malware Detection via Prioritized Experience-based Reinforcement Learning with Shapley Prior](https://dl.acm.org/doi/abs/10.1145/3627106.3627178)
