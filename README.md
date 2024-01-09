@@ -699,6 +699,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Enhancing Road Safety and Cybersecurity in Traffic Management Systems: Leveraging the Potential of Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10381696)
 * [(2023) Optimal Deception Asset Deployment in Cybersecurity: A Nash Q-Learning Approach in Multi-Agent Stochastic Games](https://www.mdpi.com/2076-3417/14/1/357)
 * [(2023) Adaptive Deep Reinforcement Learning Algorithm for Distribution System Cyber Attack Defense with High Penetration of DERs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10368040)
 * [(2023) WebGuardRL: An Innovative Reinforcement Learning-based Approach for Advanced Web Attack Detection](https://dl.acm.org/doi/abs/10.1145/3628797.3628982)
@@ -1158,7 +1159,7 @@ tool</a>
 
 ## [↑](#table-of-contents) Miscellaneous
 * [(2023) Proceedings of the 2nd Workshop on Adaptive Cyber Defense](https://arxiv.org/html/2308.09520)
-* [(2023) GameSec '23: 14th Conference on Decision and Game Theory for Security (GameSec-23)](https://www.gamesec-conf.org/)
+* [(2023) GameSec '23: 14th Conference on Decision and Game Theory for Security (GameSec-23)](https://www.gamesec-conf.org/) [Proceedings](https://link.springer.com/book/10.1007/978-3-031-50670-3)
 * [(2023) AISec '23: 16th ACM Workshop on Artificial Intelligence and Security](https://aisec.cc/)
 * [(2022) AI for Cyber Defence Mailing List](https://groups.google.com/g/ai-for-cyberdefence)
 * [(2022) AI for Cyber Defence (AICD) research centre - Alan Turing Institute](https://www.turing.ac.uk/aicd)
