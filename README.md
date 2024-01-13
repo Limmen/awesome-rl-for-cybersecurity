@@ -699,6 +699,8 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) LLM-Powered Code Vulnerability Repair with Reinforcement Learning and Semantic Reward](https://arxiv.org/pdf/2401.03374.pdf)
+* [(2024) Squashing Resource Exhaustion Bugs with Black-box Fuzzing and Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10381445)
 * [(2024) Enhancing Road Safety and Cybersecurity in Traffic Management Systems: Leveraging the Potential of Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10381696)
 * [(2023) Optimal Deception Asset Deployment in Cybersecurity: A Nash Q-Learning Approach in Multi-Agent Stochastic Games](https://www.mdpi.com/2076-3417/14/1/357)
 * [(2023) Adaptive Deep Reinforcement Learning Algorithm for Distribution System Cyber Attack Defense with High Penetration of DERs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10368040)
