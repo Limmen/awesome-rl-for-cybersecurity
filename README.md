@@ -699,6 +699,8 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Reinforcement learning meets network intrusion detection: a transferable and adaptable framework for anomaly behavior identification](https://ieeexplore.ieee.org/abstract/document/10399344)
+* [(2024) Use of Graph Neural Networks in Aiding Defensive Cyber Operations](https://arxiv.org/pdf/2401.05680.pdf)
 * [(2024) LLM-Powered Code Vulnerability Repair with Reinforcement Learning and Semantic Reward](https://arxiv.org/pdf/2401.03374.pdf)
 * [(2024) Squashing Resource Exhaustion Bugs with Black-box Fuzzing and Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10381445)
 * [(2024) Enhancing Road Safety and Cybersecurity in Traffic Management Systems: Leveraging the Potential of Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10381696)
