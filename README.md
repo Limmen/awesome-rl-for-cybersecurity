@@ -47,7 +47,7 @@ For other related curated lists, see :
   <tbody>
     <tr>
       <td width='50%' align='center'>
-        <img src='imgs/csle_logo_cropped.png' />
+        <img src='imgs/primaite.png' />
       </td>
       <td width='50%'>
         <a href='https://github.com/Autonomous-Resilient-Cyber-Defence/PrimAITE'>The ARCD Primary-level AI Training Environment (PrimAITE)</a>
