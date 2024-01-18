@@ -42,6 +42,25 @@ For other related curated lists, see :
 
 ## [↑](#table-of-contents) Environments
 
+### `The ARCD Primary-level AI Training Environment (PrimAITE)`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/csle_logo_cropped.png' />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/Autonomous-Resilient-Cyber-Defence/PrimAITE'>The ARCD Primary-level AI Training Environment (PrimAITE)</a>
+        <ul>
+          <li>
+          The ARCD Primary-level AI Training Environment (PrimAITE) provides an effective simulation capability for the purposes of training and evaluating AI in a cyber-defensive role.
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### `CSLE: The Cyber Security Learning Environment`
 <table>
   <tbody>
