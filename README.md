@@ -718,11 +718,14 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Deep Reinforcement Learning for Autonomous Cyber Operations: A Survey](https://arxiv.org/abs/2310.07745)
 * [(2024) Reinforcement learning meets network intrusion detection: a transferable and adaptable framework for anomaly behavior identification](https://ieeexplore.ieee.org/abstract/document/10399344)
 * [(2024) Use of Graph Neural Networks in Aiding Defensive Cyber Operations](https://arxiv.org/pdf/2401.05680.pdf)
 * [(2024) LLM-Powered Code Vulnerability Repair with Reinforcement Learning and Semantic Reward](https://arxiv.org/pdf/2401.03374.pdf)
 * [(2024) Squashing Resource Exhaustion Bugs with Black-box Fuzzing and Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10381445)
 * [(2024) Enhancing Road Safety and Cybersecurity in Traffic Management Systems: Leveraging the Potential of Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10381696)
+* [(2023) Multi-Agent Reinforcement Learning for Maritime Operational Technology Cyber Security](https://arxiv.org/abs/2401.10149)
+* [(2023) CO-DECYBER: Co-operative Decision Making for Cybersecurity using Deep Multi-agent Reinforcement Learning](https://www.researchgate.net/publication/374373412_CO-DECYBER_Co-operative_Decision_Making_for_Cybersecurity_using_Deep_Multi-agent_Reinforcement_Learning?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ)
 * [(2023) Optimal Deception Asset Deployment in Cybersecurity: A Nash Q-Learning Approach in Multi-Agent Stochastic Games](https://www.mdpi.com/2076-3417/14/1/357)
 * [(2023) Adaptive Deep Reinforcement Learning Algorithm for Distribution System Cyber Attack Defense with High Penetration of DERs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10368040)
 * [(2023) WebGuardRL: An Innovative Reinforcement Learning-based Approach for Advanced Web Attack Detection](https://dl.acm.org/doi/abs/10.1145/3628797.3628982)
