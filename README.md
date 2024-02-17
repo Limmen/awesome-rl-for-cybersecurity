@@ -718,6 +718,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Discovering Command and Control (C2) Channels on Tor and Public Networks Using Reinforcement Learning](https://arxiv.org/pdf/2402.09200.pdf)
 * [(2024) Deep Reinforcement Learning for Autonomous Cyber Operations: A Survey](https://arxiv.org/abs/2310.07745)
 * [(2024) Reinforcement learning meets network intrusion detection: a transferable and adaptable framework for anomaly behavior identification](https://ieeexplore.ieee.org/abstract/document/10399344)
 * [(2024) Use of Graph Neural Networks in Aiding Defensive Cyber Operations](https://arxiv.org/pdf/2401.05680.pdf)
@@ -1224,4 +1225,4 @@ Thanks for all your contributions and keeping this project up-to-date.
 
 Creative Commons
 
-(C) 2021-2023
+(C) 2021-2024
