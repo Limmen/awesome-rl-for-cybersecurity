@@ -718,6 +718,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) IoTWarden: A Deep Reinforcement Learning Based Real-time Defense System to Mitigate Trigger-action IoT Attacks](https://arxiv.org/pdf/2401.08141.pdf)
 * [(2024) Discovering Command and Control (C2) Channels on Tor and Public Networks Using Reinforcement Learning](https://arxiv.org/pdf/2402.09200.pdf)
 * [(2024) Deep Reinforcement Learning for Autonomous Cyber Operations: A Survey](https://arxiv.org/abs/2310.07745)
 * [(2024) Reinforcement learning meets network intrusion detection: a transferable and adaptable framework for anomaly behavior identification](https://ieeexplore.ieee.org/abstract/document/10399344)
