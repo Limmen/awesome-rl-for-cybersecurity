@@ -718,6 +718,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Commissioning Federated Reinforcement Learning to Envision Network Security Strategies](https://ieeexplore.ieee.org/document/10440912)
 * [(2024) Transforming Cybersecurity Dynamics: Enhanced Self-Play Reinforcement Learning in Intrusion Detection and Prevention System](https://www.researchgate.net/publication/378288610_Transforming_Cybersecurity_Dynamics_Enhanced_Self-Play_Reinforcement_Learning_in_Intrusion_Detection_and_Prevention_System)
 * [(2024) Automated Security Response through Online Learning with Adaptive Conjectures](https://arxiv.org/abs/2402.12499)
 * [(2024) IoTWarden: A Deep Reinforcement Learning Based Real-time Defense System to Mitigate Trigger-action IoT Attacks](https://arxiv.org/pdf/2401.08141.pdf)
