@@ -42,6 +42,29 @@ For other related curated lists, see :
 
 ## [↑](#table-of-contents) Environments
 
+
+### `Pentesting Training Framework for Reinforcement Learning Agents (PenGym)`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/pengym.png' />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/cyb3rlab/PenGym'>PenGym: Pentesting Training Framework for Reinforcement Learning Agents</a>
+        <ul>
+          <li>
+PenGym is a framework for creating and managing realistic environments used for the training of Reinforcement Learning (RL) agents for penetration testing purposes. PenGym uses the same API with the Gymnasium fork of the OpenAI Gym library, thus making it possible to employ PenGym with all the RL agents that follow those specifications. PenGym is being developed by Japan Advanced Institute of Science and Technology (JAIST) in collaboration with KDDI Research, Inc.
+          </li>
+		  <li>
+		  Paper: <a href="https://www.jaist.ac.jp/~razvan/publications/pengym_framework_rl_agents.pdf">(2024) PenGym: Pentesting Training Framework for Reinforcement Learning Agents</a><br/>
+		  </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### `The ARCD Primary-level AI Training Environment (PrimAITE)`
 <table>
   <tbody>
@@ -728,6 +751,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) PenGym: Pentesting Training Framework for Reinforcement Learning Agents](https://www.jaist.ac.jp/~razvan/publications/pengym_framework_rl_agents.pdf)
 * [(2024) How to Train your Antivirus: RL-based Hardening through the Problem-Space](https://arxiv.org/pdf/2402.19027.pdf)
 * [(2024) Conjectural Online Learning with First-order Beliefs in Asymmetric Information Stochastic Games](https://arxiv.org/abs/2402.18781)
 * [(2024) Commissioning Federated Reinforcement Learning to Envision Network Security Strategies](https://ieeexplore.ieee.org/document/10440912)
