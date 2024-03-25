@@ -751,6 +751,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) WENDIGO: Deep Reinforcement Learning for Denial-of-Service Query Discovery in GraphQL](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/251249221/Wendigo.pdf)
 * [(2024) Security Enhancement for Deep Reinforcement Learning-Based Strategy in Energy-Efficient Wireless Sensor Networks](https://www.mdpi.com/1424-8220/24/6/1993)
 * [(2024) Symbiotic Game and Foundation Models for Cyber Deception Operations in Strategic Cyber Warfare](https://arxiv.org/pdf/2403.10570.pdf)
 * [(2024) Mirage: cyber deception against autonomous cyber attacks in emulation and simulation](https://link.springer.com/article/10.1007/s12243-024-01018-4)
