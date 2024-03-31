@@ -751,6 +751,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Optimal Attack Path Planning based on Reinforcement Learning and Cyber Threat Knowledge Graph Combining the ATT&CK for Air Traffic Management System ](https://ieeexplore.ieee.org/abstract/document/10473161)
 * [(2024) Comparative DQN-Improved Algorithms for Stochastic Games-based Automated Edge Intelligence-enabled IoT Malware Spread-Suppression Strategies](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10478522)
 * [(2024) Deep Reinforcement Learning Approach for Cyberattack Detection](https://online-journals.org/index.php/i-joe/article/view/48229)
 * [(2024) WENDIGO: Deep Reinforcement Learning for Denial-of-Service Query Discovery in GraphQL](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/251249221/Wendigo.pdf)
