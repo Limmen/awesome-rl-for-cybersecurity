@@ -751,6 +751,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Foundations of Cyber Resilience: The Confluence of Game, Control, and Learning Theories](https://arxiv.org/pdf/2404.01205.pdf)
 * [(2024) Intrusion Tolerance for Networked Systems through Two-Level Feedback Control](https://arxiv.org/abs/2404.01741)
 * [(2024) Optimal Attack Path Planning based on Reinforcement Learning and Cyber Threat Knowledge Graph Combining the ATT&CK for Air Traffic Management System ](https://ieeexplore.ieee.org/abstract/document/10473161)
 * [(2024) Comparative DQN-Improved Algorithms for Stochastic Games-based Automated Edge Intelligence-enabled IoT Malware Spread-Suppression Strategies](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10478522)
