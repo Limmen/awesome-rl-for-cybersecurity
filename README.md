@@ -731,6 +731,7 @@ tool</a>
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
+* [(2024) The Path to Autonomous Cyber Defense](https://arxiv.org/pdf/2404.10788.pdf)
 * [(2023) A Review of Techniques and Policies on Cybersecurity Using Artificial Intelligence and Reinforcement Learning Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10260699)
 * [(2023) Automated Cyber Defence: A Review](https://arxiv.org/pdf/2303.04926.pdf)
 * [(2022) The Confluence of Networks, Games, and Learning a Game-Theoretic Framework for Multiagent Decision Making Over Networks](https://arxiv.org/abs/2105.08158)
