@@ -752,6 +752,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Off-Policy Actor-Critic Deep Reinforcement Learning methods for alert prioritization in Intrusion Detection Systems](https://www.sciencedirect.com/science/article/pii/S016740482400155X)
 * [(2024) Security Assessment of Industrial Control System Applying Reinforcement Learning](https://www.mdpi.com/2227-9717/12/4/801)
 * [(2024) Foundations of Cyber Resilience: The Confluence of Game, Control, and Learning Theories](https://arxiv.org/pdf/2404.01205.pdf)
 * [(2024) Intrusion Tolerance for Networked Systems through Two-Level Feedback Control](https://arxiv.org/abs/2404.01741)
