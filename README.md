@@ -752,6 +752,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Interpretable Cross-Layer Intrusion Response System Based on Deep Reinforcement Learning for Industrial Control Systems](https://ieeexplore.ieee.org/abstract/document/10508089)
 * [(2024) A method of network attack-defense game and collaborative defense decision-making based on hierarchical multi-agent reinforcement learning](https://www.sciencedirect.com/science/article/pii/S016740482400172X)
 * [(2024) Leveraging Deep Reinforcement Learning Technique for Intrusion Detection in SCADA Infrastructure](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10504835)
 * [(2024) Off-Policy Actor-Critic Deep Reinforcement Learning methods for alert prioritization in Intrusion Detection Systems](https://www.sciencedirect.com/science/article/pii/S016740482400155X)
