@@ -752,6 +752,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Reinforcement learning-based autonomous attacker to uncover computer network vulnerabilities](https://link.springer.com/article/10.1007/s00521-024-09668-0)
 * [(2024) Trustworthy autonomous driving via defense-aware robust reinforcement learning against worst-case observational perturbations](https://www.sciencedirect.com/science/article/pii/S0968090X24001530)
 * [(2024) DRL²FC: An Attack-Resilient Controller for Automatic Generation Control Based on Deep Reinforcement Learning](https://arxiv.org/pdf/2404.16974)
 * [(2024) Interpretable Cross-Layer Intrusion Response System Based on Deep Reinforcement Learning for Industrial Control Systems](https://ieeexplore.ieee.org/abstract/document/10508089)
