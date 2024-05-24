@@ -354,8 +354,7 @@ PenGym is a framework for creating and managing realistic environments used for 
         <ul>
           <li>
            The second Cyber Autonomous Gym for Experimentation (CAGE) challenge environment announced at the AAAI-22 Workshop on Artificial Intelligence for Cyber Security Workshop (AICS).
-
-	  Paper: <a href="https://arxiv.org/abs/2309.07388?context=cs">(2023) On Autonomous Agents in a Cyber Defence Environment </a>
+		   Paper: <a href="https://arxiv.org/pdf/2309.07388">(2023) On Autonomous Agents in a Cyber Defence Environment</a>
           </li>
         </ul>
       </td>
