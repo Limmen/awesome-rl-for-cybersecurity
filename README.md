@@ -753,6 +753,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Evolving malware detection through instant dynamic graph inverse reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0950705124006257)
 * [(2024) Intelligent Prevention of DDoS Attacks using Reinforcement Learning and Smart](https://journals.flvc.org/FLAIRS/article/view/135349)
 * [(2024) Application Study on the Reinforcement Learning Strategies in the Network Awareness Risk Perception and Prevention](https://link.springer.com/article/10.1007/s44196-024-00492-x)
 * [(2024) Reinforcement learning-based autonomous attacker to uncover computer network vulnerabilities](https://link.springer.com/article/10.1007/s00521-024-09668-0)
