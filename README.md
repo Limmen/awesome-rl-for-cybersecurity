@@ -753,6 +753,8 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Knowledge-Informed Auto-Penetration Testing Based on Reinforcement Learning with Reward Machine](https://arxiv.org/pdf/2405.15908)
+* [(2024) Evolving malware detection through instant dynamic graph inverse reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0950705124006257)
 * [(2024) Evolving malware detection through instant dynamic graph inverse reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0950705124006257)
 * [(2024) Intelligent Prevention of DDoS Attacks using Reinforcement Learning and Smart](https://journals.flvc.org/FLAIRS/article/view/135349)
 * [(2024) Application Study on the Reinforcement Learning Strategies in the Network Awareness Risk Perception and Prevention](https://link.springer.com/article/10.1007/s44196-024-00492-x)
@@ -1159,6 +1161,7 @@ tool</a>
 
 
 ### Master Theses
+* [(2024) Learning to Communicate in Multi-Agent Reinforcement Learning for Autonomous Cyber Defence](https://espace.rmc-cmr.ca/jspui/bitstream/11264/1843/1/Thesis_Faizan_Learning_to_Communicate.pdf)
 * [(2023) RESONANT: Reinforcement Learning-based Moving Target Defense for Credit Card Fraud Detection](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/4b38d0f3-a6d5-4083-b7c4-9a688e857336/content)
 * [(2023) Competitive Reinforcement Learning for Autonomous Cyber Operations](https://espace.rmc.ca/jspui/bitstream/11264/1227/1/Competitive_RL_for_ACO.pdf)
 * [(2023) Learning Cyber Defence Tactics from Scratch with Cooperative Multi-Agent Reinforcement Learning](https://espace.rmc.ca/jspui/bitstream/11264/1082/1/Thesis_Final_Wiebe.pdf)
