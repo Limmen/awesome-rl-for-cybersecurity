@@ -1179,6 +1179,7 @@ tool</a>
 * [(2018) Autonomous Penetration Testing using Reinforcement Learning](https://arxiv.org/pdf/1905.05965.pdf)
 
 ### Posters
+* [(2023) Poster: Defending the unknown: Exploring reinforcement learning agents’ deployment in realistic, unseen networks](https://ceur-ws.org/Vol-3652/paper2.pdf)
 * [(2023) Poster: Generating Experiences for Autonomous Network Defense](https://dl.acm.org/doi/abs/10.1145/3576915.3624381)
 * [(2023) Learning Near-Optimal Intrusion Responses Against Dynamic Attackers](https://limmen.dev/assets/papers/CDIS_conf_23_Hammar_Stadler_poster_12_may.pdf)
 * [(2022) Autonomous Network Defence using Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3488932.3527286)
