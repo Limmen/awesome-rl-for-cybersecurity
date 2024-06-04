@@ -1253,9 +1253,11 @@ tool</a>
 
 ## [↑](#table-of-contents) Miscellaneous
 * [(2024) Autonomous Resilient Cyber Defence (ARCD)](https://www.qinetiq.com/en/what-we-do/services-and-products/autonomous-resilient-cyber-defence)
+* [(2023) Proceedings of the Conference on Applied Machine Learning in Information Security (CAMLIS 2023)](https://dblp.org/db/conf/camlis/camlis2023.html)
 * [(2023) Proceedings of the 2nd Workshop on Adaptive Cyber Defense](https://arxiv.org/html/2308.09520)
 * [(2023) GameSec '23: 14th Conference on Decision and Game Theory for Security (GameSec-23)](https://www.gamesec-conf.org/) [Proceedings](https://link.springer.com/book/10.1007/978-3-031-50670-3)
 * [(2023) AISec '23: 16th ACM Workshop on Artificial Intelligence and Security](https://aisec.cc/)
+* [(2022) Proceedings of the Conference on Applied Machine Learning in Information Security (CAMLIS 2022)](https://dblp.org/db/conf/camlis/camlis2022.html)
 * [(2022) AI for Cyber Defence Mailing List](https://groups.google.com/g/ai-for-cyberdefence)
 * [(2022) AI for Cyber Defence (AICD) research centre - Alan Turing Institute](https://www.turing.ac.uk/aicd)
 * [(2022) DARPA's CASTLE: Cyber Agents for Security Testing and Learning Environments using Reinforcement Learning](https://www.darpa.mil/news-events/2022-10-24)
