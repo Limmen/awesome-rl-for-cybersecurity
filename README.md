@@ -1197,6 +1197,7 @@ tool</a>
 
 ## [↑](#table-of-contents) Blogposts
 
+* [(2024) How can reinforcement learning help protect against cyber attacks?](https://www.linkedin.com/advice/1/how-can-reinforcement-learning-help-protect-tkdxe)
 * [(2023) Beyond GenAI: The Rise of Autonomous Cyber-Defense Agents](https://www.cybersecuritypulse.net/p/beyond-genai-the-rise-of-autonomous)
 * [(2021) Gamifying machine learning for stronger security and AI models](https://www.microsoft.com/security/blog/2021/04/08/gamifying-machine-learning-for-stronger-security-and-ai-models/)
 * [(2021) Automating Cyber-Security With Reinforcement Learning](https://winder.ai/automating-cyber-security-with-reinforcement-learning/)
