@@ -1203,8 +1203,16 @@ tool</a>
 * [(2021) Towards a method for computing effective intrusion prevention policies using reinforcement learning](https://limmen.dev/towards-a-method-for-computing-effective-intrusion-prevention-policies-using-rl)
 
 ## [↑](#table-of-contents) Talks
+* [(2024) Attacking Reinforcement Learning via Adversarial Policies – by Wong Wai Tuck](https://www.youtube.com/watch?v=jKvuS1LirYk)
+* [(2024) CYBRAL: Leveraging Advanced AI for Automated Cybersecurity](https://www.youtube.com/watch?v=N0aVB1Wrrck)
+* [(2024) From Cyber Situational Awareness to Adaptive Cyber Defense](https://www.youtube.com/watch?v=T9bmqccjfkg)
+* [(2024) Operational Cybersecurity of DERs Using Optimization, Control Theory, and Machine Learning](https://www.youtube.com/watch?v=3nF6lk_bSuc)
+* [(2024) Automated Security Response through Online Learning with Adaptive Conjectures](https://www.youtube.com/watch?v=K2JnC6z72fI&t=795s)
+* [(2024) CSLE v0.5](https://www.youtube.com/watch?v=l_g3sRJwwhc)
+* [(2024) Machine Learning for Cyber Defense: From Network Security and Endpoint Security Perspectives](https://www.youtube.com/watch?v=UC-oE2-sP_0)
 * [(2023) Multi-Agent Reinforcement Learning for Maritime Operational Technology Cyber Security](https://www.youtube.com/watch?v=kWIKEdIzXNY)
 * [(2023) Learning Automated Intrusion Response](https://www.youtube.com/watch?v=_Y_1I_BEb58)
+* [(2023) CSLE v0.2](https://www.youtube.com/watch?v=iE2KPmtIs2A&t=3s)
 * [(2023) Uplifting Cyber Defense](https://www.youtube.com/watch?v=kPAEhLypD3A)
 * [(2023) Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition](https://www.youtube.com/watch?v=LDCgOygjn3k&)
 * [(2023) Reinforcement Learning for Autonomous Cyber Defense](https://www.youtube.com/watch?v=PcqeG5_A4tE)
@@ -1253,6 +1261,8 @@ tool</a>
 * [(2018) CSIAC Webinar - Learning to Win: Making the Case for Autonomous Cyber Security Solutions](https://www.youtube.com/watch?v=K-ma_ZVzqec)
 
 ## [↑](#table-of-contents) Miscellaneous
+* [(2024) Special Interest Group for AI and Machine Learning in Security -- IEEE COMSOC](https://cn.committees.comsoc.org/special-interest-groups-sigs/cognitive-network-security-sig/)
+* [(2024) GameSec '24: 15th Conference on Decision and Game Theory for Security (GameSec-24)](https://www.gamesec-conf.org/)
 * [(2024) Autonomous Resilient Cyber Defence (ARCD)](https://www.qinetiq.com/en/what-we-do/services-and-products/autonomous-resilient-cyber-defence)
 * [(2023) Proceedings of the Conference on Applied Machine Learning in Information Security (CAMLIS 2023)](https://dblp.org/db/conf/camlis/camlis2023.html)
 * [(2023) Proceedings of the 2nd Workshop on Adaptive Cyber Defense](https://arxiv.org/html/2308.09520)
