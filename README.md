@@ -753,6 +753,8 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Attacker Hunting in the Intranet using Multi-agent Reinforcement Learning ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10545725)
+* [(2024) A Novel Two Step Computer Network Attack and Defense Strategy](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10544975)
 * [(2024) AdaRisk: Risk-adaptive Deep Reinforcement Learning for Vulnerable Nodes Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10549866)
 * [(2024) Design of an Autonomous Cyber Defence Agent using Hybrid AI models](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10540988)
 * [(2024) Reinforcement Learning Approach for IoT Security using CyberBattleSim: A Simulation-based Study](https://ieeexplore.ieee.org/abstract/document/10541295)
