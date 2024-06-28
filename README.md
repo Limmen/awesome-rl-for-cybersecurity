@@ -1168,6 +1168,7 @@ tool</a>
 
 
 ### Master Theses
+* [(2024) MetaNet: A Meta Learning Model for Automated Penetration Testing of Networked Systems](https://www.diva-portal.org/smash/get/diva2:1871151/FULLTEXT01.pdf)
 * [(2024) Learning to Communicate in Multi-Agent Reinforcement Learning for Autonomous Cyber Defence](https://espace.rmc-cmr.ca/jspui/bitstream/11264/1843/1/Thesis_Faizan_Learning_to_Communicate.pdf)
 * [(2023) RESONANT: Reinforcement Learning-based Moving Target Defense for Credit Card Fraud Detection](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/4b38d0f3-a6d5-4083-b7c4-9a688e857336/content)
 * [(2023) Competitive Reinforcement Learning for Autonomous Cyber Operations](https://espace.rmc.ca/jspui/bitstream/11264/1227/1/Competitive_RL_for_ACO.pdf)
