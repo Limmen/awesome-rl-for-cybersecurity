@@ -753,6 +753,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) CyberRL: Brain-Inspired Reinforcement Learning for Efficient Network Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/10579883)
 * [(2024) Leveraging Reinforcement Learning in Red Teaming for Advanced Ransomware Attack Simulations](https://arxiv.org/pdf/2406.17576)
 * [(2024) Deep Reinforcement Learning for Adaptive Cyber Defense in Network Security](https://dl.acm.org/doi/abs/10.1145/3660853.3660930)
 * [(2024) AI for AI-based intrusion detection as a service: Reinforcement learning to configure models, tasks, and capacities](https://www.sciencedirect.com/science/article/pii/S1084804524001139)
