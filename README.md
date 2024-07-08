@@ -753,6 +753,8 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Deep Reinforcement Learning Based Self-Evolving Moving Target Defense Approach Against Unknown Attacks](https://ieeexplore.ieee.org/abstract/document/10586877)
+* [(2024) Attention-Enhanced Multi-Agent Reinforcement Learning Against Observation Perturbations for Distributed Volt-VAR Control](https://ieeexplore.ieee.org/abstract/document/10587051)
 * [(2024) CyberRL: Brain-Inspired Reinforcement Learning for Efficient Network Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/10579883)
 * [(2024) Leveraging Reinforcement Learning in Red Teaming for Advanced Ransomware Attack Simulations](https://arxiv.org/pdf/2406.17576)
 * [(2024) Deep Reinforcement Learning for Adaptive Cyber Defense in Network Security](https://dl.acm.org/doi/abs/10.1145/3660853.3660930)
