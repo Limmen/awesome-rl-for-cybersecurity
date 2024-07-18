@@ -753,6 +753,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search](https://arxiv.org/abs/2407.11070)
 * [(2024) Structural Generalization in Autonomous Cyber Incident Response with Message-Passing Neural Networks and Reinforcement Learning](https://arxiv.org/pdf/2407.05775v1)
 * [(2024) Deep Reinforcement Learning Based Self-Evolving Moving Target Defense Approach Against Unknown Attacks](https://ieeexplore.ieee.org/abstract/document/10586877)
 * [(2024) Attention-Enhanced Multi-Agent Reinforcement Learning Against Observation Perturbations for Distributed Volt-VAR Control](https://ieeexplore.ieee.org/abstract/document/10587051)
