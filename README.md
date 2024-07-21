@@ -753,6 +753,8 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Otimizing Cyber Defense in Dynamic Active Directories through Reinforcement Learning](https://arxiv.org/pdf/2406.19596)
+* [(2024) Safe Multi-Agent Reinforcement Learning for Wireless Applications Against Adversarial Communications](https://ieeexplore.ieee.org/abstract/document/10584557)
 * [(2024) Autonomous network defense in cloud data center environments based on reinforcement learning](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13185/131850H/Autonomous-network-defense-in-cloud-data-center-environments-based-on/10.1117/12.3032677.full)
 * [(2024) DDoS Mitigation while Preserving QoS: A Deep Reinforcement Learning-Based Approach](https://ieeexplore.ieee.org/abstract/document/10588889)
 * [(2024) Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search](https://arxiv.org/abs/2407.11070)
