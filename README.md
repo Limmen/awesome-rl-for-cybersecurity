@@ -753,6 +753,8 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) How to Train your Antivirus: RL-based Hardening through the Problem Space](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/278114787/AutoRobust_RAID_Accepted.pdf)
+* [(2024) Multi-agent Reinforcement Learning for Cybersecurity: Approaches and Challenges](https://ceur-ws.org/Vol-3735/paper_09.pdf)
 * [(2024) Evaluation of Reinforcement Learning for Autonomous Penetration Testing using A3C, Q-learning and DQN](https://arxiv.org/pdf/2407.15656)
 * [(2024) Otimizing Cyber Defense in Dynamic Active Directories through Reinforcement Learning](https://arxiv.org/pdf/2406.19596)
 * [(2024) Safe Multi-Agent Reinforcement Learning for Wireless Applications Against Adversarial Communications](https://ieeexplore.ieee.org/abstract/document/10584557)
