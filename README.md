@@ -753,6 +753,8 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Leveraging Deep Reinforcement Learning for Cyber-Attack Paths Prediction: Formulation, Generalization, and Evaluation](https://hal.science/hal-04662428/document)
+* [(2024) Efficient Penetration Testing Path Planning Based on Reinforcement Learning with Episodic Memory](https://cdn.techscience.cn/files/CMES/2024/TSP_CMES-140-3/TSP_CMES_28553/TSP_CMES_28553.pdf)
 * [(2024) How to Train your Antivirus: RL-based Hardening through the Problem Space](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/278114787/AutoRobust_RAID_Accepted.pdf)
 * [(2024) Multi-agent Reinforcement Learning for Cybersecurity: Approaches and Challenges](https://ceur-ws.org/Vol-3735/paper_09.pdf)
 * [(2024) Evaluation of Reinforcement Learning for Autonomous Penetration Testing using A3C, Q-learning and DQN](https://arxiv.org/pdf/2407.15656)
