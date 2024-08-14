@@ -43,6 +43,28 @@ For other related curated lists, see :
 ## [↑](#table-of-contents) Environments
 
 
+### `Cyberwheel`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/cyberwheel.png' />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/ORNL/cyberwheel'>Cyberwheel: A Reinforcement Learning Simulation Environment</a>
+        <ul>
+          <li>
+Cyberwheel is a Reinforcement Learning (RL) simulation environment built for training and evaluating autonomous cyber defense models on simulated networks. It was built with modularity in mind, to allow users to build on top of it to fit their needs, supporting various robust configuration files to build networks, services, host types, defensive agents, and more. Cyberwheel is being developed by Oak Ridge National Lab (ORNL).
+          </li>
+		  <li>
+		  Paper: <a href="https://doi.org/10.1145/3675741.3675752">(2024) Towards a High Fidelity Training Environment for Autonomous Cyber Defense Agents</a><br/>
+		  </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### `Pentesting Training Framework for Reinforcement Learning Agents (PenGym)`
 <table>
   <tbody>
@@ -753,6 +775,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Towards a High Fidelity Training Environment for Autonomous Cyber Defense Agents](https://doi.org/10.1145/3675741.3675752)
 * [(2024) Reinforcement Learning for an Efficient and Effective Malware Investigation during Cyber Incident Response](https://arxiv.org/pdf/2408.01999)
 * [(2024) Leveraging Deep Reinforcement Learning for Cyber-Attack Paths Prediction: Formulation, Generalization, and Evaluation](https://hal.science/hal-04662428/document)
 * [(2024) Efficient Penetration Testing Path Planning Based on Reinforcement Learning with Episodic Memory](https://cdn.techscience.cn/files/CMES/2024/TSP_CMES-140-3/TSP_CMES_28553/TSP_CMES_28553.pdf)
