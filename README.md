@@ -1,4 +1,4 @@
-
+ƒ
 <h1 align="center"> Awesome Reinforcement Learning <br>for Cyber Security </h1>
 
 <p align="center">
@@ -775,6 +775,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) An Intelligent Reinforcement Learning–Based Method for Threat Detection in Mobile Edge Networks](https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2294)
 * [(2024) Towards a High Fidelity Training Environment for Autonomous Cyber Defense Agents](https://doi.org/10.1145/3675741.3675752)
 * [(2024) Reinforcement Learning for an Efficient and Effective Malware Investigation during Cyber Incident Response](https://arxiv.org/pdf/2408.01999)
 * [(2024) Leveraging Deep Reinforcement Learning for Cyber-Attack Paths Prediction: Formulation, Generalization, and Evaluation](https://hal.science/hal-04662428/document)
