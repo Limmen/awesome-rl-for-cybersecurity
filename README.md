@@ -775,7 +775,8 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
-* [(2024) Risk-Aware Federated Reinforcement Learning-Based Secure IoV Communicationsf](https://www.computer.org/csdl/journal/tm/5555/01/10643312/1ZAxmYkGmOs)
+* [(2024) Enhancing Underwater IoT Security: A Collaborative Pursuit Strategy Using Multi-Agent Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10644013)
+* [(2024) Risk-Aware Federated Reinforcement Learning-Based Secure IoV Communications](https://www.computer.org/csdl/journal/tm/5555/01/10643312/1ZAxmYkGmOs)
 * [(2024) Deep Reinforcement Learning-Based Moving Target Defense for Multicast in Software-Defined Satellite Networks](https://ieeexplore.ieee.org/abstract/document/10622302)
 * [(2024) Finding the Optimal Security Policies for Autonomous Cyber Operations with Competitive Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10639381)
 * [(2024) An Intelligent Reinforcement Learning–Based Method for Threat Detection in Mobile Edge Networks](https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2294)
