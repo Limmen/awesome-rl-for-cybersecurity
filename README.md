@@ -775,6 +775,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Detection of Man in the Middle Attacks in Model-Free Reinforcement Learning for the Linear Quadratic Regulator](https://ieeexplore.ieee.org/abstract/document/10644963)
 * [(2024) Optimization of mitigation deployment using deep reinforcement learning over an enhanced ATT &CK](https://link.springer.com/article/10.1007/s00607-024-01344-4)
 * [(2024) Anti-Jamming Attack Mixed Strategy for Formation Tracking Control via Game-Theoretical Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10660492)
 * [(2024) A survey on security of UAV and deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S1570870524002531)
