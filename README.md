@@ -775,6 +775,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Causally aware reinforcement learning agents for autonomous cyber defence](https://www.sciencedirect.com/science/article/pii/S0950705124011559)
 * [(2024) Reinforcement Learning for Autonomous Resilient Cyber Defence](https://i.blackhat.com/BH-US-24/Presentations/US-24-MilesFarmer-ReinforcementLearningForAutonomousResilientCyberDefence-wp.pdf)
 * [(2024) Dynamic Fraud Detection: Integrating Reinforcement Learning into Graph Neural Networks](https://arxiv.org/pdf/2409.09892)
 * [(2024) Towards Autonomous Network Defense: Reinforcement Learning Environment for a Defense Agent](https://ieeexplore.ieee.org/abstract/document/10667139)
