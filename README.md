@@ -754,6 +754,7 @@ tool</a>
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
+* [(2024) A Survey for Deep Reinforcement Learning Based Network Intrusion Detection](https://arxiv.org/abs/2410.07612)
 * [(2024) The Path to Autonomous Cyber Defense](https://arxiv.org/pdf/2404.10788.pdf)
 * [(2023) A Review of Techniques and Policies on Cybersecurity Using Artificial Intelligence and Reinforcement Learning Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10260699)
 * [(2023) Automated Cyber Defence: A Review](https://arxiv.org/pdf/2303.04926.pdf)
