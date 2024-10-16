@@ -43,6 +43,28 @@ For other related curated lists, see :
 ## [↑](#table-of-contents) Environments
 
 
+### `Cybershield`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/cybershield.png' />
+      </td>
+      <td width='50%'>
+        <a href='https://ieeexplore.ieee.org/document/10710208'>CYBERSHIELD: A Competitive Simulation Environment for Training AI in Cybersecurity</a>
+        <ul>
+          <li>
+CyberShield encompasses a comprehensive environment with multiple computers, each hosting various services with unique vulnerabilities. Within this environment, two opposing agents, defender and attacker, participate in a strategic battle, each equipped with distinct actions aimed at outsmarting the other. CyberShield is optimized for competitive multi-agent training using RL algorithms.
+          </li>
+		  <li>
+		  Paper: <a href="https://ieeexplore.ieee.org/document/10710208">(2024) CYBERSHIELD: A Competitive Simulation Environment for Training AI in Cybersecurity</a><br/>
+		  </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### `Cyberwheel`
 <table>
   <tbody>
