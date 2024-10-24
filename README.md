@@ -798,6 +798,8 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Entity-based Reinforcement Learning for Autonomous Cyber Defence](https://arxiv.org/pdf/2410.17647)
+* [(2024) Hierarchical Multi-agent Reinforcement Learning for Cyber Network Defense](https://arxiv.org/pdf/2410.17351)
 * [(2024) Multi-Agent Actor-Critics in Autonomous Cyber Defense](https://arxiv.org/pdf/2410.09134)
 * [(2024) Penetration Test Path Discovery Based on NHSC-PPO](https://dl.acm.org/doi/10.1145/3650400.3650693)
 * [(2024) Employing Deep Reinforcement Learning to Cyber-Attack Simulation for Enhancing Cybersecurity](https://www.mdpi.com/2079-9292/13/3/555)
