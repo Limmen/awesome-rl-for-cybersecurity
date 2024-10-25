@@ -42,6 +42,28 @@ For other related curated lists, see :
 
 ## [↑](#table-of-contents) Environments
 
+### `Cyborg++`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/cyborgplusplus.png' />
+      </td>
+      <td width='50%'>
+        <a href='https://arxiv.org/pdf/2410.16324v1'>CybORG++: An Enhanced Gym for the Development of Autonomous Cyber Agents</a>
+        <ul>
+          <li>
+CybORG++ is an advanced toolkit for reinforcement learning research focused on network defence. Building on the CAGE 2 CybORG environment, it introduces key improvements, including enhanced debugging capabilities, refined agent implementation support, and a streamlined environment that enables faster training and easier customization. Along with addressing several software bugs from its predecessor, CybORG++ introduces MiniCAGE, a lightweight version of CAGE 2.
+          </li>
+		  <li>
+		  Paper: <a href="https://arxiv.org/pdf/2410.16324v1">(2024) CybORG++: An Enhanced Gym for the Development of Autonomous Cyber Agents</a><br/>
+		  </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### `Cybershield`
 <table>
