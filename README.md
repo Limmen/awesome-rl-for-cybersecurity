@@ -820,6 +820,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Meta Stackelberg Game: Robust Federated Learning against Adaptive and Mixed Poisoning Attacks](https://arxiv.org/pdf/2410.17431)
 * [(2024) Intrusion Tolerance as a Two-Level Game](https://link.springer.com/chapter/10.1007/978-3-031-74835-6_1)
 * [(2024) Entity-based Reinforcement Learning for Autonomous Cyber Defence](https://arxiv.org/pdf/2410.17647)
 * [(2024) Hierarchical Multi-agent Reinforcement Learning for Cyber Network Defense](https://arxiv.org/pdf/2410.17351)
