@@ -165,6 +165,7 @@ PenGym is a framework for creating and managing realistic environments used for 
           </li>
 		  <li>
 		  Paper: <a href="https://ieeexplore.ieee.org/document/9779345">(2022) Intrusion Prevention Through Optimal Stopping</a><br/>
+		  Thesis: <a href="https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1912164&dswid=7946">(2024) Optimal Security Response to Network Intrusions in IT Systems</a><br/>
 		  </li>
         </ul>
       </td>
@@ -1278,6 +1279,7 @@ tool</a>
 * [(2000) Next Generation Intrusion Detection: Autonomous Reinforcement Learning of Network Attacks](https://neuro.bstu.by/ai/To-dom/My_research/Papers-0/For-research/D-mining/Anomaly-D/Intrusion-detection/033.pdf)
 
 ### PhD Theses
+* [(2024) Optimal Security Response to Network Intrusions in IT Systems](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1912164&dswid=7946)
 * [(2023) Detecting Complex Cyber Attacks Using Decoys with Online Reinforcement Learning](https://scholarworks.utep.edu/open_etd/3878/)
 * [(2022) Anomaly Detection in Competitive Multiplayer Games](https://open.bu.edu/handle/2144/45316)
 * [(2022) Secure Automated and Autonomous Systems](https://escholarship.org/content/qt7vt506c3/qt7vt506c3.pdf)
