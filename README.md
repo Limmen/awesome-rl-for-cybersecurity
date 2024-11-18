@@ -821,6 +821,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2024) Advancing the Automation Capability of Verifying Security Protocols](https://ieeexplore.ieee.org/document/10443063)
 * [(2024) Meta Stackelberg Game: Robust Federated Learning against Adaptive and Mixed Poisoning Attacks](https://arxiv.org/pdf/2410.17431)
 * [(2024) Intrusion Tolerance as a Two-Level Game](https://link.springer.com/chapter/10.1007/978-3-031-74835-6_1)
 * [(2024) Entity-based Reinforcement Learning for Autonomous Cyber Defence](https://arxiv.org/pdf/2410.17647)
@@ -1288,6 +1289,7 @@ tool</a>
 
 
 ### Master Theses
+* [(2024) Machine Learning Algorithms Applied to Intrusion Detection Systems](http://hdl.handle.net/11110/2898)
 * [(2024) MetaNet: A Meta Learning Model for Automated Penetration Testing of Networked Systems](https://www.diva-portal.org/smash/get/diva2:1871151/FULLTEXT01.pdf)
 * [(2024) Learning to Communicate in Multi-Agent Reinforcement Learning for Autonomous Cyber Defence](https://espace.rmc-cmr.ca/jspui/bitstream/11264/1843/1/Thesis_Faizan_Learning_to_Communicate.pdf)
 * [(2023) RESONANT: Reinforcement Learning-based Moving Target Defense for Credit Card Fraud Detection](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/4b38d0f3-a6d5-4083-b7c4-9a688e857336/content)
