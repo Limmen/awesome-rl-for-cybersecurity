@@ -817,6 +817,7 @@ tool</a>
 * [(2022) A System for Interactive Examination of Learned Security Policies](https://ieeexplore.ieee.org/document/9789707) [**(VIDEO)**](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 ### Position papers
+* [(2025) The Path to Autonomous Cyberdefense](https://ieeexplore.ieee.org/document/10612251)
 * [(2023) Autonomous Cyber Defence: A roadmap from lab to ops](https://cetas.turing.ac.uk/sites/default/files/2023-06/autonomous_cyber_defence_final_report.pdf)
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
