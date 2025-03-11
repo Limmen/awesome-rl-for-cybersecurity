@@ -822,6 +822,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2025) Less is more? Rewards in RL for Cyber Defence](https://arxiv.org/abs/2503.03245)
 * [(2024) Intrusion Response System for In-Vehicle Networks: Uncertainty-Aware Deep Reinforcement Learning-based Approach](https://ieeexplore.ieee.org/abstract/document/10773966)
 * [(2024) Towards Generalizable Autonomous Penetration Testing via Domain Randomization and Meta-Reinforcement Learning](https://arxiv.org/pdf/2412.04078)
 * [(2024) Inherently Interpretable and Uncertainty-aware Models for Online Learning in Cyber-Security Problems](https://arxiv.org/pdf/2411.09393)
