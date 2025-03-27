@@ -124,6 +124,12 @@ PenGym is a framework for creating and managing realistic environments used for 
           </li>
 		  <li>
 		  Paper: <a href="https://www.jaist.ac.jp/~razvan/publications/pengym_framework_rl_agents.pdf">(2024) PenGym: Pentesting Training Framework for Reinforcement Learning Agents</a><br/>
+      </li>
+      <li>
+      Paper: <a href="https://www.sciencedirect.com/science/article/pii/S0167404824004450">(2025) PenGym: Realistic training environment for reinforcement learning pentesting agents</a><br/>
+      </li>
+      <li>
+      Thesis: <a href="https://dspace.jaist.ac.jp/dspace/bitstream/10119/19357/5/paper.pdf">(2024) Realistic Pentesting Training Framework for Reinforcement Learning Agents</a><br/>
 		  </li>
         </ul>
       </td>
@@ -1290,6 +1296,7 @@ tool</a>
 
 
 ### Master Theses
+* [(2024) Realistic Pentesting Training Framework for Reinforcement Learning Agents](https://dspace.jaist.ac.jp/dspace/bitstream/10119/19357/5/paper.pdf)
 * [(2024) Machine Learning Algorithms Applied to Intrusion Detection Systems](http://hdl.handle.net/11110/2898)
 * [(2024) MetaNet: A Meta Learning Model for Automated Penetration Testing of Networked Systems](https://www.diva-portal.org/smash/get/diva2:1871151/FULLTEXT01.pdf)
 * [(2024) Learning to Communicate in Multi-Agent Reinforcement Learning for Autonomous Cyber Defence](https://espace.rmc-cmr.ca/jspui/bitstream/11264/1843/1/Thesis_Faizan_Learning_to_Communicate.pdf)
