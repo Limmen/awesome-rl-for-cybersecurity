@@ -805,6 +805,7 @@ tool</a>
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
+* [(2025) Autonomous Pentesting Using Reinforcement Learning: A Systematic Literature Review](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5208526)
 * [(2024) A Survey for Deep Reinforcement Learning Based Network Intrusion Detection](https://arxiv.org/abs/2410.07612)
 * [(2024) The Path to Autonomous Cyber Defense](https://arxiv.org/pdf/2404.10788.pdf)
 * [(2023) A Review of Techniques and Policies on Cybersecurity Using Artificial Intelligence and Reinforcement Learning Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10260699)
@@ -828,6 +829,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2025) Comparing Traditional Hacking Tools and AI-Driven Alternatives](https://ieeexplore.ieee.org/abstract/document/11012027/)
 * [(2025) Less is more? Rewards in RL for Cyber Defence](https://arxiv.org/abs/2503.03245)
 * [(2024) Intrusion Response System for In-Vehicle Networks: Uncertainty-Aware Deep Reinforcement Learning-based Approach](https://ieeexplore.ieee.org/abstract/document/10773966)
 * [(2024) Towards Generalizable Autonomous Penetration Testing via Domain Randomization and Meta-Reinforcement Learning](https://arxiv.org/pdf/2412.04078)
