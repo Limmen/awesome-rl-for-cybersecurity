@@ -850,6 +850,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2025) Learning to Communicate in Multi-Agent Reinforcement Learning for Autonomous Cyber Defence](https://arxiv.org/pdf/2507.14658)
 * [(2025) Comparing Traditional Hacking Tools and AI-Driven Alternatives](https://ieeexplore.ieee.org/abstract/document/11012027/)
 * [(2025) Less is more? Rewards in RL for Cyber Defence](https://arxiv.org/abs/2503.03245)
 * [(2024) Intrusion Response System for In-Vehicle Networks: Uncertainty-Aware Deep Reinforcement Learning-based Approach](https://ieeexplore.ieee.org/abstract/document/10773966)
