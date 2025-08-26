@@ -42,12 +42,34 @@ For other related curated lists, see :
 
 ## [↑](#table-of-contents) Environments
 
+### `CyGym`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/cygym.png' />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/Lan131/CyGym'>CyGym: A Simulation-Based Game-Theoretic Analysis Framework for Cybersecurity</a>
+        <ul>
+          <li>
+CyGym is a cybersecurity encounter simulator leveraging the OpenAI Gym framework for game-theoretic reinforcement learning research in network defense. It features realistic network topologies, a broad array of vulnerabilities and exploits including zero-day attacks, and diverse defensive mechanisms. It introduces a PSRO-style equilibrium computation framework for strategic agent interactions, and a novel zero-day exploit modeling approach. Its realism and analytic power are demonstrated via deployment against the Volt Typhoon APT scenario.
+          </li>
+		  <li>
+		  Paper: <a href="https://arxiv.org/pdf/2506.21688">(2025) CyGym: A Simulation-Based Game-Theoretic Analysis Framework for Cybersecurity</a><br/>
+		  </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### `Cyborg++`
 <table>
   <tbody>
     <tr>
       <td width='50%' align='center'>
-        <img src='imgs/cyborgplusplus.png' />
+        <img src='imgs/cy' />
       </td>
       <td width='50%'>
         <a href='https://github.com/alan-turing-institute/CybORG_plus_plus'>CybORG++: An Enhanced Gym for the Development of Autonomous Cyber Agents</a>
@@ -63,7 +85,6 @@ CybORG++ is an advanced toolkit for reinforcement learning research focused on n
     </tr>
   </tbody>
 </table>
-
 
 ### `Cybershield`
 <table>
