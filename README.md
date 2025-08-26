@@ -69,7 +69,7 @@ CyGym is a cybersecurity encounter simulator leveraging the OpenAI Gym framework
   <tbody>
     <tr>
       <td width='50%' align='center'>
-        <img src='imgs/cy' />
+        <img src='imgs/cyborgplusplus.png' />
       </td>
       <td width='50%'>
         <a href='https://github.com/alan-turing-institute/CybORG_plus_plus'>CybORG++: An Enhanced Gym for the Development of Autonomous Cyber Agents</a>
