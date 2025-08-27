@@ -42,6 +42,28 @@ For other related curated lists, see :
 
 ## [↑](#table-of-contents) Environments
 
+### `CyGym`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='imgs/cygym.png' />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/Lan131/CyGym'>CyGym: A Simulation-Based Game-Theoretic Analysis Framework for Cybersecurity</a>
+        <ul>
+          <li>
+CyGym is a cybersecurity encounter simulator leveraging the OpenAI Gym framework for game-theoretic reinforcement learning research in network defense. It features realistic network topologies, a broad array of vulnerabilities and exploits including zero-day attacks, and diverse defensive mechanisms. It introduces a PSRO-style equilibrium computation framework for strategic agent interactions, and a novel zero-day exploit modeling approach. Its realism and analytic power are demonstrated via deployment against the Volt Typhoon APT scenario.
+          </li>
+		  <li>
+		  Paper: <a href="https://arxiv.org/pdf/2506.21688">(2025) CyGym: A Simulation-Based Game-Theoretic Analysis Framework for Cybersecurity</a><br/>
+		  </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### `Cyborg++`
 <table>
   <tbody>
@@ -63,7 +85,6 @@ CybORG++ is an advanced toolkit for reinforcement learning research focused on n
     </tr>
   </tbody>
 </table>
-
 
 ### `Cybershield`
 <table>
@@ -829,6 +850,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2025) Learning to Communicate in Multi-Agent Reinforcement Learning for Autonomous Cyber Defence](https://arxiv.org/pdf/2507.14658)
 * [(2025) Comparing Traditional Hacking Tools and AI-Driven Alternatives](https://ieeexplore.ieee.org/abstract/document/11012027/)
 * [(2025) Less is more? Rewards in RL for Cyber Defence](https://arxiv.org/abs/2503.03245)
 * [(2024) Intrusion Response System for In-Vehicle Networks: Uncertainty-Aware Deep Reinforcement Learning-based Approach](https://ieeexplore.ieee.org/abstract/document/10773966)
