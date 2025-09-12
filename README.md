@@ -823,6 +823,27 @@ tool</a>
   </tbody>
 </table>
 
+### `Continuous CyberBattleSim`
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <a href="https://github.com/terranovafr/C-CyberBattleSim"><img src='imgs/c-cyberbattlesim.png' width=370 /></a>
+      </td>
+      <td width='50%'>
+        <a href=https://github.com/terranovafr/C-CyberBattleSim>C-CyberBattleSim</a>
+        <ul>
+          <li>
+			  An enhanced version of Microsoft CyberBattleSim incorporating an embedding model to support continuous spaces for the RL task through graph neural networks and language models, an extended scenario generation pipeline leveraging Shodan and the NVD, and a unified framework for RL training and evaluation.<br><br> 
+			Paper: <a href="https://hal.science/hal-05182437v1">(2025) Scalable and Generalizable RL Agents for Attack Path Discovery via Continuous Invariant Spaces</a></br>
+			Documentation <a href="https://c-cyberbattlesim.readthedocs.io/en/latest/home.html">Read The Docs</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## [↑](#table-of-contents) Papers
 
 ### Surveys
@@ -850,6 +871,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2025) Scalable and Generalizable RL Agents for Attack Path Discovery via Continuous Invariant Spaces](https://hal.science/hal-05182437v1)
 * [(2025) Learning to Communicate in Multi-Agent Reinforcement Learning for Autonomous Cyber Defence](https://arxiv.org/pdf/2507.14658)
 * [(2025) Comparing Traditional Hacking Tools and AI-Driven Alternatives](https://ieeexplore.ieee.org/abstract/document/11012027/)
 * [(2025) Less is more? Rewards in RL for Cyber Defence](https://arxiv.org/abs/2503.03245)
